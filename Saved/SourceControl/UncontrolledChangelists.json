@@ -1,0 +1,49 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/VRTemplate/Maps/Testing.umap",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/0_RoblesHigon_cleaned_iso_8E_Baked_No_TAA.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/Textures/0_RoblesHigon_cleaned_iso_8ELMG_10.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/Textures/0_RoblesHigon_cleaned_iso_8ELMG_20.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/Textures/0_RoblesHigon_cleaned_iso_8ELMG_30.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/Textures/0_RoblesHigon_cleaned_iso_8ELMG_40.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/Textures/0_RoblesHigon_cleaned_iso_8ELMG_11.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/Textures/0_RoblesHigon_cleaned_iso_8ELMG_21.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/Textures/0_RoblesHigon_cleaned_iso_8ELMG_31.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/Textures/0_RoblesHigon_cleaned_iso_8ELMG_41.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/Textures/0_RoblesHigon_cleaned_iso_8ELMG_12.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/Textures/0_RoblesHigon_cleaned_iso_8ELMG_22.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/Textures/0_RoblesHigon_cleaned_iso_8ELMG_32.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/Textures/0_RoblesHigon_cleaned_iso_8ELMG_42.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/Textures/0_RoblesHigon_cleaned_iso_8ELMG_13.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/Textures/0_RoblesHigon_cleaned_iso_8ELMG_23.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/Textures/0_RoblesHigon_cleaned_iso_8ELMG_33.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/Textures/0_RoblesHigon_cleaned_iso_8ELMG_43.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/Textures/0_RoblesHigon_cleaned_iso_8ELMG_16.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/Textures/0_RoblesHigon_cleaned_iso_8ELMG_26.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/Textures/0_RoblesHigon_cleaned_iso_8ELMG_36.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/Textures/0_RoblesHigon_cleaned_iso_8ELMG_46.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/Textures/0_RoblesHigon_cleaned_iso_8ELMG_17.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/Textures/0_RoblesHigon_cleaned_iso_8ELMG_27.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/Textures/0_RoblesHigon_cleaned_iso_8ELMG_37.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/Textures/0_RoblesHigon_cleaned_iso_8ELMG_47.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/Textures/0_RoblesHigon_cleaned_iso_8ELMG_18.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/Textures/0_RoblesHigon_cleaned_iso_8ELMG_28.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/Textures/0_RoblesHigon_cleaned_iso_8ELMG_38.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/Textures/0_RoblesHigon_cleaned_iso_8ELMG_48.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/Textures/0_RoblesHigon_cleaned_iso_8ELMG_118.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/Textures/0_RoblesHigon_cleaned_iso_8ELMG_218.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/Textures/0_RoblesHigon_cleaned_iso_8ELMG_318.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/Textures/0_RoblesHigon_cleaned_iso_8ELMG_418.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/0_RoblesHigon_cleaned_iso_8E_Dynamic.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/0_RoblesHigon_cleaned_iso_8E_Dynamic_No_TAA.uasset",
+				"C:/Users/msi leopard/Documents/Unreal Projects/SinfoniaBiotica/Content/Splats/Luma_0_RoblesHigon_cleaned_iso_8E/0_RoblesHigon_cleaned_iso_8E_Baked.uasset"
+			]
+		}
+	]
+}

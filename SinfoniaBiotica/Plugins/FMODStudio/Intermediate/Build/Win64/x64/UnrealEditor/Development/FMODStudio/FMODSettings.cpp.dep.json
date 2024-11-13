@@ -1,0 +1,27 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\aaa_pedro\\002_freelancejobs\\20240709_fer_sinfoniabiotica\\project\\aa_sinfoniabiotica\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\source\\fmodstudio\\private\\fmodsettings.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\aaa_pedro\\002_freelancejobs\\20240709_fer_sinfoniabiotica\\project\\aa_sinfoniabiotica\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fmodstudio\\pch.fmodstudio.h.pch",
+        "Includes": [
+            "c:\\aaa_pedro\\002_freelancejobs\\20240709_fer_sinfoniabiotica\\project\\aa_sinfoniabiotica\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodsettings.h",
+            "c:\\aaa_pedro\\002_freelancejobs\\20240709_fer_sinfoniabiotica\\project\\aa_sinfoniabiotica\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\source\\fmodstudio\\public\\fmod\\fmod_common.h",
+            "c:\\aaa_pedro\\002_freelancejobs\\20240709_fer_sinfoniabiotica\\project\\aa_sinfoniabiotica\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\source\\fmodstudio\\public\\fmod\\fmod_codec.h",
+            "c:\\aaa_pedro\\002_freelancejobs\\20240709_fer_sinfoniabiotica\\project\\aa_sinfoniabiotica\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\source\\fmodstudio\\public\\fmod\\fmod_dsp.h",
+            "c:\\aaa_pedro\\002_freelancejobs\\20240709_fer_sinfoniabiotica\\project\\aa_sinfoniabiotica\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\source\\fmodstudio\\public\\fmod\\fmod_dsp_effects.h",
+            "c:\\aaa_pedro\\002_freelancejobs\\20240709_fer_sinfoniabiotica\\project\\aa_sinfoniabiotica\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\source\\fmodstudio\\public\\fmod\\fmod_output.h",
+            "c:\\aaa_pedro\\002_freelancejobs\\20240709_fer_sinfoniabiotica\\project\\aa_sinfoniabiotica\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\uht\\fmodsettings.generated.h",
+            "c:\\aaa_pedro\\unrealengine\\ue_5.3\\engine\\source\\runtime\\core\\public\\misc\\paths.h",
+            "c:\\aaa_pedro\\unrealengine\\ue_5.3\\engine\\source\\developer\\developertoolsettings\\classes\\settings\\projectpackagingsettings.h",
+            "c:\\aaa_pedro\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\developertoolsettings\\uht\\projectpackagingsettings.generated.h",
+            "c:\\aaa_pedro\\unrealengine\\ue_5.3\\engine\\source\\editor\\unrealed\\public\\objecttools.h",
+            "c:\\aaa_pedro\\unrealengine\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\gcobject.h",
+            "c:\\aaa_pedro\\unrealengine\\ue_5.3\\engine\\source\\developer\\collectionmanager\\public\\collectionmanagertypes.h",
+            "c:\\aaa_pedro\\unrealengine\\ue_5.3\\engine\\source\\developer\\sourcecontrol\\public\\isourcecontrolstate.h",
+            "c:\\aaa_pedro\\unrealengine\\ue_5.3\\engine\\source\\runtime\\slatecore\\public\\textures\\slateicon.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

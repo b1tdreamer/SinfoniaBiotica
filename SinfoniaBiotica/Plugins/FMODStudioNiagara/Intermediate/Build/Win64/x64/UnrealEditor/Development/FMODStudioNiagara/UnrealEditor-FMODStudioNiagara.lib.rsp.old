@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FMODStudioNiagara.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\AAA_PEDRO\002_FreelanceJobs\20240709_Fer_SinfoniaBiotica\Project\AA_SinfoniaBiotica\SinfoniaBiotica\SinfoniaBiotica\Intermediate\Build\Win64\x64\SinfoniaBioticaEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\AAA_PEDRO\002_FreelanceJobs\20240709_Fer_SinfoniaBiotica\Project\AA_SinfoniaBiotica\SinfoniaBiotica\SinfoniaBiotica\Plugins\FMODStudioNiagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\FMODStudioNiagara\Module.FMODStudioNiagara.cpp.obj"
+"C:\AAA_PEDRO\002_FreelanceJobs\20240709_Fer_SinfoniaBiotica\Project\AA_SinfoniaBiotica\SinfoniaBiotica\SinfoniaBiotica\Plugins\FMODStudioNiagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\FMODStudioNiagara\Default.rc2.res"
+/OUT:"C:\AAA_PEDRO\002_FreelanceJobs\20240709_Fer_SinfoniaBiotica\Project\AA_SinfoniaBiotica\SinfoniaBiotica\SinfoniaBiotica\Plugins\FMODStudioNiagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\FMODStudioNiagara\UnrealEditor-FMODStudioNiagara.lib"

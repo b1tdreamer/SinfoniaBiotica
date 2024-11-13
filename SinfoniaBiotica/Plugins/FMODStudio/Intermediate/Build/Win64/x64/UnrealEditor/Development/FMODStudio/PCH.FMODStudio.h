@@ -1,0 +1,3 @@
+// PCH for C:/AAA_PEDRO/002_FreelanceJobs/20240709_Fer_SinfoniaBiotica/Project/AA_SinfoniaBiotica/SinfoniaBiotica/SinfoniaBiotica/Plugins/FMODStudio/Source/FMODStudio/Private/FMODStudioPrivatePCH.h
+#include "C:/AAA_PEDRO/002_FreelanceJobs/20240709_Fer_SinfoniaBiotica/Project/AA_SinfoniaBiotica/SinfoniaBiotica/SinfoniaBiotica/Plugins/FMODStudio/Intermediate/Build/Win64/x64/UnrealEditor/Development/FMODStudio/Definitions.h"
+#include "C:/AAA_PEDRO/002_FreelanceJobs/20240709_Fer_SinfoniaBiotica/Project/AA_SinfoniaBiotica/SinfoniaBiotica/SinfoniaBiotica/Plugins/FMODStudio/Source/FMODStudio/Private/FMODStudioPrivatePCH.h"

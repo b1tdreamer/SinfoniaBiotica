@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{2491aacd-2b1f-4eac-9819-018608c42ab4}">
+		<property name="name">
+			<value>TREMOLO_LH_X</value>
+		</property>
+		<relationship name="folder">
+			<destination>{a733e370-da31-4bc6-9324-9d566f47d208}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{4c529739-d5ae-42af-9bfd-ca041a902602}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{4c529739-d5ae-42af-9bfd-ca041a902602}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

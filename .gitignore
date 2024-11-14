@@ -70,6 +70,16 @@ SinfoniaBiotica/Saved/
 Compiled source files for the engine to use
 SinfoniaBiotica/Intermediate/*
 SinfoniaBiotica/Plugins//Intermediate/
+SinfoniaBiotica/Plugins//Docs/
+SinfoniaBiotica/Plugins//Resources/
 
 SinfoniaBiotica/Content/SplatsIngore
 SinfoniaBiotica/Content/SplatsIgnored
+
+SinfoniaBiotica/Content/FMOD/Banks
+SinfoniaBiotica/Content/FMOD/Buses
+SinfoniaBiotica/Content/FMOD/Events
+SinfoniaBiotica/Content/FMOD/PrivateIntegatrionData
+
+
+

@@ -5,7 +5,7 @@
 			<value>VST1</value>
 		</property>
 		<property name="outputFormat">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{f7651c6f-470d-4356-b251-ac4e78dd36cd}</destination>

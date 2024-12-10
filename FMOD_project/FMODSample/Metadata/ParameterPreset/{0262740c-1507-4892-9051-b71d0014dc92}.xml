@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="ParameterPreset" id="{0262740c-1507-4892-9051-b71d0014dc92}">
 		<property name="name">
-			<value>Sutain</value>
+			<value>Sustain</value>
 		</property>
 		<relationship name="folder">
 			<destination>{a27b17bb-3fd2-4b57-b1d4-e67b1889f94c}</destination>
@@ -19,14 +19,14 @@
 			<value>2</value>
 		</property>
 		<property name="enumerationLabels">
-			<value>ON</value>
 			<value>OFF</value>
+			<value>ON</value>
 		</property>
 		<property name="isGlobal">
 			<value>true</value>
 		</property>
 		<property name="initialValue">
-			<value>1</value>
+			<value>0</value>
 		</property>
 		<property name="isExposedRecursively">
 			<value>false</value>

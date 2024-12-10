@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{57066e2e-134c-48bd-9d66-4a0dc65dc140}">
 		<property name="assetPath">
-			<value>corteza_acariciando.wav</value>
+			<value>MISC/corteza_acariciando.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

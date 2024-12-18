@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="EncodableAsset" id="{c8011564-84a7-4776-a913-d7f4f8f0d4fd}">
 		<property name="assetPath">
-			<value>VST/1/ASR Envelope/Texture_1/</value>
+			<value>VST/1/Octave2/ASR Envelope/Texture_1/</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{adfc6319-1cf1-4faa-ba1e-4d2c0dda1d97}</destination>

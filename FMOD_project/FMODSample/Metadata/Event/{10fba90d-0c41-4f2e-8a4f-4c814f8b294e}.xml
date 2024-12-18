@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{10fba90d-0c41-4f2e-8a4f-4c814f8b294e}">
 		<property name="name">
-			<value>VST1_Pentatonic_sustain</value>
+			<value>VST1_Pentatonic_sustain_scale</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

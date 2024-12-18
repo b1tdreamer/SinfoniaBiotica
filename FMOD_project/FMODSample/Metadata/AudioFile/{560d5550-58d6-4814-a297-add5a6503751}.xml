@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{560d5550-58d6-4814-a297-add5a6503751}">
 		<property name="assetPath">
-			<value>VST/1/ASR Envelope/Organic/VST1_Organic_08.wav</value>
+			<value>VST/1/Octave2/ASR Envelope/Organic/VST1_Organic_08.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

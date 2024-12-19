@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{2f383eb5-f4c2-4527-8137-bf4a738b2fdc}">
+		<property name="name">
+			<value>FILTER_RH_Y</value>
+		</property>
+		<relationship name="folder">
+			<destination>{579304c1-c76e-43b4-bc73-0c3ba0f1474e}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{b7f6e4db-6756-4008-a54d-780f57e7c55e}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{b7f6e4db-6756-4008-a54d-780f57e7c55e}">
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+	</object>
+</objects>

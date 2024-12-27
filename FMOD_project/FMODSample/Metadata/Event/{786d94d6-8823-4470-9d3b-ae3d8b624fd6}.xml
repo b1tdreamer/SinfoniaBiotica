@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{786d94d6-8823-4470-9d3b-ae3d8b624fd6}">
 		<property name="name">
-			<value>Soundscape_2D</value>
+			<value>Soundscape_3D</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
@@ -181,6 +181,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{f23deab4-423d-4e21-9c35-eda458df1f1d}">
+		<property name="volume">
+			<value>-80</value>
+		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>

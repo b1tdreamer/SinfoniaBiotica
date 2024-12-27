@@ -643,10 +643,10 @@
 	<object class="MixerBusPanner" id="{4c3ccd80-6301-4d47-9348-f6ec12f41d89}" />
 	<object class="ParameterCondition" id="{991767bb-59cf-4764-98ba-1b0d8ca389c5}">
 		<property name="minimum">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<property name="maximum">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="parameter">
 			<destination>{7ff4578e-9176-48e2-be82-7bf54d2c4820}</destination>

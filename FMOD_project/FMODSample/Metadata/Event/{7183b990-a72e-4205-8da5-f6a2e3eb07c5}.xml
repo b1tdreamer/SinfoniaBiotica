@@ -305,6 +305,9 @@
 		</property>
 	</object>
 	<object class="EventMixerGroup" id="{0d3f98ff-2f38-45fd-b942-08c759b75d2b}">
+		<property name="volume">
+			<value>0.5</value>
+		</property>
 		<property name="name">
 			<value>Melodies</value>
 		</property>
@@ -363,7 +366,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{4b54a619-3aea-479a-81f5-27c09a777f20}">
 		<property name="volume">
-			<value>-2.5</value>
+			<value>-1</value>
 		</property>
 		<property name="name">
 			<value>Pad</value>
@@ -440,7 +443,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{5da20712-3350-4455-8f74-e0b6672df5a3}">
 		<property name="volume">
-			<value>1.5</value>
+			<value>2.5</value>
 		</property>
 		<property name="name">
 			<value>Bass</value>

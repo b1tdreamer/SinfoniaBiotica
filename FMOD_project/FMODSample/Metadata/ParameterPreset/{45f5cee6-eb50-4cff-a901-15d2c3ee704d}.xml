@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="ParameterPreset" id="{43ad3fcf-eb30-4e9f-a0c4-2687fd12082f}">
+	<object class="ParameterPreset" id="{45f5cee6-eb50-4cff-a901-15d2c3ee704d}">
 		<property name="name">
-			<value>SCALE_RH_Y</value>
+			<value>DELAY_LH_X</value>
 		</property>
 		<relationship name="folder">
-			<destination>{a27b17bb-3fd2-4b57-b1d4-e67b1889f94c}</destination>
+			<destination>{a733e370-da31-4bc6-9324-9d566f47d208}</destination>
 		</relationship>
 		<relationship name="parameter">
-			<destination>{2d9093f9-37c0-41ee-8c85-8bb8a0f87aef}</destination>
+			<destination>{aedd5576-67a0-49f0-80fd-47b7a7555c48}</destination>
 		</relationship>
 	</object>
-	<object class="GameParameter" id="{2d9093f9-37c0-41ee-8c85-8bb8a0f87aef}">
+	<object class="GameParameter" id="{aedd5576-67a0-49f0-80fd-47b7a7555c48}">
 		<property name="initialValue">
 			<value>0</value>
 		</property>

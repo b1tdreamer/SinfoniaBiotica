@@ -130,6 +130,9 @@
 		<property name="length">
 			<value>144.16280110899831</value>
 		</property>
+		<property name="maxVoices">
+			<value>3</value>
+		</property>
 		<property name="looping">
 			<value>true</value>
 		</property>
@@ -148,6 +151,10 @@
 			<destination>{16802576-c2a6-454e-b012-0d703964291a}</destination>
 			<destination>{bcc6a2b8-0b22-4f2b-a23c-5bfb743d12f2}</destination>
 			<destination>{ae5eace3-198a-4bca-89e4-5d8405df1c22}</destination>
+		</relationship>
+		<relationship name="playPercentages">
+			<destination>{9accdea0-867b-4fba-8525-8e1da88bb102}</destination>
+			<destination>{b81cdd46-3f02-4228-9124-1d0b60c16cd7}</destination>
 		</relationship>
 	</object>
 	<object class="TransitionSourceSound" id="{afbfec03-2c4e-44c6-9d74-bc073bcabb4b}">
@@ -185,7 +192,7 @@
 			<value>0</value>
 		</property>
 		<property name="length">
-			<value>54.615078278415865</value>
+			<value>44.862888791630695</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{ad75d6e0-b93c-4028-8870-cec90ff2165b}</destination>
@@ -266,6 +273,9 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{16802576-c2a6-454e-b012-0d703964291a}">
+		<property name="volume">
+			<value>-1</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{2cea335e-e1b6-4dc2-8f0f-3f3bf443c220}</destination>
 		</relationship>
@@ -276,8 +286,27 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{ae5eace3-198a-4bca-89e4-5d8405df1c22}">
+		<property name="volume">
+			<value>-6</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{657697a7-e923-4ef2-9eb5-40c4ed31286c}</destination>
+		</relationship>
+	</object>
+	<object class="PlayPercentage" id="{9accdea0-867b-4fba-8525-8e1da88bb102}">
+		<property name="percentage">
+			<value>15</value>
+		</property>
+		<relationship name="sound">
+			<destination>{21ab8894-0f25-4702-99a1-4967a3ad7f8b}</destination>
+		</relationship>
+	</object>
+	<object class="PlayPercentage" id="{b81cdd46-3f02-4228-9124-1d0b60c16cd7}">
+		<property name="percentage">
+			<value>15</value>
+		</property>
+		<relationship name="sound">
+			<destination>{1f199e6a-acda-464f-8998-a6a08070ea6c}</destination>
 		</relationship>
 	</object>
 	<object class="TransitionSourceFadeOutCurve" id="{de7da5e3-4d57-4139-8595-f17525257c3f}">
@@ -347,7 +376,7 @@
 	</object>
 	<object class="AutomationPoint" id="{bbaeb7e4-57f5-42b0-a472-aad78fa8450f}">
 		<property name="position">
-			<value>13.525982877291248</value>
+			<value>34.309991782278544</value>
 		</property>
 		<property name="value">
 			<value>1</value>
@@ -355,7 +384,7 @@
 	</object>
 	<object class="AutomationPoint" id="{b7b8cbce-7cb3-42e9-8e5e-dac83bbfdd9a}">
 		<property name="position">
-			<value>107.51175073182203</value>
+			<value>93.807492815016914</value>
 		</property>
 		<property name="value">
 			<value>1</value>

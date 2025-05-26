@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\aaa_pedro\\002_freelancejobs\\20240709_fer_sinfoniabiotica\\project\\aa_sinfoniabiotica\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealgame\\inc\\fmodstudio\\uht\\fmodaudiolinksettings.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\aaa_pedro\\002_freelancejobs\\20240709_fer_sinfoniabiotica\\project\\aa_sinfoniabiotica\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\fmodstudio\\pch.fmodstudio.h.pch",
+        "Includes": [
+            "c:\\aaa_pedro\\unrealengine\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\generatedcppincludes.h",
+            "c:\\aaa_pedro\\unrealengine\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\metadata.h",
+            "c:\\aaa_pedro\\unrealengine\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\textproperty.h",
+            "c:\\aaa_pedro\\002_freelancejobs\\20240709_fer_sinfoniabiotica\\project\\aa_sinfoniabiotica\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\source\\fmodaudiolink\\public\\fmodaudiolinksettings.h",
+            "c:\\aaa_pedro\\unrealengine\\ue_5.3\\engine\\source\\runtime\\audiolink\\audiolinkcore\\public\\audiolinksettingsabstract.h",
+            "c:\\aaa_pedro\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\audiolinkcore\\uht\\audiolinksettingsabstract.generated.h",
+            "c:\\aaa_pedro\\unrealengine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\streamablemanager.h",
+            "c:\\aaa_pedro\\unrealengine\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\gcobject.h",
+            "c:\\aaa_pedro\\002_freelancejobs\\20240709_fer_sinfoniabiotica\\project\\aa_sinfoniabiotica\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealgame\\inc\\fmodstudio\\uht\\fmodaudiolinksettings.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

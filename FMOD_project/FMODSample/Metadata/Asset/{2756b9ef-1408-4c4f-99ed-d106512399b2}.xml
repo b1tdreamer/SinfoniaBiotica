@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{2756b9ef-1408-4c4f-99ed-d106512399b2}">
+		<property name="assetPath">
+			<value>VST/2/Octave 1/Notes/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{adfc6319-1cf1-4faa-ba1e-4d2c0dda1d97}</destination>
+		</relationship>
+	</object>
+</objects>

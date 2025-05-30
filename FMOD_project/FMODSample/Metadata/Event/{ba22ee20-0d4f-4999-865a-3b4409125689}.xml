@@ -384,9 +384,6 @@
 		<property name="triggerProbabilityEnabled">
 			<value>true</value>
 		</property>
-		<property name="triggerProbability">
-			<value>50.5</value>
-		</property>
 		<relationship name="timeline">
 			<destination>{8c300f0e-9658-48dc-9d3e-4a6a772d9e05}</destination>
 		</relationship>

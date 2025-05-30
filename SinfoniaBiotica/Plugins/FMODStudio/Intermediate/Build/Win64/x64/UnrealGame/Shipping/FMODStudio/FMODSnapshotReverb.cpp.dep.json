@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\aaa_pedro\\002_freelancejobs\\20240709_fer_sinfoniabiotica\\project\\aa_sinfoniabiotica\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\source\\fmodstudio\\private\\fmodsnapshotreverb.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\aaa_pedro\\002_freelancejobs\\20240709_fer_sinfoniabiotica\\project\\aa_sinfoniabiotica\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\fmodstudio\\pch.fmodstudio.h.pch",
+        "Includes": [
+            "c:\\aaa_pedro\\002_freelancejobs\\20240709_fer_sinfoniabiotica\\project\\aa_sinfoniabiotica\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodsnapshotreverb.h",
+            "c:\\aaa_pedro\\002_freelancejobs\\20240709_fer_sinfoniabiotica\\project\\aa_sinfoniabiotica\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodasset.h",
+            "c:\\aaa_pedro\\002_freelancejobs\\20240709_fer_sinfoniabiotica\\project\\aa_sinfoniabiotica\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealgame\\inc\\fmodstudio\\uht\\fmodasset.generated.h",
+            "c:\\aaa_pedro\\unrealengine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\sound\\reverbeffect.h",
+            "c:\\aaa_pedro\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\reverbeffect.generated.h",
+            "c:\\aaa_pedro\\002_freelancejobs\\20240709_fer_sinfoniabiotica\\project\\aa_sinfoniabiotica\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealgame\\inc\\fmodstudio\\uht\\fmodsnapshotreverb.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

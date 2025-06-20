@@ -258,7 +258,7 @@
 			<value>true</value>
 		</property>
 		<property name="triggerProbability">
-			<value>43.5</value>
+			<value>61</value>
 		</property>
 		<property name="isAsync">
 			<value>true</value>
@@ -288,7 +288,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{b50d6a8b-4120-49a2-8070-f6bca8022eb2}">
 		<property name="volume">
-			<value>-4.5</value>
+			<value>-5</value>
 		</property>
 		<property name="name">
 			<value>Birds</value>
@@ -591,26 +591,41 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{0935cfdb-73d2-43f1-a551-4009f210a118}">
+		<property name="volume">
+			<value>-4</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{f507648c-ac48-4322-9558-6c8215234042}</destination>
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{849e7081-74f8-4c74-8c58-466649405a0f}">
+		<property name="volume">
+			<value>-2.5</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{903d7b0a-536b-4514-8844-3d6f1c95f782}</destination>
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{047d3043-0d9f-4303-ada3-083ed1a38213}">
+		<property name="volume">
+			<value>1</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{d731ffc4-9c07-47ea-b354-aebb6af5f709}</destination>
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{6b616d71-fd9d-4e68-ab5f-a14f07669341}">
+		<property name="volume">
+			<value>1.5</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{224f03c8-b178-48ef-99cf-3199336fe9b8}</destination>
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{dc8e714e-5405-41ac-8d21-f696ab0b44a4}">
+		<property name="volume">
+			<value>1</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{256404b9-90aa-44f1-8cb4-10cc04c60587}</destination>
 		</relationship>
@@ -626,6 +641,9 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{0849498e-c3ed-4260-9f03-ffe1c97e9af8}">
+		<property name="volume">
+			<value>-1.5</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{d76529df-3a77-43ce-bf0f-cabe038768b2}</destination>
 		</relationship>

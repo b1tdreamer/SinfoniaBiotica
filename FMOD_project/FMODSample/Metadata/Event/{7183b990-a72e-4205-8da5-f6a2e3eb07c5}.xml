@@ -5,7 +5,7 @@
 			<value>Music_Tree1__LP</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{adae2228-7bdf-47e9-9cce-a54cd721058d}</destination>
@@ -76,7 +76,14 @@
 			<destination>{8c5cbed3-d2d3-4619-9ad8-7a7cf5e7f2ba}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{5a810875-dd61-4205-8744-04b624917b55}" />
+	<object class="EventAutomatableProperties" id="{5a810875-dd61-4205-8744-04b624917b55}">
+		<property name="minimumDistance">
+			<value>5</value>
+		</property>
+		<property name="maximumDistance">
+			<value>50</value>
+		</property>
+	</object>
 	<object class="MarkerTrack" id="{ba62cb29-00ba-4512-8de4-7a4ade3e4f53}" />
 	<object class="MarkerTrack" id="{35b413ec-da38-498c-9bc0-30b463f2fd9a}" />
 	<object class="MarkerTrack" id="{c277de9f-f9f4-4cb8-8d79-c049d80a706f}" />
@@ -811,6 +818,7 @@
 		<relationship name="effects">
 			<destination>{6c62abc4-80db-46ef-b0b2-e0e110d6a6ed}</destination>
 			<destination>{4332974f-00e1-4ca4-bb3c-02a11707cec0}</destination>
+			<destination>{8093ca0c-bb1e-4efc-aad2-dc76f5fe6cee}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{039abb44-3d82-42b5-917a-30a4805bc667}" />
@@ -1277,6 +1285,7 @@
 			<destination>{aa21bfb4-b1b4-49d0-923c-2d0864a315ab}</destination>
 		</relationship>
 	</object>
+	<object class="SpatialiserEffect" id="{8093ca0c-bb1e-4efc-aad2-dc76f5fe6cee}" />
 	<object class="AutomationPoint" id="{3c5937ad-96aa-47dd-a75b-d4fbb0392ac0}">
 		<property name="position">
 			<value>0</value>

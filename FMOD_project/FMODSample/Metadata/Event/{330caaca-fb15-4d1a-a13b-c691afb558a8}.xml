@@ -265,7 +265,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{13de84fe-c74a-44ed-89e1-460c085eaee4}">
 		<property name="volume">
-			<value>2</value>
+			<value>9.5</value>
 		</property>
 		<property name="name">
 			<value>Audio 1</value>
@@ -357,7 +357,7 @@
 	<object class="MixerBusFader" id="{fe74b60b-ae2c-4031-8cb8-360915824a5b}" />
 	<object class="TremoloEffect" id="{d69e88c5-27fd-4d96-93da-e0948d7ac449}">
 		<property name="depth">
-			<value>0.669999957</value>
+			<value>0.639999986</value>
 		</property>
 		<property name="shape">
 			<value>0.579999983</value>

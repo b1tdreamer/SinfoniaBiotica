@@ -440,6 +440,7 @@
 	</object>
 	<object class="MixerBusEffectChain" id="{8d1be21c-6c2a-4613-aa4c-617f772baf37}">
 		<relationship name="effects">
+			<destination>{21d3a5ca-ed6e-4240-9c01-28bcdc41e938}</destination>
 			<destination>{03677ba6-fc3d-4117-917f-5d7fe943240b}</destination>
 			<destination>{a9965315-ba49-4d9e-b2b5-cdd2705c7c77}</destination>
 			<destination>{d37d3316-dae9-4875-aaab-47df1123f5e7}</destination>
@@ -672,6 +673,14 @@
 			<destination>{e6e5efac-97b5-4247-a235-4b95d13fc2d9}</destination>
 			<destination>{dc44e01d-a669-4b50-b88a-41fd18de8174}</destination>
 		</relationship>
+	</object>
+	<object class="CompressorEffect" id="{21d3a5ca-ed6e-4240-9c01-28bcdc41e938}">
+		<property name="threshold">
+			<value>-19.5</value>
+		</property>
+		<property name="ratio">
+			<value>3.4000001</value>
+		</property>
 	</object>
 	<object class="MixerBusFader" id="{03677ba6-fc3d-4117-917f-5d7fe943240b}" />
 	<object class="MultibandEqEffect" id="{a9965315-ba49-4d9e-b2b5-cdd2705c7c77}">

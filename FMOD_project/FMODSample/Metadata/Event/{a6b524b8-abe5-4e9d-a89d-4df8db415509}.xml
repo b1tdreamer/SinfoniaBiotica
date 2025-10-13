@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{a6b524b8-abe5-4e9d-a89d-4df8db415509}">
 		<property name="note">
 			<value>Cuál es el val mínimo? 0 es más cerca de la esfera? XD</value>
@@ -321,12 +321,12 @@
 			<value>5</value>
 		</property>
 		<relationship name="modules">
-			<destination>{113e705d-9631-4a6c-a971-8902d5f7bca6}</destination>
-			<destination>{e81ac13f-9020-4673-8246-5233d011bd60}</destination>
-			<destination>{eafcae9a-26db-45b7-9130-71ba74aea653}</destination>
 			<destination>{95477244-55cb-47c3-b87e-ba625dade3c0}</destination>
-			<destination>{b3ab7e67-b4d4-4813-805c-b096403cfefe}</destination>
+			<destination>{eafcae9a-26db-45b7-9130-71ba74aea653}</destination>
 			<destination>{db813589-ccf3-4e05-91ed-fc4711a5ee9b}</destination>
+			<destination>{b3ab7e67-b4d4-4813-805c-b096403cfefe}</destination>
+			<destination>{e81ac13f-9020-4673-8246-5233d011bd60}</destination>
+			<destination>{113e705d-9631-4a6c-a971-8902d5f7bca6}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{b289ab15-3d8f-4770-84c4-23921f96a410}" />
@@ -463,10 +463,18 @@
 			<destination>{44dc8c38-bfd5-49be-bb76-afb50652b3be}</destination>
 		</relationship>
 		<relationship name="automationPoints">
+			<destination>{507dcb41-45fd-4018-92df-6ea9721d0388}</destination>
 			<destination>{37d37a13-83d2-4fd9-bc31-22e158620e64}</destination>
 			<destination>{c045ffef-22f7-4727-8cd2-9222a9e18f42}</destination>
-			<destination>{507dcb41-45fd-4018-92df-6ea9721d0388}</destination>
 		</relationship>
+	</object>
+	<object class="AutomationPoint" id="{507dcb41-45fd-4018-92df-6ea9721d0388}">
+		<property name="position">
+			<value>6.5</value>
+		</property>
+		<property name="value">
+			<value>22000</value>
+		</property>
 	</object>
 	<object class="AutomationPoint" id="{37d37a13-83d2-4fd9-bc31-22e158620e64}">
 		<property name="position">
@@ -482,14 +490,6 @@
 	<object class="AutomationPoint" id="{c045ffef-22f7-4727-8cd2-9222a9e18f42}">
 		<property name="position">
 			<value>10</value>
-		</property>
-		<property name="value">
-			<value>22000</value>
-		</property>
-	</object>
-	<object class="AutomationPoint" id="{507dcb41-45fd-4018-92df-6ea9721d0388}">
-		<property name="position">
-			<value>6.5</value>
 		</property>
 		<property name="value">
 			<value>22000</value>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{3ed3b27f-eb0e-4586-8deb-83cf6bf5f77f}">
 		<property name="assetPath">
 			<value>VST/2/Octave 2/Texture_4/VST2_TEXTURE_4_Octave2_04.wav</value>

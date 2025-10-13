@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{9ea46432-0705-4ccb-8f0d-2dc97f7d84a9}">
 		<property name="assetPath">
 			<value>MX/Tree1/Intro_Voice_02.wav</value>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="EventFolder" id="{4dd73971-7ebd-498e-b804-2446b4422090}">
 		<property name="name">
 			<value>Musician Mode</value>

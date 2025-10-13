@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{7e4f9f31-74fc-4805-a049-8bc592985533}">
 		<property name="assetPath">
 			<value>AMB_LP/Scattered/AMB_Soundscape1_Scene1_Dry_Wood_03.wav</value>

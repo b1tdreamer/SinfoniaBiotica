@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="EncodableAsset" id="{9bc958a5-de40-4879-a0b9-aa57c802f15c}">
 		<property name="assetPath">
 			<value>AMB_LP/Scene2/</value>

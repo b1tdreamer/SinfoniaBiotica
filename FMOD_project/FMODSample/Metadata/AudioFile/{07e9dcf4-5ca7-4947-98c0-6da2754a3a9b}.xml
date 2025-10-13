@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{07e9dcf4-5ca7-4947-98c0-6da2754a3a9b}">
 		<property name="assetPath">
 			<value>MX/Tree1/Melodies_MIDI_data.wav</value>

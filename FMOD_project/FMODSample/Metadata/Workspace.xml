@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Workspace" id="{c2a22d4c-28b2-453c-a2d1-a79620d71b45}">
 		<property name="builtBanksOutputDirectory">
 			<value>../../SinfoniaBiotica/Content/FMOD</value>
 		</property>
-		<property name="builtBanksEncryptionKey" />
 		<relationship name="masterEventFolder">
 			<destination>{2d265e59-eb6d-4a7c-b86b-49adc06f74a0}</destination>
 		</relationship>

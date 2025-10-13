@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{330caaca-fb15-4d1a-a13b-c691afb558a8}">
 		<property name="name">
 			<value>VST1_Pentatonic_sustain_melody</value>
@@ -74,6 +74,7 @@
 	<object class="MarkerTrack" id="{8e666b1b-301f-4fc3-a2ae-6136a8995374}" />
 	<object class="GroupTrack" id="{ff6990af-57a2-4065-9574-fcb10e2e7094}">
 		<relationship name="modules">
+			<destination>{17467df2-5b59-4e0b-bae4-a68b3ddc0c1d}</destination>
 			<destination>{780208f4-085b-43b9-bfa5-d6e7fd75aa9c}</destination>
 			<destination>{c3c4d9da-1093-4c54-8230-b4cb0c0e3fa4}</destination>
 			<destination>{38ba9073-c408-45db-8367-476b24e2de15}</destination>
@@ -83,7 +84,6 @@
 			<destination>{42df7cac-4218-4b05-b859-e35362470080}</destination>
 			<destination>{2c546620-8bf7-4c29-ab83-c6d3338b7be1}</destination>
 			<destination>{32d21699-479c-43dc-910d-4a5b7bf3949d}</destination>
-			<destination>{17467df2-5b59-4e0b-bae4-a68b3ddc0c1d}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{13de84fe-c74a-44ed-89e1-460c085eaee4}</destination>
@@ -101,16 +101,16 @@
 	</object>
 	<object class="ParameterProxy" id="{b2716231-d366-4641-bd77-c30f59d214c0}">
 		<relationship name="modules">
+			<destination>{17467df2-5b59-4e0b-bae4-a68b3ddc0c1d}</destination>
 			<destination>{c3c4d9da-1093-4c54-8230-b4cb0c0e3fa4}</destination>
+			<destination>{cf90b9d6-3bb9-4ca2-9257-980275544d72}</destination>
+			<destination>{66164e14-0145-4c16-905f-bb7ecf04df33}</destination>
 			<destination>{780208f4-085b-43b9-bfa5-d6e7fd75aa9c}</destination>
 			<destination>{38ba9073-c408-45db-8367-476b24e2de15}</destination>
 			<destination>{2750f59f-4091-4b72-817c-0d083f43c544}</destination>
-			<destination>{cf90b9d6-3bb9-4ca2-9257-980275544d72}</destination>
-			<destination>{66164e14-0145-4c16-905f-bb7ecf04df33}</destination>
 			<destination>{42df7cac-4218-4b05-b859-e35362470080}</destination>
 			<destination>{2c546620-8bf7-4c29-ab83-c6d3338b7be1}</destination>
 			<destination>{32d21699-479c-43dc-910d-4a5b7bf3949d}</destination>
-			<destination>{17467df2-5b59-4e0b-bae4-a68b3ddc0c1d}</destination>
 		</relationship>
 		<relationship name="preset">
 			<destination>{2d9093f9-37c0-41ee-8c85-8bb8a0f87aef}</destination>
@@ -156,6 +156,17 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{44cc4a93-5a5d-4338-86a4-533e19cb538d}" />
+	<object class="EventSound" id="{17467df2-5b59-4e0b-bae4-a68b3ddc0c1d}">
+		<property name="start">
+			<value>0.90799998044967611</value>
+		</property>
+		<property name="length">
+			<value>0.092000019550323942</value>
+		</property>
+		<relationship name="event">
+			<destination>{c6c22b9b-410f-4d7a-acb7-511094151065}</destination>
+		</relationship>
+	</object>
 	<object class="EventSound" id="{780208f4-085b-43b9-bfa5-d6e7fd75aa9c}">
 		<property name="start">
 			<value>0.10000000000000001</value>
@@ -250,17 +261,6 @@
 		</property>
 		<relationship name="event">
 			<destination>{23624af1-593b-420f-94f6-6006a805c4f6}</destination>
-		</relationship>
-	</object>
-	<object class="EventSound" id="{17467df2-5b59-4e0b-bae4-a68b3ddc0c1d}">
-		<property name="start">
-			<value>0.90799998044967611</value>
-		</property>
-		<property name="length">
-			<value>0.092000019550323942</value>
-		</property>
-		<relationship name="event">
-			<destination>{c6c22b9b-410f-4d7a-acb7-511094151065}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{13de84fe-c74a-44ed-89e1-460c085eaee4}">

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{1295bcd4-67ef-4e47-8825-ae1b3dd5ea59}">
 		<property name="name">
 			<value>SFX_Splat_Menu_Appearance</value>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{f45e8415-b064-4672-ac12-de65dc0ff5e7}">
 		<property name="assetPath">
 			<value>AMB_LP/Proximity/Magic, Shimmer, Spell, Pad, Shimmer, Sparkle, Chaos, Creepy 02 SND92478.wav</value>

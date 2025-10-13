@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{c1464e0d-005e-47ae-9363-0fe4b6f67b5c}">
 		<property name="assetPath">
 			<value>AMB_LP/COL/SFX_Melody_Notes_06.wav</value>

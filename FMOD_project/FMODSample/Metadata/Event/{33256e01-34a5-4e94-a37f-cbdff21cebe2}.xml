@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{33256e01-34a5-4e94-a37f-cbdff21cebe2}">
 		<property name="name">
 			<value>Soundscape_02</value>
@@ -91,6 +91,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{0779ca5b-d51c-459e-822a-cc36e74c57e5}">
+		<property name="volume">
+			<value>-1.5</value>
+		</property>
 		<relationship name="modulators">
 			<destination>{cec5e02f-b0f1-4b2f-9168-1aa0bf68c380}</destination>
 		</relationship>
@@ -153,8 +156,8 @@
 			<destination>{ae5eace3-198a-4bca-89e4-5d8405df1c22}</destination>
 		</relationship>
 		<relationship name="playPercentages">
-			<destination>{9accdea0-867b-4fba-8525-8e1da88bb102}</destination>
 			<destination>{b81cdd46-3f02-4228-9124-1d0b60c16cd7}</destination>
+			<destination>{9accdea0-867b-4fba-8525-8e1da88bb102}</destination>
 		</relationship>
 	</object>
 	<object class="TransitionSourceSound" id="{afbfec03-2c4e-44c6-9d74-bc073bcabb4b}">
@@ -263,7 +266,6 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{1f199e6a-acda-464f-8998-a6a08070ea6c}">
-		<property name="name" />
 		<relationship name="audioFile">
 			<destination>{41952267-a5d2-442f-99e4-32d168ce8f55}</destination>
 		</relationship>
@@ -294,20 +296,20 @@
 			<destination>{657697a7-e923-4ef2-9eb5-40c4ed31286c}</destination>
 		</relationship>
 	</object>
-	<object class="PlayPercentage" id="{9accdea0-867b-4fba-8525-8e1da88bb102}">
-		<property name="percentage">
-			<value>15</value>
-		</property>
-		<relationship name="sound">
-			<destination>{21ab8894-0f25-4702-99a1-4967a3ad7f8b}</destination>
-		</relationship>
-	</object>
 	<object class="PlayPercentage" id="{b81cdd46-3f02-4228-9124-1d0b60c16cd7}">
 		<property name="percentage">
 			<value>15</value>
 		</property>
 		<relationship name="sound">
 			<destination>{1f199e6a-acda-464f-8998-a6a08070ea6c}</destination>
+		</relationship>
+	</object>
+	<object class="PlayPercentage" id="{9accdea0-867b-4fba-8525-8e1da88bb102}">
+		<property name="percentage">
+			<value>15</value>
+		</property>
+		<relationship name="sound">
+			<destination>{21ab8894-0f25-4702-99a1-4967a3ad7f8b}</destination>
 		</relationship>
 	</object>
 	<object class="TransitionSourceFadeOutCurve" id="{de7da5e3-4d57-4139-8595-f17525257c3f}">
@@ -343,9 +345,9 @@
 			<value>38.549077989798533</value>
 		</property>
 		<relationship name="modules">
+			<destination>{8c879c82-2ae3-4a3b-a936-7b8d22f362f9}</destination>
 			<destination>{afbfec03-2c4e-44c6-9d74-bc073bcabb4b}</destination>
 			<destination>{a98f8d93-856b-44ad-8d2b-d87c6485315e}</destination>
-			<destination>{8c879c82-2ae3-4a3b-a936-7b8d22f362f9}</destination>
 			<destination>{7f69fad7-c07b-4eb7-b93f-421fcabeac46}</destination>
 		</relationship>
 	</object>

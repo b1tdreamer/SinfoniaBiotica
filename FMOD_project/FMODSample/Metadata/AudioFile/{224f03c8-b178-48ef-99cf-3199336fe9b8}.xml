@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{224f03c8-b178-48ef-99cf-3199336fe9b8}">
 		<property name="assetPath">
 			<value>AMB_LP/Scene3/Amb_Scene3_Birds_04.wav</value>

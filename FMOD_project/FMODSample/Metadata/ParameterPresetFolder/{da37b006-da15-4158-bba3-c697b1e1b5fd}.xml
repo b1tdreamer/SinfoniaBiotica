@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="ParameterPresetFolder" id="{da37b006-da15-4158-bba3-c697b1e1b5fd}">
 		<property name="name">
 			<value>New Folder</value>

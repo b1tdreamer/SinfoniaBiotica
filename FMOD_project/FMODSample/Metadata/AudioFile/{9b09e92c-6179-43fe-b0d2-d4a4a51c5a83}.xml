@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{9b09e92c-6179-43fe-b0d2-d4a4a51c5a83}">
 		<property name="assetPath">
 			<value>AMB_LP/LP/AMB_Soundscape1_Scene1_Loop_01_06.wav</value>

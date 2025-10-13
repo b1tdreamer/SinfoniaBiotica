@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{bf046f40-b60d-4b11-844a-e1cd8179fb82}">
 		<property name="assetPath">
 			<value>MX/Tree1/Melodies_Scattered_01.wav</value>

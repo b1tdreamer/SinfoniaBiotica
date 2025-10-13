@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="ParameterPreset" id="{c6358c38-98e5-4cb1-b46c-34013a02a09c}">
 		<property name="name">
 			<value>Z</value>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{c8f4eba2-fbba-4c0c-9783-d34157cec1a4}">
 		<property name="assetPath">
 			<value>AMB_LP/Scene2/LP/Amb_Scene2_BassPad_Layer_02.wav</value>

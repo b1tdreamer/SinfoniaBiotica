@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{b854b9e1-0e54-4004-aaa9-46e7acae4378}">
 		<property name="assetPath">
 			<value>AMB_LP/Scattered/AMB_Soundscape1_Scene1_Reverb_Leafs_07.wav</value>

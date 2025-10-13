@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="EncodableAsset" id="{4326f593-bf29-40b5-8b52-b43bbc21fd4b}">
 		<property name="assetPath">
 			<value>VST/2/Octave 2/Notes/</value>

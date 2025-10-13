@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{4f7aad64-9d36-488a-870d-82a53b2f8c9f}">
 		<property name="assetPath">
 			<value>VST/1/Octave2/ASR Envelope/Notes/VST1_Notes_Octave2_03.wav</value>

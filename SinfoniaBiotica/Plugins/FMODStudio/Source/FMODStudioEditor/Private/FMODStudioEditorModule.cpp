@@ -1,4 +1,4 @@
-// Copyright (c), Firelight Technologies Pty, Ltd. 2012-2024.
+// Copyright (c), Firelight Technologies Pty, Ltd. 2012-2025.
 
 #include "FMODStudioEditorModule.h"
 #include "FMODStudioModule.h"
@@ -838,6 +838,9 @@ void FFMODStudioEditorModule::ValidateFMOD()
     // Look for banks that may have failed to load
     if (bAnyBankFiles)
     {
+        if (!IFMODStudioModule::Get().AreAuditioningBanksLoaded()) {
+            IFMODStudioModule::Get().LoadAuditioningBanks();
+        }
         FMOD::Studio::System *StudioSystem = IFMODStudioModule::Get().GetStudioSystem(EFMODSystemContext::Auditioning);
         int BankCount = 0;
         StudioSystem->getBankCount(&BankCount);

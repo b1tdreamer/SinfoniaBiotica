@@ -1,4 +1,4 @@
-// Copyright (c), Firelight Technologies Pty, Ltd. 2012-2024.
+// Copyright (c), Firelight Technologies Pty, Ltd. 2012-2025.
 
 #pragma once
 
@@ -178,5 +178,14 @@ public:
 
     /** Unload Editor banks. */
     virtual void UnloadEditorBanks() = 0;
+
+    /** Check whether Auditioning banks are loaded. */
+    virtual bool AreAuditioningBanksLoaded() = 0;
+
+    /** Load Auditioning banks. */
+    virtual void LoadAuditioningBanks() = 0;
+
+    /** Unload Auditioning banks. */
+    virtual void UnloadAuditioningBanks() = 0;
 #endif
 };

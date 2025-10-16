@@ -1,4 +1,4 @@
-// Copyright (c), Firelight Technologies Pty, Ltd. 2012-2024.
+// Copyright (c), Firelight Technologies Pty, Ltd. 2012-2025.
 
 #include "FMODBlueprintStatics.h"
 #include "FMODAudioComponent.h"
@@ -117,7 +117,9 @@ class UFMODAudioComponent *UFMODBlueprintStatics::PlayEventAttached(class UFMODE
 
     if (bAutoPlay)
     {
-        AudioComponent->Play();
+        EFMODSystemContext::Type SystemContext =
+            (GWorld && GWorld->WorldType == EWorldType::Editor) ? EFMODSystemContext::Auditioning : EFMODSystemContext::Runtime;
+        AudioComponent->PlayInternal(SystemContext);
     }
     return AudioComponent;
 }

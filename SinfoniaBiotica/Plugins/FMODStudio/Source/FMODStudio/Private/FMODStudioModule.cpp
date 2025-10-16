@@ -4,6 +4,7 @@
 #include "FMODSettings.h"
 #include "FMODAudioComponent.h"
 #include "FMODBlueprintStatics.h"
+#include "FMODCallbackHandler.h"
 #include "FMODAssetTable.h"
 #include "FMODFileCallbacks.h"
 #include "FMODUtils.h"
@@ -62,15 +63,15 @@ const TCHAR *FMODSystemContextNames[EFMODSystemContext::Max] = {
     TEXT("Auditioning"), TEXT("Runtime"), TEXT("Editor"),
 };
 
-void *F_CALLBACK FMODMemoryAlloc(unsigned int size, FMOD_MEMORY_TYPE type, const char *sourcestr)
+void *F_CALL FMODMemoryAlloc(unsigned int size, FMOD_MEMORY_TYPE type, const char *sourcestr)
 {
     return FMemory::Malloc(size);
 }
-void *F_CALLBACK FMODMemoryRealloc(void *ptr, unsigned int size, FMOD_MEMORY_TYPE type, const char *sourcestr)
+void *F_CALL FMODMemoryRealloc(void *ptr, unsigned int size, FMOD_MEMORY_TYPE type, const char *sourcestr)
 {
     return FMemory::Realloc(ptr, size);
 }
-void F_CALLBACK FMODMemoryFree(void *ptr, FMOD_MEMORY_TYPE type, const char *sourcestr)
+void F_CALL FMODMemoryFree(void *ptr, FMOD_MEMORY_TYPE type, const char *sourcestr)
 {
     FMemory::Free(ptr);
 }
@@ -168,7 +169,6 @@ public:
         , bUseSound(true)
         , bListenerMoved(true)
         , bAllowLiveUpdate(true)
-        , bBanksLoaded(false)
         , LowLevelLibHandle(nullptr)
         , StudioLibHandle(nullptr)
         , bMixerPaused(false)
@@ -177,6 +177,7 @@ public:
         for (int i = 0; i < EFMODSystemContext::Max; ++i)
         {
             StudioSystem[i] = nullptr;
+            bBanksLoaded[i] = false;
         }
     }
 
@@ -208,6 +209,9 @@ public:
     void ReloadBanks();
     void LoadEditorBanks();
     void UnloadEditorBanks();
+    bool AreAuditioningBanksLoaded();
+    void LoadAuditioningBanks();
+    void UnloadAuditioningBanks();
 #endif
 
     void CreateStudioSystem(EFMODSystemContext::Type Type);
@@ -320,7 +324,7 @@ public:
     /** True if we allow live update */
     bool bAllowLiveUpdate;
 
-    bool bBanksLoaded;
+    bool bBanksLoaded[EFMODSystemContext::Max];
 
     /** Dynamic library */
     FString BaseLibPath;
@@ -463,7 +467,7 @@ void FFMODStudioModule::StartupModule()
     if (FParse::Param(FCommandLine::Get(), TEXT("nosound")) || FApp::IsBenchmarking() || IsRunningDedicatedServer() || IsRunningCommandlet())
     {
         bUseSound = false;
-        UE_LOG(LogFMOD, Log, TEXT("Running in nosound mode"));
+        UE_LOG(LogFMOD, Log, TEXT("Disabling FMOD Runtime."));
     }
 
     if (FParse::Param(FCommandLine::Get(), TEXT("noliveupdate")))
@@ -476,19 +480,7 @@ void FFMODStudioModule::StartupModule()
         verifyfmod(FMOD::Debug_Initialize(FMOD_DEBUG_LEVEL_WARNING, FMOD_DEBUG_MODE_CALLBACK, FMODLogCallback));
 
         const UFMODSettings &Settings = *GetDefault<UFMODSettings>();
-
         int32 size = Settings.GetMemoryPoolSize();
-
-        if (size == 0)
-        {
-#if defined(FMOD_PLATFORM_HEADER)
-            size = FMODPlatform_MemoryPoolSize();
-#elif PLATFORM_IOS || PLATFORM_TVOS || PLATFORM_ANDROID
-            size = Settings.MemoryPoolSizes.Mobile;
-#else
-            size = Settings.MemoryPoolSizes.Desktop;
-#endif
-        }
 
         if (!GIsEditor && size > 0)
         {
@@ -702,16 +694,12 @@ void FFMODStudioModule::CreateStudioSystem(EFMODSystemContext::Type Type)
     advSettings.cbSize = sizeof(FMOD_ADVANCEDSETTINGS);
     advSettings.vol0virtualvol = Settings.Vol0VirtualLevel;
 
-    if (!Settings.SetCodecs(advSettings))
-    {
-#if defined(FMOD_PLATFORM_HEADER)
-        FMODPlatform_SetRealChannelCount(&advSettings);
-#elif PLATFORM_IOS || PLATFORM_TVOS || PLATFORM_ANDROID
-        advSettings.maxFADPCMCodecs = Settings.RealChannelCount;
-#else
-        advSettings.maxVorbisCodecs = Settings.RealChannelCount;
-#endif
-    }
+    TMap<TEnumAsByte<EFMODCodec::Type>, int32> Codecs = Settings.GetCodecs();
+    advSettings.maxXMACodecs    = Codecs.Contains(EFMODCodec::XMA)      ? Codecs[EFMODCodec::XMA]       : 0;
+    advSettings.maxVorbisCodecs = Codecs.Contains(EFMODCodec::VORBIS)   ? Codecs[EFMODCodec::VORBIS]    : 0;
+    advSettings.maxAT9Codecs    = Codecs.Contains(EFMODCodec::AT9)      ? Codecs[EFMODCodec::AT9]       : 0;
+    advSettings.maxFADPCMCodecs = Codecs.Contains(EFMODCodec::FADPCM)   ? Codecs[EFMODCodec::FADPCM]    : 0;
+    advSettings.maxOpusCodecs   = Codecs.Contains(EFMODCodec::OPUS)     ? Codecs[EFMODCodec::OPUS]      : 0;
 
     if (Type == EFMODSystemContext::Runtime)
     {
@@ -740,13 +728,42 @@ void FFMODStudioModule::CreateStudioSystem(EFMODSystemContext::Type Type)
 
     verifyfmod(StudioSystem[Type]->setAdvancedSettings(&advStudioSettings));
 
+    if (Settings.GetCallbackHandler())
+    {
+        UClass* CallbackClass = Settings.GetCallbackHandler().LoadSynchronous();
+        if (CallbackClass && CallbackClass->ImplementsInterface(UFMODCallbackHandler::StaticClass()))
+        {
+            UObject* CallbackInstance = NewObject<UObject>(GetTransientPackage(), CallbackClass);
+            if (IFMODCallbackHandler* Callback = Cast<IFMODCallbackHandler>(CallbackInstance))
+            {
+                Callback->PreInitialize(StudioSystem[Type]);
+            }
+            else
+            {
+                UE_LOG(LogFMOD, Error, TEXT("CallbackHandler failed cast to IFMODCallbackHandler."));
+            }
+
+        }
+        else
+        {
+            UE_LOG(LogFMOD, Error, TEXT("CallbackHandler does not implement IFMODCallbackHandler."));
+        }
+    }
+    else
+    {
+        UE_LOG(LogFMOD, Log, TEXT("CallbackHandler not set."));
+    }
+
     verifyfmod(StudioSystem[Type]->initialize(Settings.TotalChannelCount, StudioInitFlags, InitFlags, InitData));
 
+#if PLATFORM_IOS || PLATFORM_TVOS || defined(FMOD_DONT_LOAD_LIBRARIES)
+#else
     for (FString PluginName : Settings.PluginFiles)
     {
         if (!PluginName.IsEmpty())
             LoadPlugin(Type, *PluginName);
     }
+#endif
 
     if (Type == EFMODSystemContext::Runtime)
     {
@@ -793,10 +810,13 @@ void FFMODStudioModule::DestroyStudioSystem(EFMODSystemContext::Type Type)
         ClockSinks[Type].Reset();
     }
 
-    UnloadBanks(Type);
-
     if (StudioSystem[Type])
     {
+        FMOD::Studio::Bus* mBus;
+        StudioSystem[Type]->getBus("bus:/", &mBus);
+        mBus->setMute(true);
+        StudioSystem[Type]->flushCommands();
+
         verifyfmod(StudioSystem[Type]->release());
         StudioSystem[Type] = nullptr;
     }
@@ -804,22 +824,63 @@ void FFMODStudioModule::DestroyStudioSystem(EFMODSystemContext::Type Type)
 
 void FFMODStudioModule::UnloadBanks(EFMODSystemContext::Type Type)
 {
-    if (StudioSystem[Type])
+#if WITH_EDITOR
+    // Unload all events and banks to remove warning spam when using split banks
+    if (StudioSystem[Type] && bLoadAllSampleData)
     {
         int bankCount;
         verifyfmod(StudioSystem[Type]->getBankCount(&bankCount));
         if (bankCount > 0)
         {
             TArray<FMOD::Studio::Bank*> bankArray;
+            TArray<FMOD::Studio::EventDescription*> eventArray;
+            TArray<FMOD::Studio::EventInstance*> instanceArray;
 
             bankArray.SetNumUninitialized(bankCount, false);
             verifyfmod(StudioSystem[Type]->getBankList(bankArray.GetData(), bankCount, &bankCount));
+            for (int i = 0; i < bankCount; i++)
+            {
+                int eventCount;
+                verifyfmod(bankArray[i]->getEventCount(&eventCount));
+                if (eventCount > 0)
+                {
+                    eventArray.SetNumUninitialized(eventCount, false);
+                    verifyfmod(bankArray[i]->getEventList(eventArray.GetData(), eventCount, &eventCount));
+                    for (int j = 0; j < eventCount; j++)
+                    {
+                        int instanceCount;
+                        verifyfmod(eventArray[j]->getInstanceCount(&instanceCount));
+                        if (instanceCount > 0)
+                        {
+                            instanceArray.SetNumUninitialized(instanceCount, false);
+                            verifyfmod(eventArray[j]->getInstanceList(instanceArray.GetData(), instanceCount, &instanceCount));
+                            for (int k = 0; k < instanceCount; k++)
+                            {
+                                verifyfmod(instanceArray[k]->stop(FMOD_STUDIO_STOP_IMMEDIATE));
+                                verifyfmod(instanceArray[k]->release());
+                            }
+                        }
+                    }
+                }
+            }
 
             for (int i = 0; i < bankCount; i++)
             {
-                verifyfmod(bankArray[i]->unload());
+                FMOD_STUDIO_LOADING_STATE state;
+                bankArray[i]->getSampleLoadingState(&state);
+                if (state == FMOD_STUDIO_LOADING_STATE_LOADED)
+                {
+                    verifyfmod(bankArray[i]->unloadSampleData());
+                }
             }
         }
+    }
+#endif
+
+    if (StudioSystem[Type])
+    {
+        verifyfmod(StudioSystem[Type]->unloadAll());
+        bBanksLoaded[Type] = false;
     }
 }
 
@@ -1134,6 +1195,7 @@ void FFMODStudioModule::SetInPIE(bool bInPIE, bool simulating)
                 AuditioningInstance = nullptr;
             }
             // Also make sure banks are finishing loading so they aren't grabbing file handles.
+            UnloadBanks(EFMODSystemContext::Auditioning);
             StudioSystem[EFMODSystemContext::Auditioning]->flushCommands();
         }
 
@@ -1153,6 +1215,7 @@ void FFMODStudioModule::SetInPIE(bool bInPIE, bool simulating)
     else
     {
         ReverbSnapshots.Reset();
+        UnloadBanks(EFMODSystemContext::Runtime);
         DestroyStudioSystem(EFMODSystemContext::Runtime);
         flags = FMOD_DEBUG_LEVEL_WARNING;
     }
@@ -1297,7 +1360,14 @@ struct NamedBankEntry
 
 bool FFMODStudioModule::AreBanksLoaded()
 {
-    return bBanksLoaded;
+    for (int i = 0; i < EFMODSystemContext::Max; ++i)
+    {
+        if (bBanksLoaded[i])
+        {
+            return true;
+        }
+    }
+    return false;
 }
 
 bool FFMODStudioModule::SetLocale(const FString& LocaleName)
@@ -1485,22 +1555,37 @@ void FFMODStudioModule::LoadBanks(EFMODSystemContext::Type Type)
         }
     }
 
-    bBanksLoaded = true;
+    bBanksLoaded[Type] = true;
 }
 
 #if WITH_EDITOR
 void FFMODStudioModule::ReloadBanks()
 {
     UE_LOG(LogFMOD, Verbose, TEXT("Refreshing auditioning system"));
-
-    StopAuditioningInstance();
-    UnloadBanks(EFMODSystemContext::Auditioning);
-    DestroyStudioSystem(EFMODSystemContext::Editor);
+    bool bReloadAuditioningBanks = 0;
+    bool bReloadEditorBanks = 0;
+    if (bBanksLoaded[EFMODSystemContext::Auditioning])
+    {
+        StopAuditioningInstance();
+        UnloadBanks(EFMODSystemContext::Auditioning);
+        bReloadAuditioningBanks = true;
+    }
+    if (bBanksLoaded[EFMODSystemContext::Editor])
+    {
+        UnloadBanks(EFMODSystemContext::Editor);
+        bReloadEditorBanks = true;
+    }
 
     AssetTable.Load();
 
-    LoadBanks(EFMODSystemContext::Auditioning);
-    CreateStudioSystem(EFMODSystemContext::Editor);
+    if (bReloadAuditioningBanks)
+    {
+        LoadBanks(EFMODSystemContext::Auditioning);
+    }
+    if (bReloadEditorBanks)
+    {
+        LoadBanks(EFMODSystemContext::Editor);
+    }
 }
 
 void FFMODStudioModule::LoadEditorBanks()
@@ -1511,6 +1596,21 @@ void FFMODStudioModule::LoadEditorBanks()
 void FFMODStudioModule::UnloadEditorBanks()
 {
     UnloadBanks(EFMODSystemContext::Editor);
+}
+
+bool FFMODStudioModule::AreAuditioningBanksLoaded()
+{
+    return bBanksLoaded[EFMODSystemContext::Auditioning];
+}
+
+void FFMODStudioModule::LoadAuditioningBanks()
+{
+    LoadBanks(EFMODSystemContext::Auditioning);
+}
+
+void FFMODStudioModule::UnloadAuditioningBanks()
+{
+    UnloadBanks(EFMODSystemContext::Auditioning);
 }
 #endif
 
@@ -1529,6 +1629,13 @@ FMOD::Studio::EventDescription *FFMODStudioModule::GetEventDescription(const UFM
     {
         Context = (bIsInPIE ? EFMODSystemContext::Runtime : EFMODSystemContext::Auditioning);
     }
+    if (Context == EFMODSystemContext::Auditioning)
+    {
+        if (!bBanksLoaded[EFMODSystemContext::Auditioning])
+        {
+            LoadBanks(EFMODSystemContext::Auditioning);
+        }
+    }
     if (StudioSystem[Context] != nullptr && IsValid(Event) && Event->AssetGuid.IsValid())
     {
         FMOD::Studio::ID Guid = FMODUtils::ConvertGuid(Event->AssetGuid);
@@ -1542,6 +1649,10 @@ FMOD::Studio::EventDescription *FFMODStudioModule::GetEventDescription(const UFM
 FMOD::Studio::EventInstance *FFMODStudioModule::CreateAuditioningInstance(const UFMODEvent *Event)
 {
     StopAuditioningInstance();
+    if (!bBanksLoaded[EFMODSystemContext::Auditioning])
+    {
+        LoadBanks(EFMODSystemContext::Auditioning);
+    }
     if (IsValid(Event))
     {
         FMOD::Studio::EventDescription *EventDesc = GetEventDescription(Event, EFMODSystemContext::Auditioning);

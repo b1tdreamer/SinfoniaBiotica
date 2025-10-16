@@ -735,7 +735,7 @@
 	<object class="MixerBusFader" id="{54b4301b-64fa-46f3-899c-435b9bcc3ebe}" />
 	<object class="GainEffect" id="{8f4db7c2-f1a8-432d-bf3d-fde37c0ce8dc}">
 		<relationship name="modulators">
-			<destination>{ae9f3a4b-8333-4818-b6e5-6b9391fd5a6f}</destination>
+			<destination>{14ca3e20-6fbd-40be-af93-109348b18146}</destination>
 		</relationship>
 	</object>
 	<object class="AutomationPoint" id="{7c459eac-a792-49ae-92d4-9887c7dcc089}">
@@ -1035,7 +1035,7 @@
 			<destination>{51cf0f36-6dfa-4783-9ae7-a55da089ef3a}</destination>
 		</relationship>
 	</object>
-	<object class="ADSRModulator" id="{ae9f3a4b-8333-4818-b6e5-6b9391fd5a6f}">
+	<object class="ADSRModulator" id="{14ca3e20-6fbd-40be-af93-109348b18146}">
 		<property name="nameOfPropertyBeingModulated">
 			<value>gain</value>
 		</property>
@@ -1043,7 +1043,10 @@
 			<value>-80</value>
 		</property>
 		<property name="attackTime">
-			<value>0</value>
+			<value>900</value>
+		</property>
+		<property name="attackShape">
+			<value>-0.475431472</value>
 		</property>
 		<property name="peakValue">
 			<value>0.577777863</value>

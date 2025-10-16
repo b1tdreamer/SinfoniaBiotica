@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{2db7f5d1-2b63-48c3-b1ec-ac1953e0c7dd}">
+		<property name="note">
+			<value>Encina</value>
+		</property>
 		<property name="name">
 			<value>Soundscape_2D</value>
 		</property>
@@ -8,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<relationship name="folder">
-			<destination>{f7651c6f-470d-4356-b251-ac4e78dd36cd}</destination>
+			<destination>{d7b257b5-fb0f-4acf-9493-4b5a0f1b0003}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{567a349f-c7d0-40ae-b78e-32ffc2310379}</destination>

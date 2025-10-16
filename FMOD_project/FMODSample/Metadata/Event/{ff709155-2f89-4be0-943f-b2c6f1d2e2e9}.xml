@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{ff709155-2f89-4be0-943f-b2c6f1d2e2e9}">
+		<property name="note">
+			<value>Sequoia</value>
+		</property>
 		<property name="name">
 			<value>Soundscape_03</value>
 		</property>

@@ -1018,6 +1018,9 @@
 		<property name="attackTime">
 			<value>0</value>
 		</property>
+		<property name="attackShape">
+			<value>-0.475431472</value>
+		</property>
 		<property name="peakValue">
 			<value>0.577777863</value>
 		</property>

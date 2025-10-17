@@ -76,7 +76,7 @@
 			<value>5</value>
 		</property>
 		<property name="maximumDistance">
-			<value>50</value>
+			<value>45</value>
 		</property>
 	</object>
 	<object class="MarkerTrack" id="{d86aaf32-3bab-4ee7-ade6-96eee850a611}" />
@@ -140,6 +140,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{41f016dc-d68f-4faa-b154-c047fbd0ccfb}">
+		<property name="volume">
+			<value>-2</value>
+		</property>
 		<relationship name="modulators">
 			<destination>{66ac30ee-a0a4-4750-a3fa-ebe50d472527}</destination>
 		</relationship>
@@ -676,7 +679,7 @@
 	</object>
 	<object class="CompressorEffect" id="{21d3a5ca-ed6e-4240-9c01-28bcdc41e938}">
 		<property name="threshold">
-			<value>-16</value>
+			<value>-17</value>
 		</property>
 		<property name="ratio">
 			<value>3.4000001</value>

@@ -22,13 +22,39 @@
 	</object>
 	<object class="MixerBusPanner" id="{bb609111-0d5e-4aab-8571-f6f2dcb4ef8c}" />
 	<object class="CompressorEffect" id="{56c2f04e-cdb1-4884-bffa-2c4a7d9fb731}">
-		<property name="threshold">
-			<value>-10</value>
-		</property>
+		<relationship name="modulators">
+			<destination>{36f4d6f4-7a2f-4bd2-b3df-ed8af2c17ede}</destination>
+		</relationship>
 		<relationship name="sidechains">
 			<destination>{4f742848-e426-4c7e-b012-7299feae5fe1}</destination>
 			<destination>{f6f3fc80-63ac-4b5f-927c-087a7102c054}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{5691e892-2c0b-437a-9f23-3185b1e180eb}" />
+	<object class="SidechainModulator" id="{36f4d6f4-7a2f-4bd2-b3df-ed8af2c17ede}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>gain</value>
+		</property>
+		<property name="levelMode">
+			<value>1</value>
+		</property>
+		<property name="amount">
+			<value>13.333334</value>
+		</property>
+		<property name="attackTime">
+			<value>500</value>
+		</property>
+		<property name="releaseTime">
+			<value>5000</value>
+		</property>
+		<property name="minimumThreshold">
+			<value>-36</value>
+		</property>
+		<property name="maximumThreshold">
+			<value>-32</value>
+		</property>
+		<relationship name="sidechains">
+			<destination>{f6f3fc80-63ac-4b5f-927c-087a7102c054}</destination>
+		</relationship>
+	</object>
 </objects>

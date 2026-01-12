@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EventFolder" id="{1dafe540-4d3b-4e71-9df6-1b0edeff4450}">
+		<property name="name">
+			<value>Escena 7 - Portales a otros mundos</value>
+		</property>
+		<relationship name="folder">
+			<destination>{879a4b6d-828d-4620-a8b2-0ac866c90ca2}</destination>
+		</relationship>
+	</object>
+</objects>

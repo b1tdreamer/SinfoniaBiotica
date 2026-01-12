@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EventFolder" id="{f2ae48bf-0829-4456-a8aa-108a8ade55c5}">
+		<property name="name">
+			<value>Escena 6 - Dialogo con el Arbol</value>
+		</property>
+		<relationship name="folder">
+			<destination>{ef2acb91-71a4-4fc0-be83-6d5a4bcdf6e9}</destination>
+		</relationship>
+	</object>
+</objects>

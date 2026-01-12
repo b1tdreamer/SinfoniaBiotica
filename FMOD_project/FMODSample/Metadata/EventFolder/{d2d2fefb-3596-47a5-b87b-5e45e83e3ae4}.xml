@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EventFolder" id="{d2d2fefb-3596-47a5-b87b-5e45e83e3ae4}">
+		<property name="name">
+			<value>Escena 5 - Bosque 2, Centinelas flotantes</value>
+		</property>
+		<relationship name="folder">
+			<destination>{ceadb9e5-a494-4275-81e8-ff7d3c3d3939}</destination>
+		</relationship>
+	</object>
+</objects>

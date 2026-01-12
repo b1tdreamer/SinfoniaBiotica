@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EventFolder" id="{4740747b-5383-4573-9b30-9cb79ac2911c}">
+		<property name="name">
+			<value>Escena 2 - La Autopista de las Hifas</value>
+		</property>
+		<relationship name="folder">
+			<destination>{ef2acb91-71a4-4fc0-be83-6d5a4bcdf6e9}</destination>
+		</relationship>
+	</object>
+</objects>

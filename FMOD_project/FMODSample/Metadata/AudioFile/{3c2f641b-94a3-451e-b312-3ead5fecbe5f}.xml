@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{3c2f641b-94a3-451e-b312-3ead5fecbe5f}">
 		<property name="assetPath">
-			<value>Oboe.wav</value>
+			<value>MX/Tree3/Oboe.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

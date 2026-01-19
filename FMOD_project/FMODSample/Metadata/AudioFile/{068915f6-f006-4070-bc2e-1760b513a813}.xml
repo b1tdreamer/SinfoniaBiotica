@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{068915f6-f006-4070-bc2e-1760b513a813}">
 		<property name="assetPath">
-			<value>picolo.wav</value>
+			<value>MX/Tree3/picolo.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

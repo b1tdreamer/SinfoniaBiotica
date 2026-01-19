@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{8c6ce6d9-fadb-4c1e-8c14-54ccdb762f3e}">
 		<property name="assetPath">
-			<value>Clarinet.wav</value>
+			<value>MX/Tree3/Clarinet.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

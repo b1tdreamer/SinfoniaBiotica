@@ -8,7 +8,7 @@
 			<value>SFX_PolvoSonoro</value>
 		</property>
 		<property name="outputFormat">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{1a171d47-bb51-421c-b688-72358b56eb20}</destination>
@@ -62,11 +62,18 @@
 	<object class="EventAutomatableProperties" id="{ad94be3e-35e5-4348-a0c9-61e35208a064}" />
 	<object class="MarkerTrack" id="{32e54ae1-4bdf-48a4-ad15-266f525cba28}" />
 	<object class="GroupTrack" id="{c9c83900-4161-4805-b246-c39c7d06c0dc}">
+		<relationship name="modules">
+			<destination>{8ee5dbeb-899c-4f24-ab27-cbb5275477e9}</destination>
+		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{46917ab5-e45d-40cf-b016-2f201ba44e69}</destination>
 		</relationship>
 	</object>
-	<object class="Timeline" id="{bf3ccc79-00d1-4930-9b84-9f1e792cc209}" />
+	<object class="Timeline" id="{bf3ccc79-00d1-4930-9b84-9f1e792cc209}">
+		<relationship name="modules">
+			<destination>{8ee5dbeb-899c-4f24-ab27-cbb5275477e9}</destination>
+		</relationship>
+	</object>
 	<object class="EventMixerMaster" id="{ed2461e3-5792-4fdd-87e8-1931e7c7af5f}">
 		<relationship name="effectChain">
 			<destination>{a7c92eb0-b5e4-4344-b452-0c2b0499c5a8}</destination>
@@ -84,7 +91,18 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{0d4e8ba5-4baa-4c3f-8103-49142a04d597}" />
+	<object class="SingleSound" id="{8ee5dbeb-899c-4f24-ab27-cbb5275477e9}">
+		<property name="length">
+			<value>54.354270833333331</value>
+		</property>
+		<relationship name="audioFile">
+			<destination>{ce880f27-cad3-4195-80d8-a44ae2f368c3}</destination>
+		</relationship>
+	</object>
 	<object class="EventMixerGroup" id="{46917ab5-e45d-40cf-b016-2f201ba44e69}">
+		<property name="volume">
+			<value>-2</value>
+		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>

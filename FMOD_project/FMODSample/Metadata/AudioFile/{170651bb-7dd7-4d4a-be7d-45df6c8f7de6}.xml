@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{170651bb-7dd7-4d4a-be7d-45df6c8f7de6}">
+		<property name="assetPath">
+			<value>INTRO/SFX/Pedro/FX_InsectoF_04.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.69385416666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{adfc6319-1cf1-4faa-ba1e-4d2c0dda1d97}</destination>
+		</relationship>
+	</object>
+</objects>

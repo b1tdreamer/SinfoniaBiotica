@@ -11,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<relationship name="folder">
-			<destination>{0b428036-d5b1-4812-b0e3-db33ebe959f4}</destination>
+			<destination>{0b68c458-7fe0-4338-b289-162eb2e54e71}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{b9fc06d2-3616-4176-9434-89f3f640291c}</destination>
@@ -59,11 +59,7 @@
 			<destination>{322378c0-76ba-4347-85eb-5203e907cb6a}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{a4738008-6737-497a-a955-fbf62fb658ca}">
-		<property name="maximumDistance">
-			<value>10</value>
-		</property>
-	</object>
+	<object class="EventAutomatableProperties" id="{a4738008-6737-497a-a955-fbf62fb658ca}" />
 	<object class="MarkerTrack" id="{8da946d7-1cd8-456c-807c-2142b32cc089}" />
 	<object class="GroupTrack" id="{0cc4f804-97a9-45b9-a9e5-ea71befb29b6}">
 		<relationship name="modules">

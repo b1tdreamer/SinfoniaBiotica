@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ferkz\\documents\\proyectos\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudioniagara\\intermediate\\build\\win64\\unrealgame\\inc\\fmodstudioniagara\\uht\\fmodstudioniagara.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ferkz\\documents\\proyectos\\sinfoniabiotica\\sinfoniabiotica\\intermediate\\build\\win64\\x64\\sinfoniabiotica\\shipping\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\ferkz\\documents\\proyectos\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudioniagara\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\fmodstudioniagara\\definitions.fmodstudioniagara.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

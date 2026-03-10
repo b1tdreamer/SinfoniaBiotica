@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ferkz\\documents\\proyectos\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\source\\fmodaudiolink\\private\\fmodaudiolinklog.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ferkz\\documents\\proyectos\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\fmodstudio\\pch.fmodstudio.h.pch",
+        "Includes": [
+            "c:\\users\\ferkz\\documents\\proyectos\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\source\\fmodaudiolink\\public\\fmodaudiolinklog.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

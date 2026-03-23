@@ -66,7 +66,7 @@
 	</object>
 	<object class="EventAutomatableProperties" id="{326845d1-bcbf-4952-9db0-44f1c0c89428}">
 		<property name="minimumDistance">
-			<value>20</value>
+			<value>65</value>
 		</property>
 		<property name="maximumDistance">
 			<value>100</value>
@@ -111,9 +111,6 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{df5d40e7-8901-4953-9254-27f6f13a33b6}">
-		<property name="volume">
-			<value>-5</value>
-		</property>
 		<relationship name="effectChain">
 			<destination>{f6ea6453-9394-4d1b-87dc-26a6c896a44b}</destination>
 		</relationship>

@@ -71,7 +71,7 @@ Server: **[Sinfonía Biótica](https://discord.gg/x7cYdGC7ye)** · `https://disc
 
 ## License & credits
 
-Project branding and media shown above are from **[sinfoniabiotica.xyz](https://sinfoniabiotica.xyz/)**. Add license and attribution details here if this repository is published publicly.
+This repository is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). You may reuse and adapt the material with attribution to the author and this project; commercial use is not allowed; derivative works must use the same license and be shared openly (same access and reuse conditions). The full legal text is in the LICENSE file in this repository.
 
 ---
 

@@ -80,5 +80,5 @@ Project branding and media shown above are from **[sinfoniabiotica.xyz](https://
 This project is supported thanks to funding from the **Ministry of Culture** (Spain).
 
 <p align="center">
-  <img src="https://sinfoniabiotica.xyz/wp-content/uploads/2024/03/logosFinanciadores.png" alt="Funding institutions — Ministry of Culture and partners" width="520">
+  <img src="https://sinfoniabiotica.xyz/wp-content/uploads/2026/03/logosFinanciadores.png" alt="Funding institutions — Ministry of Culture and partners" width="520">
 </p>

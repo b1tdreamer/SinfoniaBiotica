@@ -7,12 +7,12 @@
 
 <p align="center">
   <a href="https://sinfoniabiotica.xyz/">
-    <img src="https://sinfoniabiotica.xyz/wp-content/uploads/2024/07/logo_black_9.png" alt="Sinfonía Biótica logo" width="420">
+    <img src="[https://sinfoniabiotica.xyz/wp-content/uploads/2024/07/logo_black_9.png](https://sinfoniabiotica.xyz/wp-content/uploads/2026/03/Thumbnail.jpg)" alt="Sinfonía Biótica logo" width="420">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://sinfoniabiotica.xyz/"><img src="https://sinfoniabiotica.xyz/wp-content/uploads/2026/03/Thumbnail.jpg" alt="Sinfonía Biótica thumbnail" width="32%"></a>
+  <a href="https://sinfoniabiotica.xyz/"><img src="[https://sinfoniabiotica.xyz/wp-content/uploads/2026/03/Thumbnail.jpg](https://sinfoniabiotica.xyz/wp-content/uploads/2026/03/anaga2.jpg)" alt="Anaga forest inside Sinfonía Biótica" width="32%"></a>
   <a href="https://sinfoniabiotica.xyz/"><img src="https://sinfoniabiotica.xyz/wp-content/uploads/2024/07/plantMusic01.00_00_04_10.Imagen-fija007.jpg" alt="Plant music capture" width="32%"></a>
   <a href="https://sinfoniabiotica.xyz/"><img src="https://sinfoniabiotica.xyz/wp-content/uploads/2024/07/Arbol.00_01_15_02.Imagen-fija002.jpg" alt="Immersive VR experience" width="32%"></a>
 </p>

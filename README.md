@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://sinfoniabiotica.xyz/">
-    <img src="https://sinfoniabiotica.xyz/wp-content/uploads/2026/03/Thumbnail.jpg" alt="Sinfonía Biótica logo" width="620">
+    <img src="https://sinfoniabiotica.xyz/wp-content/uploads/2026/03/Thumbnail.jpg" alt="Sinfonía Biótica logo" width="100%">
   </a>
 </p>
 

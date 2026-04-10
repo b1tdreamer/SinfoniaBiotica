@@ -65,7 +65,7 @@
 	</object>
 	<object class="EventAutomatableProperties" id="{8f4d0169-c6d0-44ce-afcd-fdde4c53ee28}">
 		<property name="minimumDistance">
-			<value>20</value>
+			<value>5</value>
 		</property>
 		<property name="maximumDistance">
 			<value>100</value>

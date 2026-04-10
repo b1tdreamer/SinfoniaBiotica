@@ -66,10 +66,10 @@
 	</object>
 	<object class="EventAutomatableProperties" id="{326845d1-bcbf-4952-9db0-44f1c0c89428}">
 		<property name="minimumDistance">
-			<value>65</value>
+			<value>40</value>
 		</property>
 		<property name="maximumDistance">
-			<value>100</value>
+			<value>200</value>
 		</property>
 	</object>
 	<object class="MarkerTrack" id="{4b32e955-e570-4dd2-9c92-4a069c9cfbe9}" />
@@ -111,6 +111,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{df5d40e7-8901-4953-9254-27f6f13a33b6}">
+		<relationship name="modulators">
+			<destination>{e71e590a-45be-45d4-b6f0-343f3ba5f0fe}</destination>
+		</relationship>
 		<relationship name="effectChain">
 			<destination>{f6ea6453-9394-4d1b-87dc-26a6c896a44b}</destination>
 		</relationship>
@@ -160,6 +163,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{a86d693d-aaa0-4c08-ab0a-c916055fee38}">
+		<property name="volume">
+			<value>-6</value>
+		</property>
 		<property name="name">
 			<value>Birds</value>
 		</property>
@@ -298,6 +304,17 @@
 		<relationship name="markerTrack">
 			<destination>{4b32e955-e570-4dd2-9c92-4a069c9cfbe9}</destination>
 		</relationship>
+	</object>
+	<object class="RandomizerModulator" id="{e71e590a-45be-45d4-b6f0-343f3ba5f0fe}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>pitch</value>
+		</property>
+		<property name="clockSource">
+			<value>1</value>
+		</property>
+		<property name="amount">
+			<value>8.33333397</value>
+		</property>
 	</object>
 	<object class="MixerBusEffectChain" id="{f6ea6453-9394-4d1b-87dc-26a6c896a44b}">
 		<relationship name="effects">

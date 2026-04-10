@@ -61,7 +61,7 @@
 	</object>
 	<object class="EventAutomatableProperties" id="{809bdf54-97bc-4472-aa77-816cb11d9052}">
 		<property name="minimumDistance">
-			<value>20</value>
+			<value>5</value>
 		</property>
 		<property name="maximumDistance">
 			<value>100</value>
@@ -85,6 +85,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{809e757e-2b25-458c-a37b-540bc87d2341}">
+		<property name="volume">
+			<value>3</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{336ebfd6-d696-4b02-890c-7a23cff1e284}</destination>
 		</relationship>
@@ -106,16 +109,16 @@
 			<value>7.3321035503588039</value>
 		</property>
 		<property name="minimumTimeBetweenSounds">
-			<value>4000</value>
+			<value>2000</value>
 		</property>
 		<property name="maximumTimeBetweenSounds">
-			<value>20000</value>
+			<value>12000</value>
 		</property>
 		<property name="minimumScatterDistance">
 			<value>0</value>
 		</property>
 		<property name="maximumScatterDistance">
-			<value>0.900000036</value>
+			<value>0.699999988</value>
 		</property>
 		<property name="volumeRandomization">
 			<value>-2</value>
@@ -128,6 +131,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{bcc852e4-5f36-4e72-9239-ea822bfbe253}">
+		<property name="volume">
+			<value>10</value>
+		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>

@@ -173,7 +173,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{c5386525-03cb-4408-8f54-2820d0ee49c8}">
 		<property name="volume">
-			<value>-3.5</value>
+			<value>-6.5</value>
 		</property>
 		<property name="name">
 			<value>Main VO</value>
@@ -208,6 +208,9 @@
 		</property>
 		<property name="initialValue">
 			<value>-80</value>
+		</property>
+		<property name="attackTime">
+			<value>4000</value>
 		</property>
 		<property name="releaseTime">
 			<value>2500</value>

@@ -115,7 +115,7 @@
 			<value>3</value>
 		</property>
 		<property name="maximumTimeBetweenSounds">
-			<value>10000</value>
+			<value>4000</value>
 		</property>
 		<property name="minimumScatterDistance">
 			<value>0</value>
@@ -164,6 +164,9 @@
 		</property>
 		<property name="initialValue">
 			<value>-80</value>
+		</property>
+		<property name="attackTime">
+			<value>320</value>
 		</property>
 		<property name="releaseTime">
 			<value>300</value>
@@ -223,7 +226,6 @@
 		</property>
 		<relationship name="modulators">
 			<destination>{179c3986-7ba0-4232-b1bd-8784e1c4c35b}</destination>
-			<destination>{0fe9d14a-7121-4201-a009-cc4dcb731078}</destination>
 		</relationship>
 		<relationship name="audioFile">
 			<destination>{8adb689f-b28e-415f-9e23-fb680d13c5c9}</destination>
@@ -259,14 +261,6 @@
 		</property>
 		<property name="direction">
 			<value>-100</value>
-		</property>
-	</object>
-	<object class="RandomizerModulator" id="{0fe9d14a-7121-4201-a009-cc4dcb731078}">
-		<property name="nameOfPropertyBeingModulated">
-			<value>startOffset</value>
-		</property>
-		<property name="amount">
-			<value>100</value>
 		</property>
 	</object>
 </objects>

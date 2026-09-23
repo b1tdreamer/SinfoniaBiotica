@@ -1,0 +1,238 @@
+Breve explicación conceptual de la instalación interactiva “Ritual Device
+for Fungal Humus”, de Santiago Morilla en colaboración con Joaku de
+Sotavento, Bitdreamer y Coco Moya (Menhir).
+El núcleo de este proyecto artístico reside en comprender el impacto de la
+interacción con un suelo sano y su cuidado para el futuro de los sistemas
+agroalimentarios. Esto implica comprender cómo los hongos se convierten en
+indicadores idóneos de la biodiversidad, al indicar la necesaria colaboración
+interespecies en los procesos metabólicos.
+En otras palabras, el proyecto se centra en el papel de un suelo sano en el
+futuro de los sistemas agroalimentarios, de los que dependen la
+biodiversidad, el agua limpia, la seguridad alimentaria y la resiliencia
+climática. Plantea la cuestión de qué significa cuidar el suelo en la actualidad
+y cómo ese cuidado puede moldear la forma en que cultivamos, nos
+alimentamos y coexistimos con otras formas de vida. En este contexto, los
+hongos emergen como indicadores clave de la biodiversidad, revelando el
+papel esencial de la colaboración entre especies para mantener el ciclo de
+nutrientes y los procesos ecológicos.
+La instalación presenta al público un dispositivo de sonido que funciona como
+un invernadero para el cultivo doméstico y la biosonificación de hongos
+saprofitos. Este entorno interactivo transforma el crecimiento de los hongos
+en un paisaje sonoro receptivo. La presencia del público se detecta a través
+de sensores en el suelo, convirtiendo sus gestos en música, moldeada y
+modulada por la propia actividad eléctrica de los hongos.
+RESUMEN:
+El proyecto artístico explora la interacción entre un suelo sano, los hongos como
+indicadores de biodiversidad y su impacto en los sistemas agroalimentarios.
+Presenta un dispositivo de sonido interactivo que convierte el crecimiento de hongos
+en un paisaje sonoro, modulado por la actividad eléctrica de los hongos y la
+presencia del público.
+…
+Breve explicación de la arquitectura del hardware de la pieza
+MYCOTUNE v.1.0, que constituye la base técnica de la instalación
+interactiva “Ritual Device for Fungal Humus”.
+El proyecto inicial consistía en medir las diferentes actividades eléctricas de
+las micorrizas, y evolucionó hacia una herramienta donde los hongos
+saprófitos, aquellos que se alimentan de materia orgánica en
+descomposición, actúan como controladores de un sistema de audio.
+Específicamente, nos enfocamos en el cultivo de hongos shiitake para que
+controlaran el sistema de sonido, como si se tratara de una banda musical
+que interpreta su propio metabolismo y ecosistema.
+El proyecto inicial consistía en medir las diferentes actividades eléctricas de
+las micorrizas, y evolucionó hacia una herramienta donde los hongos
+saprófitos, aquellos que se alimentan de materia orgánica en
+descomposición, actúan como controladores de un sistema de audio.
+Específicamente, nos enfocamos en el cultivo de hongos shiitake para que
+controlaran el sistema de sonido, como si se tratara de una banda musical
+que interpreta su propio metabolismo y ecosistema.
+Además, buscamos introducir una variable de interacción con el público a
+través de sus pisadas en un radio alrededor de la pieza. Esta interacción, a
+diferencia de otras basadas en el contacto manual o la detección mediante
+cámaras Kinect o sensores de movimiento, buscaba una inmediatez que
+respondiera a los pasos del espectador sobre un escenario de madera. El
+objetivo era lograr una performatividad lúdica que mantuviera la atención del
+público frente a la pieza. De esta intención surge el subtítulo de la obra:
+“Todos deberíamos ser músicos, bailarines y cultivadores de hongos (al
+mismo tiempo)”.
+A nivel de especificaciones de hardware, la pieza está compuesta por dos
+unidades de sintetizadores (Speaker #1 & #2). Estas unidades están
+estructuradas internamente con la tarjeta Bela.io en la parte superior, una
+tarjeta de procesamiento y generación de audio en tiempo real y de baja
+latencia, diseñada para la creación de proyectos interactivos con sensores y
+sonido, y desarrollada por Intelligent Instruments. En esta placa están
+programados íntegramente en SuperCollider todos los sintetizadores y las
+estructuras de sonido.
+Bela.io es un sistema embebido para audio basado en Linux que incluye una
+placa (Bela o Bela Mini) con un procesador BeagleBone Black y un entorno
+de desarrollo integrado (IDE) accesible desde el navegador. Su baja latencia,
+diseñada para una latencia de audio ultrabaja (menos de 1 ms), lo hace ideal
+para aplicaciones en tiempo real como instrumentos musicales digitales,
+síntesis de sonido y otros proyectos de audio interactivo.
+En la parte inferior, se encuentran dos unidades Biodata, de autoría original
+de Sam Cusumano, y producidas bajo licencia en Europa por los
+colaboradores Joaku de Sotavento y Bitdreamer.
+Este dispositivo de hardware libre, basado en Arduino ESP-32, amplifica las
+señales eléctricas de los seres vivos. Al conectar electrodos a plantas u
+hongos, detecta fluctuaciones en sus impulsos eléctricos y las convierte en
+notas MIDI u otros datos de cambios de control. Utilizamos las placas Biodata
+para medir la electricidad galvánica en troncos o sustratos colonizados por
+esporas de hongo shiitake. Estas placas miden la actividad eléctrica dentro
+del metabolismo del hongo, lo que nos permite determinar su velocidad
+metabólica. La configuración que utilizamos interpreta las velocidades
+metabólicas en una escala natural de Do pentatónica, generando notas MIDI
+en función de la actividad eléctrica. Una mayor actividad genera notas más
+altas, mientras que una menor actividad genera notas más bajas.
+esporas de hongo shiitake. Estas placas miden la actividad eléctrica dentro
+del metabolismo del hongo, lo que nos permite determinar su velocidad
+metabólica. La configuración que utilizamos interpreta las velocidades
+metabólicas en una escala natural de Do pentatónica, generando notas MIDI
+en función de la actividad eléctrica. Una mayor actividad genera notas más
+altas, mientras que una menor actividad genera notas más bajas.
+El protocolo MIDI es un lenguaje digital que almacena y traduce instrucciones
+sobre cómo debe sonar la música (duración, tipología de instrumento,
+cambios de control, etc.) e incluye una notación que corresponde a todas las
+notas del piano, desde la 1 hasta la 127. Entre las instrucciones MIDI también
+se encuentra la velocidad de la nota (velocidad con la que el dedo percute
+una nota en una tecla del piano), lo que afecta, obviamente, al volumen de la
+música. En nuestro caso, es la tarjeta Bela.io la que lee y sonifica dicha
+información.
+En la parte superior externa de cada caja o unidad sintetizadora
+(denominados “speakers” en el proyecto), se encuentran ocho perillas que
+funcionan como controles: 1) volumen maestro; 2) volumen de los audios
+generados por las pisadas; 3) sensibilidad de activación del disparo de dichos
+audios; 4) duración de su reproducción granular; 5) efecto que afecta a su
+reproducción; 6) volumen de los audios generados por los electrodos del
+biodata (conectados a los hongos shiitake en este caso); 7) duración de
+dichos audios; y 8) volumen de los audios de fondo (también controlados por
+los hongos). Mediante este panel de control, se puede realizar una sesión o
+mezcla de audio en tiempo real.
+En los laterales, se ubican dos altavoces autoamplificados conectados a la
+tarjeta Bela.io. Adicionalmente, el sistema incorpora una batería (Power Bank)
+para que la pieza MYCOTUNE v.1.0 sea portátil y pueda transportarse al
+exterior para realizar mediciones de otros organismos vivos. De esta manera,
+se generan biosonificaciones en vivo independientes del invernadero donde
+originalmente estamos cultivando nuestros hongos domésticos. El sistema
+también cuenta con dos entradas de línea en la parte posterior para
+micrófonos y una salida para audífonos en la parte frontal. En este mismo
+frontal, se ubica una pantalla donde se visualiza la información recibida por el
+Biodata distribuida en tres círculos. El primer círculo visualiza la nota: cuanto
+más pequeño es el círculo, la nota es más grave, y cuanto más grande, más
+aguda. El segundo círculo visualiza el valor directo de la velocidad metabólica
+leída en los organismos vivos. El tercer círculo informa del volumen real que
+arroja el sonido que está generando esa información MIDI en la tarjeta
+Bela.io. Con uno de los cuatro botones circulares de la unidad, también se
+puede cambiar el tipo de visualización de la pantalla. Es decir, se puede elegir
+ver los círculos ya mencionados o bien el dato numérico de la nota MIDI junto
+al canal por el que llega y su velocidad. También contamos con dos botones
+que permutan las pistas de audio y los fondos sonoros disponibles,
+controlados directamente por los electrodos. Finalmente, cabe mencionar que
+se ha integrado un botón que permite grabar las pistas MIDI que están siendo
+generadas por cada una de las placas Biodata. Al presionar este botón, y
+visualizar la leyenda REC en la pantalla, se inicia la generación en tiempo real
+de un archivo de texto CSV (Coma Separated Values) que registra cada uno
+de los datos MIDI que llegan desde los organismos monitorizados. Esta
+utilidad está diseñada para cualquier sesión sonora (por ejemplo, la
+recolección de setas en un invernadero), pero, principalmente, para su uso en
+
+al canal por el que llega y su velocidad. También contamos con dos botones
+que permutan las pistas de audio y los fondos sonoros disponibles,
+controlados directamente por los electrodos. Finalmente, cabe mencionar que
+se ha integrado un botón que permite grabar las pistas MIDI que están siendo
+generadas por cada una de las placas Biodata. Al presionar este botón, y
+visualizar la leyenda REC en la pantalla, se inicia la generación en tiempo real
+de un archivo de texto CSV (Coma Separated Values) que registra cada uno
+de los datos MIDI que llegan desde los organismos monitorizados. Esta
+utilidad está diseñada para cualquier sesión sonora (por ejemplo, la
+recolección de setas en un invernadero), pero, principalmente, para su uso en
+trabajos de campo y biosonificaciones de cultivos exteriores.
+RESUMEN:
+MYCOTUNE v.1.0 es una herramienta que utiliza hongos shiitake para controlar un
+sistema de audio, convirtiendo su actividad eléctrica en música. El sistema, basado
+en Bela.io y Biodata, permite la interacción del público a través de sus pisadas y
+ofrece controles para mezclar audio en tiempo real. Además, incluye una pantalla
+para visualizar la actividad eléctrica y un botón para grabar datos MIDI.
+…
+Breve explicación de la arquitectura del software de la pieza MYCOTUNE
+v.1.0, que constituye la base técnica de la instalación interactiva “Ritual
+Device for Fungal Humus”.
+Como se ha mencionado anteriormente, la tarjeta Bela.io está programada
+íntegramente en SuperCollider. Si bien también es posible programarla con
+otros lenguajes como C++, PureData, Csound, Faust y Max/MSP, la elección
+de SuperCollider se debe a sus excepcionales estándares de calidad de
+audio.
+Nuestra programación, ya integrada en Bela.io, invoca una serie de archivos
+de audio, en su mayoría interpretaciones vocales de la artista Coco Moya
+(vocalista del grupo Menhir), específicamente creadas para este proyecto.
+Estas interpretaciones se inspiran en las voces y composiciones polifónicas
+de los pigmeos Baka, originarios del suroeste de la República Centroafricana.
+Al igual que la música Baka, en las voces de Coco Moya se interpretan en
+sílabas o sonidos sin significado, con la intención de entrelazarse y participar
+en una canción generativa, similar al enredo múltiple de los ápices hifales que
+se enmarañan y se hinchan con el agua de su entorno para crear las setas.
+Además, también nos inspiramos en los llamados trackers musicales. A
+diferencia de los secuenciadores MIDI o los programas de audio (DAW) que
+utilizan una línea de tiempo horizontal y visualizaciones de ondas de sonido,
+los trackers emplean una interfaz vertical similar a una hoja de cálculo. En
+nuestro caso, la dinámica relacional de esta interfaz es la siguiente:
+El Biodata, dispositivo conectado a los hongos, genera notas MIDI en el rango
+de 1 a 127. No obstante, se ha implementado una limitación en esta
+traducción, restringiendo la generación de notas a un rango de 36 a 96 para
+evitar frecuencias demasiado bajas o altas. De esta manera, cuando una
+pista de audio es “activada por el hongo”, se adapta automáticamente en
+programación para ajustarse al rango de notas establecido (36-96) y apuntar
+a una sección de dicha pista, creando una “reproducción granular” del sonido
+enbucle.Eltamañodeestasecciónpuedevariaraleatoriamenteentreun1%
+El Biodata, dispositivo conectado a los hongos, genera notas MIDI en el rango
+de 1 a 127. No obstante, se ha implementado una limitación en esta
+traducción, restringiendo la generación de notas a un rango de 36 a 96 para
+evitar frecuencias demasiado bajas o altas. De esta manera, cuando una
+pista de audio es “activada por el hongo”, se adapta automáticamente en
+programación para ajustarse al rango de notas establecido (36-96) y apuntar
+a una sección de dicha pista, creando una “reproducción granular” del sonido
+en bucle. El tamaño de esta sección puede variar aleatoriamente entre un 1%
+y un 10% del tamaño total de la pista, determinando su duración mediante
+una de las perillas de control situadas en la parte superior externa de la
+unidad sintetizadora.
+Dado que la electricidad galvánica de los organismos conectados al Biodata
+se desarrolla secuencialmente en el tiempo, las voces también se suceden y
+acumulan: permanecen activas durante un tiempo interpretado en MIDI y se
+desvanecen, siguiendo una lógica similar a la de tocar una nota en un piano
+(NOTE ON) y luego soltarla (NOTE OFF). Estas voces se superponen
+gradualmente, creando una polifonía mayor, siempre considerando la
+velocidad con la que se tocaría la nota, lo que afecta al volumen de cada pista
+reproducida.
+Por lo tanto, aunque la “reproducción granular” sea un fragmento de audio
+aparentemente inconexo, se ajusta a una musicalidad occidentalizada (la
+escala natural de Do en pentatónica) que la codifica armónicamente para su
+percepción como una improvisación continua y coherente en tiempo real.
+Cabe destacar que la codificación de las dos unidades sonoras está asociada
+(afinada) a las octavas más bajas del piano, lo que genera sonidos más
+graves. Esta decisión responde a la intención de asociar conceptualmente el
+paisaje sonoro resultante con el espacio subterráneo del sustrato, el
+ecosistema con el que estamos en contacto constante: el suelo.
+Por último, se ha implementado un sistema de disparo de voces a través de
+las pisadas en el suelo circundante. Estas voces son moduladas por el mismo
+sintetizador, pero ahora las notas, en lugar de ser extraídas del ecosistema
+del organismo fúngico, se capturan a partir del sonido de la pisada humana
+en el ecosistema. De esta manera, se suman de forma reactiva e intermitente
+a la orquesta de cultivo de humus fúngico. En las pisadas también se realiza
+una traducción de la frecuencia obtenida con la nota Midi. La diferencia radica
+en que aquí se generan notas de octavas más altas, más agudas, para
+aportar brillo al paisaje sonoro y discriminar las voces generadas por los
+organismos no humanos de las que podrían generar eventuales
+espectadores, jardineros o bailarines humanos.
+RESUMEN:
+Bela.io, programada en SuperCollider, utiliza archivos de audio de Coco Moya
+inspirados en la música polifónica de los pigmeos Baka. El Biodata, conectado a
+hongos, genera notas MIDI que activan secciones de audio, creando una
+reproducción granular adaptada a un rango de notas (36-96). Las voces se
+superponen gradualmente, codificadas armónicamente en una escala pentatónica, y
+se complementan con sonidos generados por pisadas humanas, modulados por el
+mismo sintetizador.
+Bela.io, programada en SuperCollider, utiliza archivos de audio de Coco Moya
+inspirados en la música polifónica de los pigmeos Baka. El Biodata, conectado a
+hongos, genera notas MIDI que activan secciones de audio, creando una
+reproducción granular adaptada a un rango de notas (36-96). Las voces se
+superponen gradualmente, codificadas armónicamente en una escala pentatónica, y
+se complementan con sonidos generados por pisadas humanas, modulados por el
+mismo sintetizador.

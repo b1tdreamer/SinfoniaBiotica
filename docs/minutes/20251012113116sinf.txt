@@ -1,0 +1,3206 @@
+la
+si tiene…
+que está correcto
+ya, viene, ya viene
+a… ¿sabes correcto?
+no, no… no no
+Agencia y con creación multiscordial.
+Bueno, el honesto, perdón.
+¿Quieres decirlo tú? A mí no me hace especial ilusión.
+Ah, yo le he leído.
+Yo le he leído y puede que no me trabe demasiado.
+¿Estás?
+Entonces, sin faría biológica, lo que ha hecho Laura un poco fue el estado del arte,
+que es ver qué otros proyectos relacionados con el nuestro existen, ya creados,
+y una parte de fundamentos conceptuales que a mí me ha parecido bastante interesante,
+justo por lo que hablábamos, que yo no es la manera, yo no vengo de la parte académica,
+ni de mucho menos.
+Entonces, para mí, una análisis así como el que ha hecho ella, pues me enriquece mucho,
+porque pienso así y le ha dado importancia a esas cosas,
+que creo que sí que nos da una base muy interesante.
+Entonces, agencia y con creación multiscordial.
+Sinfonía biótica no pretende imitar la naturaleza, sino cocrear con ella.
+El proyecto surge de una concepción en la que los árboles y las plantas son sujetos de derechos,
+agentes con los cuales se puede establecer un diálogo sensible y creativo.
+Esta sinfonía no es una traducción de su lenguaje, sino una colaboración entre especies.
+La realidad virtual se convierte así en un territorio compartido,
+donde la especie vegetal y la especie animal, nosotros somos niños,
+puede ficcionar colectivamente.
+No buscamos apropiarnos de su expresividad ni reducirla a datos cuantificables.
+Cada especie mantiene su propia agencia, su forma de ser y actuar en el mundo.
+Inspirados por Bonajarawe, rechazamos la actitud antropocéntrica y jerárquica.
+Abrazamos una filosofía de interdependencia.
+En esta visión, el ser humano es solo un agente más dentro del ecosistema,
+con la responsabilidad ética de contribuir a su equipo.
+No buscamos extraer datos de las plantas indiscriminadamente, sino establecer un diálogo respetuoso,
+reconociendo su agencia y su tiempo vital.
+Cuando lo leí, dije, ush, sí, me gusta.
+Me gusta más que como yo pienso.
+Marco Teórico, actor red y ontología del grifón.
+Este proyecto se sustenta también en los plantamientos de Bruno Latour
+y la teoría del actor red, donde tantos humanos, tanto humanos como humanos,
+plantas, sensores, algoritmos, datos, son considerados actantes.
+No existen jerarquías fijas.
+Las acciones emergentes redes dinámicas de interacción.
+La naturaleza de los grupos no es fija, sino que se forman y disuelven constantemente.
+Las acciones no son solo humanas, sino que emergentes redes actables.
+Siguiendo esta lógica, Sinfonía Biotica reconoce que las plantas,
+los dispositivos tecnológicos, los artistas y los espectadores,
+son nodos interconectados dentro de una misma red de significación y afecto.
+El proyecto busca escuchar como cada nodo actúa, responde y transforma lento.
+Tecnologías no occidentales y escucha situada.
+El proceso de creación también se abra las tecnologías no occidentales
+de relación con lo vivo, como prácticas de conexión espiritual o vegetalista.
+Por ejemplo, el uso ritual de ayahuasca en comunidades amazónicas.
+Estas prácticas amplían la noción de tecnología más allá del dispositivo técnico.
+Se me parece súper interesante.
+Y no recuerdan que otras epistemologías de la escucha ya existían mucho antes de la digitalización.
+En lugar de extraer o medir, se busca consultar y dialogar con los actantes.
+Preguntar si quieren participar en la Sinfonía, interpretar desde un lugar honesto
+y sin pretesiones sedáctricos.
+Este enfoque coincide con la filosofía de Harahway y con la idea de una ontología relacional
+donde la creación artística es un acto de cuidado.
+Realidad virtual como espacio de no ficción.
+Sinfonía biótica concibe la realidad virtual como un espacio de encuentro multispecial.
+Un lienzo en el que las distintas formas de vida pueden manifestarse como actantes creativos.
+Este espacio digital no busca simular la naturaleza, sino abrir un canal de coficción,
+un laboratorio sensible donde se ensayan modos de coexistencia.
+Los árboles, con sus propias tecnologías y procesos de comunicación,
+son entendidos como organismos creados.
+Occidente, cegado por su antropocentrismo, ha sido incapaz de percibir su agencia creativa.
+En la Uber podemos imaginar un diálogo sensorial donde convergen nuestras tecnologías humanas
+con las tecnologías vegetales.
+Crecimiento, respuesta eléctrica, comunicación química, temporalidades lectras.
+Referente clave, India is of the unknown.
+Marshmallow, la selfish, de 2016.
+¿Lo habéis visto a todos?
+Ahora lo abrimos.
+O lo leemos y lo buscamos, por lo menos de un par de imágenes.
+Es uno de los referentes que había puesto yo.
+De hecho, estar en el mío, en relación a esto.
+Uno de los referentes fundamentales para sinfonía biotica es India is of the unknown.
+Una obra de realidad virtual que explora cómo sería ver y oír el mundo
+desde la percepción de otras especies.
+Los autores titan a Marcel Proust.
+The only true wireless of discovery is to behold the universe through the eyes of another human.
+Este proyecto se inspira en el concepto del filósofo Jacob von Euskull, el Humboldt,
+o el entorno perceptual propio de cada organismo.
+Cada especie crea su realidad sensorial en función de sus capacidades biológicas y su mucho ecológico,
+revelando así la diversidad perceptual del mundo vivo.
+La obra se compone de cinco capítulos, Mosquito Liberula Rana Buo,
+que proponen experiencias multisensoriales en VR, acompañadas de paisajes sonores en 360.
+Los autores produjeron tres films paralelos que documentan el proceso de creación.
+Forest, Victor World y Sound in 360 3D.
+Para Sinfonía Biótica, esta referencia ofrece una base conceptual clara,
+experimentar la percepción de otra especie, no para representarlas, sino para sentir con ella.
+Y ahí nos ponen unos ejemplos que sí que podemos, ahora los podemos buscar.
+Mira a ver ahí, ah, tiene el miro a lo mejor.
+El miro con un.
+Si esa gente ya en 2016 estaban trabajando con sensores lidar y demás,
+no existía todavía la tecnología Chaos in Exploring que estamos utilizando nosotros,
+antes tenías que invertir en tener unos equipazos mucho más potentes
+para conseguir unos resultados más o menos similares a los que estamos tratando de conseguir nosotros.
+Pero lo juegan muy bien, a nivel cromático me gusta muchísimo como lo hacen,
+pero a nivel, yo creo que tú sí que lo has visto, aunque no lo hayas reconocido,
+porque alguna vez hablando de cómo quería que se moviesen las partículas,
+a lo mejor no la obra en sí, pero sí te he puesto alguna de esas imágenes,
+como ejemplo, del WayV Movement, de los puntos.
+No son los que hemos hablado sobre.
+Son esos.
+Tiene que ser, ahora lo reconocerás.
+Sí, porque de hecho tú estuviste analizando cómo hacían para reconocer la gama cromática sobre el fone o algo así.
+Si quieres duplicatela, que va a ser más fácil, aunque perdamos un poquito de pantalla para acá.
+No es, por un poco se va a detallar.
+Ente.
+¿No? ¿Quién sabe?
+Sí, seguro.
+Creo que a la izquierda, creo que arriba.
+Sí, de las primeras, yo creo que están en los primeros enlaces.
+Creo que sí, creo que en la segunda, empezando por la izquierda.
+O no, esas son tuyas.
+¿No?
+Te lo busco.
+Porque...
+¿Cómo fue una nueva pestaña? No era control.
+Otros ergositos.
+¿Quién quiere que ha hecho así?
+Sí, pofi.
+Bueno, tengo uno.
+Sí, sí.
+Gracias, María.
+Oste, ¿se puede ver en meta?
+Oste, eso no sabe.
+¿Habrá que comprarla o se puede comprar?
+¿Qué?
+No me he dado cuenta de lo que eso se podía...
+Ah, así cuáles.
+¿Sabes, no? Por los colores.
+Vamos a preparar.
+Sí, yo lo que hice, aparte de la propuesta que traigo yo,
+son ideas que sacaron de algunas otras que he visto,
+de Quidamnesia y de otras tantas.
+Qué guay.
+No hay que reinventar la rueda.
+Si algo funciona.
+Y yo me vi la experiencia de esa, sacando en plan,
+ostia, esto está increíble.
+Ostia, esto está increíble.
+Ostia, esto yo lo quiero.
+Pero yo tenía la página propia de...
+la página de ellos que yo buscaba.
+¿Cómo se llama?
+¿Más o más de la surface?
+Sí.
+Es que no sé si...
+Gracias.
+Ahí va.
+Ahí.
+Vale, gracias.
+¿Y esto está en las casas?
+Porque por las casas.
+Sí, ves.
+Y ya tiene años, porque eso sí lo han hecho en 2016.
+Esto es para mí.
+Gracias.
+Sí, gracias.
+Gracias, amor.
+Y va a traer pasitos para esto.
+Pero no, no.
+Hay leche.
+Sí, hay leche.
+No sabía qué es lo que dieron.
+Yo creo que me va a dar en que te sale.
+Vizca, a mí me pasó lo mismo.
+¿Tú te das también?
+No, pero lo que me parece para él es que cada vez que doy esa curva,
+es de la punta de morir.
+Es que el encerado del parque no cargaba el diablo.
+Pero no tengo la esculpa.
+Que se puede ver esa...
+Qué lindo, mira.
+Claro, esa es una de las...
+Sin amor, no.
+Pero bueno...
+Si es propietario,
+dentro de poco.
+Dentro de 20 años.
+Esa curva más de poco.
+Sí, es la verdad.
+Especial.
+Sí.
+Volve a ver con esta lámpara.
+Bueno...
+O te lo aprendas.
+Toda la vez.
+Es que me olvido, porque a veces me doy.
+A veces me vas, a veces me olvido.
+A ver...
+¿Qué estás intentando probarlo así de repente?
+Ya, ahí va a bajar.
+Pero no tiene sentido hacerlo ahora, quizá no.
+Si lo va a bajar.
+Sí, ese era mi estrategia.
+O de novia proba nunca estas de...
+Las 3D.
+Son místicas.
+Sí.
+Pues lleno de las lentes o más chicas.
+Más ligera.
+Bueno, yo también tengo el armazón.
+Es más como...
+de imprimientos de un casco.
+Ya ves las cosas.
+Sí.
+Qué bien, gracias.
+Qué bien.
+¿Este lo puedo mover ahí?
+Para que no se manche de cosas.
+Sí, sí.
+Gracias, María.
+Como María.
+Hospitalidad.
+No, no sé.
+María, ¿sabes cuál es el cualito de allá?
+¿No sabés todo?
+¿No sabés todo?
+Sí.
+Sí.
+¿Qué es el sinfonía de mi estrategia?
+Tiene que ser así.
+Sí.
+Plus 1, 4, 7.
+Hostia.
+Es algo...
+Intervisible.
+No.
+No, no.
+¿Cuál que tengo el wafa anterior?
+A ver, ¿me puedes poner?
+Sí, sí.
+Y minúscula.
+Y mayúscula.
+9.
+B minúscula.
+A minúscula.
+2.
+B mayúscula.
+B minúscula.
+B minúscula.
+B mayúscula.
+A minúscula.
+Estaba ahí.
+A minúscula.
+Porque no cabíamos todos.
+La caza de minúscula.
+B minúscula.
+Y mayúscula.
+Y mayúscula.
+A minúscula.
+B.
+B mayúscula.
+¿Qué es eso?
+¿O no?
+Sí.
+No sé si han subido eso recientemente.
+Porque yo no la he visto.
+Yo no voy a tener más de muertes.
+De momento...
+Este creo que no.
+Tengo pilote de pilotes.
+Sí.
+Pues es que no sabíamos.
+Había que la gente...
+como que se puede descargar esa...
+esa experiencia.
+¿Qué?
+¿Qué?
+¿Cómo se llama?
+¿Te estoy viendo, chaval?
+¿Qué se llama?
+¿Cómo se llaman, entonces?
+¿Cómo se llaman, entonces?
+¿Cómo se llaman, entonces?
+Creo que se imaginan los...
+los ciclólogos vistos, ¿no?
+Más tú, que un bé, y todos.
+Estamos todos compartiendo por la sala.
+Y los metáberos.
+Si no te quedan lo contrario, cada uno con sus rafas
+todos trabajando en un bar virtual
+que realmente hace una rafa.
+¿Qué es eso?
+Es el...
+Alza.
+Qué chulo.
+Estos que han ganado sandal, no, así.
+¿Por qué?
+Por estar intendo.
+Sí.
+Es que en 2016 se vendía muy bien.
+Lo podemos comentar, y si lo podemos ver
+las cosas.
+No hay un gameplay.
+Eh, va. Tenemos que decirle a autoguía aquí, y ya después luchamos.
+Vale.
+Si vemos un segundito de esto para...
+Ah, por el sonido. Se puede poner sonido.
+Creo que es importante.
+Ah, está sin olor.
+Es también como paisaje.
+No? Creo que te lo había sido.
+Sí, por antes.
+No sé si se va a dar fuera a esta habitación.
+Aquí era.
+Este no lo conocía más antes de...
+Sin poner la biótica, de hecho, la de la estudiación.
+No, no.
+Vale.
+¿Y qué opina es el sonido?
+Bueno...
+Por ahora está como hasta un té...
+Si, no.
+Sí, como la presencia.
+Sí.
+No, no hay fallo.
+Es que salió la bió reciente.
+Vente.
+Sí.
+No, no hay fallo.
+No, no hay fallo.
+No, no hay fallo.
+No, no hay fallo.
+No, no hay fallo.
+No, no hay fallo.
+No, no hay fallo.
+Y quizás la vi, reciente, veinte.
+Wow.
+Y parece que nosğan mejora mucho, yo no era consciente.
+Pero cuando se lo enseñó, Joaco le gustó un montón.
+Cuántos enseñan a saber más.
+Qué bien.
+Sí, es que yo no lo veía azimutanso.
+Yo vi la primera versión.
+Sí, solo con los sonidos.
+Exacto.
+Y claro, está muy...
+Y lo vi ahora la última.
+Y me encantó.
+Es que están chulos, la cancionaria.
+Super, súper chulos.
+Ajointar todo.
+Ajointar todo.
+y algunas veces después...
+Bueno, si es una ciudad, pero ahí.
+Pero estar ahí, eh?
+No sé. Con la gente con los artistas
+¿estás bien? No, no me he convencido.
+Vamos a hacerlo en jaca para fin.
+En jaca, pues siempre.
+No, no, no. Por favor, os acepte algo
+en denuncios.
+Hay sistemas de partículas que se ven
+y podría ser una opción, también.
+Si lo que queríamos era algo también que nos te pase.
+Pero dices y nos dijiste
+que podrías cambiar esto, no sé
+pero no es como símola, es que nos ubique un par de anuncios en una de estas plataformas de Brilance
+para encontrar a Andi que nos llevase en la parte de Naira Systems, que es que no se llama la parte de los sistemas de las partículas estos, en la Unreal
+y en el pasado a María también, no desde el repasio, pero no contra a Andi que nos...
+Y eso también, que no me diga.
+¿Qué te pasa?
+Yo estoy reventando, porque no entiendo todo.
+Claro que me levanto hace como...
+Y aunque me preparas, solo me voy a ir al contacto también.
+De menos no me he traído cafetines sin agujeros, como antes.
+Yo creo que con agujeros sería mejor, porque así el pie atárvamos las entes, ¿verdad?
+Yo tenía uno, me he puesto unos con agujeros y he dicho, a lo mejor hay que quitar cerca de ti.
+No va a ser que la calpa de María.
+No va a saber que soy un descuidado.
+Esta otra también es esa gente.
+Yo creo que nos han ido pasando un poco de la tecnología UVR,
+van a hacer cosas inmersivas, pero en pantalla.
+Tuve que tomar más gente, más fáciles.
+Ah, bueno, también estuve viendo.
+Te trabas, ¿no?
+Es que eso era...
+¿Pero a mí?
+Para performarnos, ¿es como si fuese una especie de astronauta o incluso los que tenían las cafandras?
+Sí.
+Pero mira, se ponen estas cosas en el baile.
+El tracker, el baile, tiene...
+Porque el baile, si dices, está dentro, no es de dentro.
+Entonces, tienes como traves, que es una cosa así horrible,
+para realizar tu mano.
+Ahora ya no hace falta eso.
+Lo bueno es que se ponen en los pies, en las manos y en la mochila.
+Y con esto la cabeza, ya es como un esqueleto humano.
+Ahora solo tenemos un vaso alto.
+Usa aproximadas un poco.
+Con aire, con una animación.
+Yo no soy muy fan.
+A mí no me gusta el sonido.
+A mí no me gusta.
+Pero a veces la que no se ha dimostrado.
+O sea, si una persona que no se ha dimostrado un crípto...
+A veces como la que más se parece...
+A lo que está, pues a mí me gusta.
+Puedes elegir unos otros colores, pero no se sabe.
+Toda la gama.
+Mira que me gusta, es que es todo...
+Tiene una paleta de colores.
+Sí, es otra vez muy captada.
+No es lo captado.
+Es más orgánico.
+Y eso podemos jugar.
+Es decir, podemos saber si llegue y luego vamos a intentar.
+Eso creo que es relativamente fácil.
+Pasar un cintro al todo el salvo de color, pasar un cintro.
+Ah, como esta meta.
+Lo que podría ser más fácil.
+Y también lo que había dicho.
+Pero en la reunión de que, por qué,
+no podría ser un espacio que se haga en la compañera
+o por qué le dejó un espectáculo en contraste
+cuando hubiera sido.
+Sí, una escena con su universo.
+Con su universo.
+Es como en las peles.
+Es como en las peles.
+Pero como que nos hace un trabajo a hacer una rabia
+porque no tiene como esta disidencia en el color.
+Sí.
+Luego, si queréis, podemos revisar esto.
+La anjola mía sirva aquí.
+Sí, sí, sí.
+Yo lo que he pensado es,
+unos seis minutos que pueden ocurrir
+antes de las escenas que ya tenemos en el salvo hablado.
+Eso es muy loco.
+No estoy hablando.
+Pero bueno, eso es lo que he diseñado.
+Una vez pues a eso.
+Serían diferentes escenas.
+Son seis en total.
+¿Trabajamos esto con el audio?
+Sí, estoy grabando el audio.
+Y sí, no, no, estoy grabando algo con la cámara de atrás.
+Entonces, dejarte, no te quedes ahí en una chave.
+Yo creo que lo podemos dejar ahí.
+Y que no...
+Tengo un rico de sitios.
+Es chula esa cosa, ¿eh?
+Yo entro.
+No lo sé.
+Bien, dejarte.
+No, no, no, no.
+Se me violó mi broma.
+No me quede.
+Mira Testima, en cambio está la figura salvat uncomforta.
+Ahid que estoy bien.
+Hay otros sitios.
+Sí, sí, él también hay otros sitios.
+Se sonemos los sitios.
+¿Qué te mira así?
+En primera plana.
+En primera plana.
+Yo me hago acá,
+en el encok rido
+y tú te haces ahí,
+tú m'hadero...
+Te Polarita porque mal,
+240 mil,
+2007
+¿Hola?
+Esto es que...
+¡Nos hemos muerto!
+¡Venganos!
+Es que nuestro barco ha sido secuestrado.
+No, para mí no, no, no.
+Hay que jugar con esto.
+Sí, sí.
+Es que mi abuela la hubieras visto que nuestro barco ha sido secuestrado.
+¡Ay no!
+¡No, no, no!
+¡Masito!
+¡Ay, no!
+¡No, no, no, no!
+¡Eso es polimitri!
+¡Ya!
+Bueno, entonces, como ya hemos imaginado
+esa protoguillón que se me acudió,
+tendríamos una escena cero,
+que es la introducción,
+se subra el boss,
+y el usuario aparece en un espacio escuro y tranquilo.
+Entamente, en un entorno oscoso y oscuro,
+se materializa su alrededor,
+con la lectuén en una luz ceno y filtrada.
+Escuchen sus ojos y los nudos filtrados
+que aparecen en la industria de las piernas.
+Inteligibles pero invitantes.
+Las partículas de luz comienzan a bajar
+suavemente en el aire,
+como aparecen la luz,
+reaccionando a un sonido abierta al bajo.
+Con la protoguillón en un árbol central,
+habíamos pensado que pudiéramos los utilizar,
+o no, ya veremos la escena.
+Nos acercamos a ese árbol central,
+esto todo, no es que el usuario se acerque,
+le llevamos al usuario.
+No hay...
+Puede haber movimiento hacia los lados,
+se puede mover si quiere,
+pero en realidad le estamos de nuevo.
+Habíamos un secuestro,
+pero por lo malo,
+se podía mover.
+Esa persona,
+y le damos esa posibilidad
+de interés a esto,
+desde más abajo a más arriba,
+pero no nos puede mover.
+En unas partículas nos llaman la función.
+Era ese árbol, nos acercamos,
+y el inicio de un mango
+se expande, formando un túnel,
+que observa el acero.
+Habéis pensado,
+habéis de las maravillas,
+nos traba la tierra,
+todo lo que vamos a ver a continuaciones.
+Autopista de infas.
+Las hipas son cada una de las
+de los tilos,
+por los que los hongos...
+Es como la maravilla del inicio de un hongo.
+No son esos pelillos,
+que podrían ser similares a las raíces
+de las plantas.
+Eso se llama hipas.
+El usuario es impulsado a través del túnel
+de islas fórmicas.
+Las paredes son orgánicas, pulsantes,
+y transmiten ráfagas de luz
+y símbolos abstractos.
+El sonido es envolvente,
+y los de sonido,
+son cosas que me ha propuesto la lla,
+yo no me pido el sonido,
+ya veréis vosotros lo que hacéis en cada parte.
+Pero básicamente,
+tenemos cómo es
+ir llevados
+por las autopistas
+información de los hongos bajo la tierra.
+Ahí, por ejemplo,
+¿te acordáis cuando he dicho
+que me traigo este,
+que he dicho, esta parte me gusta,
+tiene como luces en los troncos.
+Imaginaos que estamos dentro
+del tronco del árbol,
+y el túnel alrededor tiene este tipo de pulsaciones,
+como sería una imagen básica.
+Yo me imagino algo parecido,
+pero...
+Vale.
+La transición a la siguiente escena,
+el túnel se estrecha y luego de repente se abre
+o aparecemos a un espacio vasto,
+porque me gustaban mucho eso de repente,
+de ir en agua muy pequeño,
+con una puertecita en Ana,
+pero de repente es un universo
+algo que sí te puede matar,
+el vuelo de la abeja solitaria.
+Entonces, de repente aparecemos,
+la perspectiva cambia únicamente,
+no se nota, ¿no?,
+que es robada de suerte.
+La abeja solitaria me gusta,
+porque a nivel también biológico
+es un animal muy guay,
+porque lo único de las abejas
+son las colmenas,
+hay abejas que son independientes,
+hay familias que son solitares.
+Sí, sí, sí, por eso me gustaba también por eso.
+¿Por eso qué cobertura?
+Que luego se separeja en toda.
+Visita la bejita.
+La perspectiva cambia únicamente.
+Vario ahora ve a través de los ojos de una abeja,
+el campo de bichin se amplía,
+se mueve libremente y cuidadamente
+por el bosque,
+le voy a ensargar en esa escena
+la escena.
+El mundo tiene un efecto para la que me gustaba
+mostrar el mundo desde los ojos.
+Sida el movimiento de una abeja,
+pero también no sabemos cómo ven los insectos,
+tienen ojos completamente diferentes.
+Entonces jugar, sobre todo,
+veis cuál es lo en una cámara, no sé si habéis usado alguna vez las cámaras,
+una cámara
+una cámara
+Netflix.
+Tú si haves
+ya no si haces tú
+o no haces tú.
+Cuando cambias
+la profundidad de campo
+¿Qué extraño te parece?
+Eso es.
+Jugar con las dimensiones
+de las cosas.
+Con la perspectiva en realidad,
+con la perspectiva del campo de visión,
+que sería lo más adecuado.
+Pero como jugar con esas
+con el tamaño de las cosas más allá.
+Bueno.
+El mundo tiene un efecto para la que se ha generado
+en el fondo
+que ha una sensación de profundidad infinita
+simulándolas como madrugos y secos.
+Las artículas audio-reactivas
+el pol en la luz
+se escurren a su paso.
+Esto acabaría en
+de repente hay una flor que nos llama
+vamos a hacer una flor que la tengo ya escaneado
+que es una orquídea silvestre.
+La beja abuela,
+esa flor gigante y al acercarse
+se revela como un portal de luz blanca
+que lo atravesamos o nos favocita
+Ya vemos.
+De repente esa luz
+se va haciendo cada vez más grande
+y el fondo de la escena se vuelve
+hasta ahora.
+Fondo negro con las artículas en colores
+y ahora de repente estamos a través.
+Estamos flotando
+el usuario que está aquí en el centro de un espacio sin gravedad.
+El fondo de la escena.
+Vamos a hablar con los sistemas de artículas
+y artículas coméctiles
+que no estoy seguro, pero bueno, principios artículas
+van viniendo de una o de otra.
+Hay una escena en vida amnesia
+que ocurre exactamente eso.
+Está disfrutando, creo que es enero
+pero no está disfrutando y te vienen
+de todos lados
+vienen con unas formas que no puedes parar
+que no puedes controlar y te atraviesan
+a vueltas.
+Pero me gusta mucho esa manera
+de hacer las cosas.
+Me gusta mucho la experiencia de la ley
+que puede estar cualquiera.
+Esos sistemas de artículas que vienen
+desde diferentes direcciones
+atraviesan el usuario
+y continúan su cargo.
+El usuario puede intentar
+interactuar con ellas
+pero no nos van a habilitar.
+Un áspero alrededor que la repele
+y se acercan, pero no cualquiera.
+La transición
+de la escena.
+Escena 4.
+Estamos en el centro de un toro
+de la forma como se supone
+que fluía la energía del mundo.
+Y estamos dentro.
+En la escena interna
+utilizamos o bien shaders
+o ya vemos que
+cosas locas.
+Pero el toro es enorme.
+El toro es enorme.
+Entonces
+me gusta más el toro.
+Si tú estás en el centro de una esfera
+se nota que es una esfera.
+Si es un toro
+que está más cerca, más lejos
+y es jugamos a romper un poco la
+realidad y la perspectiva del usuario
+eso es en la vida global.
+Y es en su parte interna
+estamos dentro de su parte interna
+vemos shaders, pasiones de la naturaleza
+o ya vemos que
+siempre jugando con esa
+comprensión de la naturaleza
+o con ese sí, con ese lenguaje
+y simbolismo de la naturaleza.
+La superficie empieza a estacionarse
+deformarse
+y las deformaciones en el toro
+se gobierta en un hueco negro
+que funciona el usuario.
+El usuario es absorbido
+por un túnel de discusión
+donde el sonido modifica el tamaño
+y las posiciones de partículas.
+O sea que podemos técnicamente resolver
+el sonido de ciertas partes
+para analizarlo.
+Graves del sonido modifiquen
+la realización de las partículas
+abajo y los abusos en las partículas arriba.
+Sale un espacio
+en la estructura imposible
+en el estilo escher
+en ventanas
+a
+diferentes versiones alteradas
+de escenas anteriores.
+Esto también lo pensaba como
+un lugar desde el que ver
+pero también poder ir
+a las diferentes escenas.
+Como si fuera el menú que tenemos ahora.
+Una vez todo acabe
+podemos acabar en este espacio también.
+Ves ventanas a las diferentes escenas
+cuando las atraviesas te vas a ella.
+No me digas navegarla, me pareció obvio.
+Pero bueno.
+Ahora es un acuerdo de un historio
+que está en Nueva York. ¿Cómo se llama aquí?
+¿La en la Navidad es?
+Sí, como se llama en Nueva York.
+Aquí sí.
+Ah, pero es allí antes.
+Sí.
+Hay un...
+Hay como alguna parte
+en donde el yata como que puede ir
+a las diferentes escenas.
+Ángeles o telados.
+Sí.
+Sí.
+¿Qué se dice antes de la Navidad es
+donde se llama a la madre
+en mi cumbre?
+¿Por qué?
+Porque es una sierra que cuando sí
+antes de una Navidad 10 de esas
+para personas que no pueden ver,
+te quedan por favor.
+Y eso se hizo.
+Sí, la disociación sí.
+No lo apreté porque en unos cuantos minutos
+no me voy a mentir en esta cara.
+Entonces, pasar por un lugar
+que no tuviera sentido concreto.
+Es decir, que a lo mejor
+puede ser una espiral
+o algo que sea como un bucle.
+Y podamos ver
+cosas de las escenas previas
+y como escenas futuras.
+Sí, sí, sí.
+Como la Matrix era
+los multiversos.
+Cuando ve, de repente, las campañas de
+sus diferentes personas.
+No es bien.
+Es un viaje por la memoria
+del sueño.
+Aquí una de las criaturas amíricas
+que ya empiezan a aparecer.
+Una forma tracta y amigable.
+Aparece reveramente y al usuario colocando.
+La exigencia sería respirarse
+moro en el pixel, cambiando la perspectiva
+o una cámara hacia el 2D.
+Y eso también es cogido
+de la experiencia de Filamis.
+Imaginaos que de repente eres
+como una primera persona
+y de repente entras en un lugar
+en el que la cámara sale de ti
+y se pone como si fuera
+un tipo de plataforma.
+Un juego de Mario.
+No sé si la podemos hacer
+o es demasiado obvio
+la referencia, pero...
+Hay otros que lo hacen.
+Sí, no.
+No sé cómo lo vamos a poder hacer
+en tal vez.
+No pensé por si por eso.
+Sí.
+Si es moviendo la cabeza
+pero lo que cae en el pixel
+hay juegos que tienen eso.
+Sí, verdad.
+Me parece que no es propio.
+Que no es solo el día en el copyright.
+Claro.
+Es muy curioso porque
+solamente una parte
+de la pantalla se vuelve a hacer
+y lo que se dice en el 3D.
+Es como que tú ves a Mario.
+Siempre ves a Mario
+desde el 3D.
+Pero luego como que llega
+a una parte de donde se me diga
+y esa parte es el 2D
+y yo es la persona haciendo 2D
+cuando todo se parece 2D
+si está como incrustado en la pared
+tú puedes mirar lo que está pasando
+en la pared, pero si no tiene otra persona
+como incrustado como si fuera un juego
+y de hecho esos cambios pasan
+los tomotos de sus juegos
+que son las autografías
+y también el ritmo.
+Yo sé lo que le digo.
+A los y los y a los y los y los y los.
+Es como si fuera un proceso
+y los y los y los.
+Vale, entonces
+de repente la siguiente
+sin testena sería si cambió la perspectiva
+no sé muy bien, no le he definido mucho
+pero de repente si salimos
+a otra banda de vez, el usuario avanza
+automáticamente como una plataforma
+y no se pude faltar las pruebas.
+Vamos con las luces y las sombras
+para crear secretas.
+Vale.
+Bueno, sí.
+Yo tengo más preguntas
+que
+no, eso es importante.
+No, pero es tan chulo.
+Vale, estén a 7
+y yo creo que es la penúltima
+reaparición
+y los centineras.
+Los centineras son...
+y luego la encendemos.
+Chau.
+Eso de alguna manera
+tenía la intención
+de que fueran...
+Eso va a estar
+la idea es que las estén en casa, en las casas de la gente
+y estoy mostrando
+información de ese árbol
+digamos que ese es un ser
+que está enlazado con un árbol
+y va mostrando la información
+de...
+Entonces
+el plan era
+en la experiencia, los centineras fueran
+una mente importante, que al acabarse
+ya la gente pueda tener eso
+y sería como un recordatorio de
+la experiencia y de la conexión con lo que haga.
+La escena 7.
+El usuario
+aparece en un espacio similar al inicial
+que es el Timboski
+con diferentes árboles y demás
+pero ahora además
+tenemos la capacidad de ver esos seres
+de nutricios en esta vida
+entre estos tractos y mágicos enlazados
+con cada uno de los árboles
+que dicen la distracción
+y el usuario cuáles casas son ellos
+o se les acerca a cada uno de los centineras
+de los árboles que escucha el sonido
+similar al dispositivo real
+para que la gente haga un clic.
+La idea es que los centineras sean el recuerdo
+tangible de eso
+y escena 8
+serían los créditos
+y el escenario aparece en nuevo
+pues en la escena de Kapaloke
+el usuario se encuentra caminando sobre
+los nombres de los créditos
+y es como que
+los créditos
+como en textos
+se vuelven objetos
+como físicos
+que pueden funcionar
+entonces como que te van atravesando así
+como que tu vas cayendo
+como utilitamente
+y los créditos
+no te hablan de acuerdo
+pero como que te puedes meter dentro
+de los nombres
+se puede
+una serie tan rápida
+eso no
+eso no
+eso también
+pero esas cosas son más sencillas
+por eso
+lo más difícil de ver
+las cosas
+pero si podríamos
+es un poco mi idea
+pero mucho en el juego que estáis haciendo porque es muy físico
+claro, es como tu corazón
+el neste yo haría más algo
+por ejemplo las partículas
+y por ejemplo
+o que el nombre
+formáis un árbol
+ah, bueno
+el parterizante
+el parterizante
+como lo voy a hacer
+y entonces ahí acabaría la película
+y vivíamos a un lugar X
+que podría ser la espiraleza
+y ya el usuario
+si quiere
+la gente vea esto
+pero es algo
+la gente lo quiere en casa
+puede ser esa experiencia
+y posiblemente visitar cada uno
+de los niveles libre
+lo que ya habíamos creado
+en experiencias de festivales
+así como de
+experiencias multiescenas
+generalmente lo que me ocurrió
+es que te hacen elegir
+a veces
+como realmente
+hay alguien ahí
+de bicicleta
+si
+y no están exagerados
+y no puedes ver todas
+claro
+a veces es muy interesante porque lo que puedes creer
+es adquirirlos todos a ver todos
+si, yo le digo
+no sé, depende
+depende también del formato
+es como que tienes como una
+si
+una probadita
+si, porque no puedes experimentar
+lo bonito de esto es que en 6 minutos
+tienes la parte
+y luego
+y contenido
+espacios, embriocatas
+y cosas así
+y como dice Salome
+chiqui
+claro, claro
+con este dinero te va
+esa es mi idea
+de esas
+es que conectar todos
+ostras, te acepten las
+por algo te preparas 5 de casa
+y ya bueno
+como a las plantas de maria
+a fea
+a fea
+que hay
+que hacemos, comentamos
+la respuesta
+o hablamos todas y luego las discutimos todas
+yo le doy las todas
+yo le doy las todas
+porque se parecen
+yo creo
+si bien
+que vengo bastante
+que la respuesta
+se acerca un poco
+a lo que soy imagino también
+que bueno
+yo también
+lo tuyo es como el más visual
+lo tuyo es como el más visual
+a ver si lo tuyo es como el más visual
+a ver si lo tuyo es como el más visual
+que quieres que lo tuyo
+pero esto está muy bien
+¿da esto?
+si, a ver
+no tienes a ver a tu propia pobreza
+a mi propiedad
+voy a poner un buen sumo
+madre
+madre, cuida para el vídeo de la foto
+perdón
+es un lugar de falon
+que hay
+que es lo que más grande
+vale
+me voy a poner un poquito
+a ver
+a ver
+a ver
+ya no he intentado
+no está bien
+no he intentado dejarlo
+solo que hacía bloqueo con su pierna
+y me voy a mover la mierda
+a ver
+a ver
+muy bueno
+a ver
+me hizo una prelista
+me hizo una prelista
+¿en serio?
+si
+¿por qué tuyo es muy sonoro?
+no, pues así
+pero no va a ser así
+es maravilloso
+feliz punk
+perfecto
+en el spot, fuera de una rosa
+nos vamos a juntar la tira
+¿tú usas tira?
+pero tira también es
+no, no lo he escuchado
+yo me pasé al dícer
+dícer, ¿qué es eso?
+pero dícer también
+dícer, creo que
+no
+son grandes sonoraciones
+y sociales
+no tiene una cosa así
+¿lo mismo es Spotify?
+yo tenía un Spotify
+yo lo he escuchado
+¿cobus?
+¿que es otra?
+son todas expresas tecnológicas
+ninguna
+va a ser un amor
+pero es demasiado
+en serio
+es como la esperanza de los músicos
+entrar en militares
+ya ni siquiera hay que seguir
+lo que dan para comprar su sátel
+es como toda la disculpidad
+de parte es una mierda
+porque como que con mía
+hacen música con artistas
+que son intensas
+para que ellos sigan
+y como tienen muchísimas recuerdos
+y son los caros
+te paso también
+te quedo de verdad?
+yo no me gusta
+yo tenía todo el día por casa
+qué guay eso
+algo así me imagino
+creo que
+de lo que me pareció perfecto
+el mío es un poquito más
+digamos como
+más
+recorrido como un plan
+montaña rusa
+sendero
+yo como la diferencia anterior
+no haría esto
+tengo un par de lágrimas así
+de referencia
+es tan especial que no crees como la que es mi
+ojo de lo que
+pensé
+y así me está diciendo
+que me hizo una playlist
+para esto
+y esperé para esto
+así que
+sí
+entonces como que
+hay diferencia de la versión anterior
+me había pensado esta
+otra versión
+como mucho más de inedal
+como recorrido de inedal
+porque siento que hay diferencia
+de lo que pasaba en las experiencias interiores
+como que la gente o lo que sentía muy perdido
+sobre qué hacer como que no había indicaciones
+de para dónde y como que
+no sé si tiene que ir para adelante
+para atrás sin tener que quedar quieta
+entonces como que pensaba
+ser muy obvios como
+el decir
+que hay que ir para algún lado
+o hay como que darle como muchas más
+pistas
+explícitas al jugador
+sobre lo que hay que hacer
+entonces yo me voy a plantear estas experiencias como recorrido de inedal
+en donde el jugador avanzará en un camino
+que estructura la secuencia de los visualizaciones
+entonces básicamente ya me imagino como
+un camino como de A a B
+en donde en ese camino pasan 12
+y cuando llegas al final ahí se puede
+meter como una parte más
+digamos como explorar el mundo
+de manera tridimensional
+pero como que yo me he pensado un poco en esta idea
+para que cuando tú vas entre divas
+tienes como cosas como pasar pero igual te puedes parar
+si quieres investigando que está pasando
+pero sigues y como toda la parte
+digamos secuencia visualizonemática
+que es la de A a B pasan
+y sería para ti sería el usuario
+en que mueve
+su cuerpo
+no lo sé, osea como que me parece
+es un tecno y también bastante idiomático
+digamos de estos medios de control
+y moverme para elante
+pero también puedes hacer algo que simplemente
+se esté moviendo como en la cámara
+igual como en el ser dos, no sé, también estaría interesante
+como que en un momento en donde te puedes mover
+por los controles y en otro momento en donde todo
+se mueva, solo como si tuve
+un tecno estuviera como tirando
+para adelante
+si como que el documento igual de esto
+sigue siendo como el viaje, siempre como hacia adelante
+entonces bueno
+esto también lo vamos a utilizar
+estos unos tipos de
+desplaz de árboles y hongos
+y
+en cuanto a mecánicas como que yo quería reutilizar
+las cosas que ya hemos hecho
+como activar cosas con triggers
+activar cosas como triggers
+para activar cosas, utilizar como colinas
+y cosas de explosividad, digamos para
+para que pasen cosas, tener una pregunta
+cuando llegas a X-Punto, te sogas con algo
+se escucha algo, se curra
+las cosas en los eventos se están disparando
+movimientos o choques
+si es como
+y la pregunta es como
+bueno, no como donde pasa esto
+entonces como que yo me he pensado como un sistema
+de guiado y revelado de cosas en donde
+siempre va a haber como un camino de partículas
+que siempre te va a estar diciendo
+como que quieres parar adelante
+entonces como que siempre va a marcar el camino
+y le das como que
+si como en esto
+y los 10 y cargados
+como que siempre va a haber
+algo como que se va a estar moviendo
+puede ser partículas, puede ser como sobras
+o lo así, pero como que indique que sea
+muy obvio que indique que tienes que ir
+a segunda dirección
+para que todo sea como mucho más
+lineal y guiado
+entonces si un camino de partículas
+para que la dirección principal la mía
+pueda desaparecer temporalmente
+si no va a permanecer mucho más de tiempo
+que parece como recorretoría de la idea
+hacer a mi cabeza
+eso es lo que utilicen muchos juegos
+y es como que puedes que hay como contentando las cosas
+pero como que siempre hay algo que te dice como
+ey acuérdate como que tienes que hacer esto
+que tienes que parar adelante
+y de hecho este sistema como de detectar
+si el jugador o no se está moviendo
+y luego lo como más abajo
+de aquí, como que también la música
+puede apoyarme muchísimo
+como esa, digamos, pideccionalidad
+de tener que ir para adelante
+porque por ejemplo si estás quieto
+durante mucho tiempo
+o no te están moviendo
+o sea, tienes que ir
+la música puede bajar mucho mucho en capas
+o sea, como que se queda muy silencioso
+o es interventelana
+y como para que básicamente sea
+un momento contentativo
+pero también ver con la teoría de bueno
+si ya has venido caminando antes de que es tiempo
+ya son las cosas y te quedas quietos
+y en cuando empiezas a caminar
+cuando la música se puede ir
+como pueden ir aumentando
+como capas de esas bandas
+que estás subiendo por debajo
+como recordatoria de que es un movimiento
+constante como hacer adelante
+es super selado
+y que más aquí
+es lo mejor, si permanece
+demasiado tiempo
+permanece como recordatoria
+que tiene que parar adelante
+y luego sobre los bichitos
+la sentí en las estas
+y lo que también puede ser como recordatorio
+de que
+tienes que ir como hacia una dirección
+porque los bichitos estos pueden emitir como sonidos
+como van a estar espacializados
+de manera trillinación en el espacio
+como puedes ir a hacer cártica
+y cuando estás cerca se mueven y van a hacer adelante
+es bonito como, literalmente
+un juguete
+o comida para que lo sientes lejos
+un comida para que lo sientes lejos
+si, eso
+y bueno, estos son bichitos sin dineras
+actúan como marcadores acústicos
+y soren verdadres, pueden actuar
+para tomar la liberación de las personas
+o cuando permanece el diner
+y sobre lo de
+como organizamos la información
+digamos visual, como que yo
+es una pregunta definida y es
+no sé si podemos coger como partecitas
+de los slots y como
+cogerlas y distribuirlas en el espacio
+como de ciertas maneras
+como la cosa y que no sea
+como todo el ecosistema
+como de una cosa, sino como el dando
+como piscas de cosas
+voy también difuminando un poco la información
+los efectos visuales
+tienen que apreciar todos por igual
+los efectos en la esfera
+si se deberíamos de leerlo bien
+queríamos de
+mañana
+podríamos ver un poco esto
+para intentar saber
+y tal esa liberación
+si no es con los slots
+igual no sé como coger otro tipo de material
+para rellenar el espacio
+porque siento que igual está bien tener
+como un
+zona donde hay una absoluta nada
+literalmente como
+un poco de que tienes que ir
+a un lugar donde sí hay algo
+pero todo el tiempo así, creo que se vuelve
+como un poquito monótono
+esa general es aspectativa
+de no material a mucho material
+podría ser con un momento bastante puntual
+pero entonces por ejemplo en la experiencia
+de la radio que es como que
+siempre hay algo como pasando
+siempre hay información de su al que
+está rellenando el espacio
+como para que no se sienta tan
+paciente todo el tiempo
+ahora sí me voy
+a ver que vaya muy bien
+vaya muy bien
+entonces
+y como intentar que no se se pueda
+distribuir como ciertos materiales
+para que no se vayan también
+se va rellenando de alguna manera
+y bueno, tenemos algo como
+de que haya unas pinceladas parciales
+y de cosas como al principio
+antes de llegar a su espacio
+completa
+qué necesitas?
+algo que también me pensaba era como ser
+el revelado progresivo del mundo
+para que se le vayan rellenando
+como progresivamente como por ese camino
+y también que hay diferencias
+de la experiencia anterior
+donde había transiciones
+y se notaba que era otro mundo totalmente diferente
+simplemente fueron estaciones
+por las cuales tú puedes ir como visitando
+pero todo de manera lineal
+y bueno también
+si queremos que se vayan
+se puedan ir hacia atrás los jugadores
+para revisitarlo
+eso lo podríamos volver a poner hacia el final
+como tú decías de las puertas en diferentes
+árboles o algo para volver al mismo sitio
+pero sí como que al principio
+solo se muestran elementos esenciales
+y como de background que de por si
+querían ser contemplativos e interesantes
+y con el tiempo se pueden ir añadiendo
+como campanas visuales y sonoras
+hasta llegar al final más completo
+al final del decorrido
+y este revelado se puede activar
+mediante zonas
+entonces un poco
+el ritmo de la experiencia anterior
+me pensaba era como
+avanzar es como una recompensa
+básicamente
+activa como el sonido
+la música toda la parte visual
+y si te quedas como quieto
+te permite contemplar
+es como un estado suspendido
+pero igual sigue siendo interesante
+entonces se alternan como momento de progresión
+y contemplación sin necesidad de texto
+ni instrucciones directas
+y luego como traer un poco a colación
+a través de las mecánicas de las cosas
+que hemos hecho en la vez pasada
+yo había pensado como
+esa cosa de los checkpoints musicales
+en donde tú puedes
+tener esta habilidad de poder cocrear
+por ejemplo como igual puede ser
+que tienes ya la habilidad de poder
+digamos hacer música a tu mismo
+interactuar con todas las cosas musicales
+que están pasando pero yo me lo pensaba
+como a nivel de checkpoints
+pues el como no se pues cuando llegas
+al final del revelado de este
+biólogo lo que sea
+pues ahí puedes como no se tocar
+con los honguitos y demás
+y lo que como lo me había pensado
+la parte como musical y sonora
+es como
+que el sonido vial y estructura como toda la experiencia
+y había pensado
+que tal vez utilizar
+como un sistema de layering la música
+puede permitirnos como subir
+intensidad es bajar intensidad es como
+siempre pensando en esto de que
+si la persona o el jugador
+se queda como quieto pues es a lo mejor
+toda la capa musical baja
+y no se sube el paisaje sonoro
+y hay como partículas alrededor
+y como te digo no se
+pasando o hay luciernas o
+de hecho creo que también el hecho de utilizar
+partículas me recuerdo mucho
+como las luciernas entonces
+y creo que también por ejemplo
+en algunos de los paisajes
+sonoras que hice como que metí bichitos
+y creo que te engreja sentido como por ejemplo
+poner como partículas o algo así que sea
+como bichitos
+y lo que te interrumpa
+es que yo creo ahí
+por ejemplo yo siempre le he dicho un momento
+que a mí me gustaría ver la parte de abajo
+pero en estos momentos de quietude
+me pregunto si sería posible
+que al jugar
+perdón
+al no moverse
+la suspensión sea que empiece
+a moverse también a la tienda y que se vea como
+el sustrato pero desde dentro
+entonces como os juro y entonces en miselo
+y así te mueves
+puedes asumir que eso me encantaría
+como que te va tragando
+te va tragando, te va tragando
+y entonces sí, exactamente como tú
+en mi serio que está bonitado
+los árboles por debajo y de repente ya te mueves
+y otra vez para mi baile sonido
+de hecho cuando estás muy abajo
+puede también ser interesante
+quedarse ahí mucho tiempo y la música
+también puede volverse a reactivar
+si ya has llevado como al mundo
+pero yo lo que
+creo que he pensado era como
+esto a la solución de
+no saber qué hacer, no saber
+cómo moverme, no saber para dónde ir
+y es como que creo que hay que decirle
+de alguna manera al jugador
+como que sí, vamos a tener la habilidad
+de movernos en el espacio
+no en todo el tiempo pero en algunos momentos
+hay que ser bastante obvios
+con el que decirle como tienes que ir
+para allá o tienes que hacer esto
+y creo que la música
+también puede ser como un punto
+digamos narrativo y como mecánica
+también que te dice como bueno
+como que si te mueves
+y suena como música y hay como más actividad
+en todo sentido y luego si dejas
+que están como moviéndote
+y te quedas ahí quieto pues
+igual esto puede ser como un recurso
+que podemos utilizar
+para algunas partes y que en otras partes
+sea como tú te quedas quieto y toda la información
+te atraviesa, como que creo que generar
+contrastes digamos como
+de experiencias
+de cómo te atraviesa la información
+puede ser interesante también para darle
+movimiento a la narrativa como general
+de todo
+y sobre lo de la playlist
+es como que tenía como experiencias
+a ver si la puedo ver
+si la puedes ver
+esta es la playlist que has hecho
+si
+a ver
+a ver
+es que me he traido
+de forma sentimera
+sentimera
+sentimera
+este de un compositor
+por ytobes que se llama
+este disco es muy chave
+está muy chave
+A ver, ¿por qué no se está atorrando?
+No, no.
+Aquí, mira.
+Dice, en el vinilo, ¿cómo te dice que está en su certeza?
+Especifica cómo lo tienes que escuchar.
+¿Cómo te dice?
+Como tienes que poner los altavos en la una de cuatro,
+y en la otra parte del vinilo,
+te ponen cómo tienes que escuchar el volumen muy lojito.
+¿Cómo te distrugas?
+A ver, ¿lo sé cómo van las cosas de esto?
+Bueno, también pensé cómo hay cosas con vos,
+por lo que lo que decía Pedro,
+¿lo habéis pasado?
+No vos aún ni siente,
+pero sí como, no sé, también es que utilizar la voz
+como material positivo siempre me gustaba mucho, mucho, mucho.
+Entonces, como tener como cosas que te,
+o medios que ocurren cosas,
+como que también cuando nosotros como no nos escuchamos
+una voz humana, como que nos llama mucho la atención,
+porque es como, bueno,
+nuestra misma especie de voz.
+De nuestros oídos, también,
+nuestra percepción se analizaban ese tipo de...
+Claro, de rango.
+De rango, ¿no?
+Entonces, a nivel como,
+como si te había pensado
+como eso, como no lo sé.
+Igual, podemos uno mantener como la estética,
+como anterior, pero,
+bueno, yo creo que si todos venimos también como un poco
+del bagaje medio electrónico,
+electrónico, electróacustípe,
+y demás, pues nos gustarán como procesar cosas, ¿sí?
+Y utilizar panico en otros tipos,
+pero la que más tengo aquí.
+Me la escucharé, eh.
+Me la escucharé, eh.
+Me la escucharé, eh.
+A ver, así que,
+vamos con los cabecitos.
+Un poco de la voz.
+Los cabecitos.
+Todos, un poco, un poco, bastante, ¿no?
+Realmente.
+Esto, creo que no es tanto así.
+Bueno, plantas, y este.
+Y este, no.
+Ah, bueno, y esto, como que simplemente me recordaron
+la misma estética, como de...
+esta idea al vivo.
+Esto es una generación.
+Yo creo que no soy el único que piensa
+en Lucrecia Dahl como algo,
+una música bastante vegetal.
+Sí, sí.
+Bueno, ya está.
+Tengo otra lista que...
+que Larven
+hace poco, no hace tanto
+cuando voy a usar la Spotify
+y le puse Jardín de Río, porque era la música
+que yo envejeaba en plantas.
+Jardín de Río.
+Jardín de Río.
+Jardín de Río.
+¿Sabe muchas?
+Cuando puedas hacerle cuidado.
+Sí, sí.
+Y ahí hay un par de referencias
+que están compartidas.
+Exacto.
+Tengo muchas planes, así como
+tengo una que se llama Arboria
+que es como de Arbolitos en general.
+Hay Válvoria por eso.
+Es un poquito más country, pero bueno.
+Bueno, pero me terán plazas.
+Entonces eso, como...
+para mí sería un poco a nivel,
+no problemas, pero cosas que no funcionaron tanto en la vez pasada, o quitarle la capacidad de que
+decidas, básicamente nosotros como darle toda la información como haya masticada y demás, o que
+será como muy muy obvio de que se tiene aquí y también pensar como que puede ser interesante a nivel
+del sonido, o sea como al fin y al cabo si estamos como en un entorno digamos inmersivo y con una
+realidad virtual puede ser interesante, como que los sentidos y la capacidad que tienes para
+moverte dentro del espacio tienen una influencia en la música, y con cosas como muy simples,
+o sea como el moverse, el quedarse quieto, el permanecer en pasar un trigger para que
+entres a otra sección y puedas como explorar esa otra parte y empieza la música.
+¿Quién sigue?
+Tiene que seguir un pedro.
+Sí, puedo ir ya, si quieres.
+Adelante.
+¿Puedo chufar?
+¿Tienes un adulto?
+No, tengo, tengo.
+Si.
+Gracias.
+A ver si me voy a ver cómo están muy cantos, se están hablando de decir amigos.
+Hay dios.
+Es que una dosita, porque no anda nada más.
+Vamos a ver aquí.
+¿Es aquí donde las tienes, no?
+Sí.
+Sí, no hagamos movimientos bruscos, pero ya está.
+Vamos a probar la técnica de la noche, de hablarles a la gente.
+Los que teníamos argentinos y gatos, chiquitín, chiquitín,
+y nos estaba acostando un montón que se hiciese a la casa y a nosotros y no sé qué,
+y llega mi prima que vive en el pueblo.
+Ella recoge gatos de la calle, gatos heridos, perros,
+tienen, no sé, que tendrán la finca.
+Cuarenta gatos.
+Cuarenta gatos y otros seis o siete perros.
+Y llegó ella y empieza a decirle cosas, como un mantra,
+así a donde vaya, chiquitín, chiquitín, chiquitín, chiquitín.
+Y, tío, y el gato, que un minuto y medio después de que empezase,
+el gato salió de donde estaba escondido y empezó a arrojar la caricia,
+se rompió toda la brecha.
+Para mí no es solo eso, si no las formantes tipo la E,
+y los sonan más tipo las ales.
+Todas las anteriores.
+Si quieren salir ya.
+Si tienen una ciudad.
+Palabras agudas, los sonidos con i, los sonidos con i.
+Sí, son los ventanitos.
+Sí, salen.
+Los sonidos que hacen mejor un rock con i, os creo.
+Esa clase de cosas legustales.
+Sí, de lo sienten cercanos.
+Sí, los firstipos de vocalismo y abiertas,
+donde son las ales, parecen que los están regañando.
+Ajá.
+Vean.
+Bueno, que van.
+No.
+Ya, de reflexión.
+No, no.
+No, no.
+Sí.
+No.
+No, no.
+No.
+No, no.
+No, no.
+No.
+No.
+No.
+No, no.
+pero por aquí no es que se va a vender a su familia
+y ahora no veo muy particular
+pero ahí me sorprendió tanto
+y ahora...
+y ahora sí
+porque yo había tenido tanto muchas veces
+y cada vez no me venía
+no, es que es el más caro
+y ahora sí es más caro
+y ahora sí es más caro
+y ahora sí es más caro
+y ahora sí es más caro
+y ahora sí es más caro
+y ahora sí es más caro
+y ahora sí es muy cariñoso
+pero a vos no como en tu vida
+ya
+a ver, yo he traído algo más parecido
+que traído FED
+que es lo que he traído María, a un ahora
+y es un poco una vez
+básicamente el diseño secuencial
+pero que yo me imagino
+y me he basado en
+para poner las escuelas
+para crearlo, ¿no?
+para que no veamos
+la música que intentamos
+con esa GPTEC que es una sinfonía
+y de ahí empezaba a construir
+lo que he sacado es que
+una sinfonía tiene cuatro movimientos
+estos movimientos
+normalmente tiene una estructura típica
+que el primer movimiento
+es rápido
+y es una especie de contraste
+entre dos voces o dos temas
+que constran
+contraste entre sí
+el segundo es lento
+el tercero es una especie de danza
+y el cuarto es rápido
+que ya es como el clima
+entonces es un poco pasar todo esto
+a nuestra idea
+de sinfonía energética
+y con los elementos que hemos traído
+entonces no quería hacer algo
+entonces se podría interpretar de muchas formas
+como una de las primeras ideas que tenía
+las cuatro estaciones
+tenemos este voz
+que tenemos esta especie de ecosistema vivo
+y van pasando el verano
+y todo eso es un poco clásico
+entonces ahora es más como
+un ciclo de vida
+de lo biológico
+y la presentación de todos los elementos
+y como que cada elemento
+tenga sus propias voces
+o como
+composiciones
+entonces me he ido mucho a los sonoro
+pero no es nada
+como decir pues estos son cuerdas
+pero vamos que podrían ser lo que sea
+entonces
+las ideas empezamos en un mundo negro
+un mundo vacío
+y
+empezar a ver un pulso
+tu mismo es que hay una especie de aquí
+es todo también como más como fer
+menos como tú
+esas menos de tú mobertes
+más de las cosas aparecen
+hacia nosotros
+sobre la creación
+y de repente
+tenemos un biogata
+en al manos
+tenemos unos cables
+es como para mostrar los elementos
+que utilizamos
+tenemos nuestro biogata
+que es como cada mano es un cable de biogata
+y si los enchufamos
+en el pulso
+y surge el primer huele
+que es los árboles
+y los árboles son los árboles
+pero vamos a llamarlos como los otros
+que yo no sé mucho
+tantas ni de tal
+pero el tema árboles, tema plantas
+tema verde
+ellos tienen su propia composición
+y son por ejemplo las cuerdas
+digamos en una folia o que sea
+o sea ellos son mi manchera
+y tienen su composición
+y debajo vemos una especie de
+historiada
+o básicamente de los datos
+de sus datos en tiempo real
+entonces vamos
+a empezar
+entonces empiezan a salir
+más pulsos
+alrededor que vamos enchufando el biogata
+y empiezan a surgir árboles
+pero acompañando todos
+a sí mismo
+entonces el primer movimiento como tiene que ser
+dos contrastes, están los árboles
+y de repente surgen los hongos
+y los hongos tienen sus
+realmente son vientos
+otro tipo sonoro
+pero que como que dialoguen
+pero que no estén en sincronía
+es una especie de lucha
+o no conflicto, pero no sincronía
+no es una composición
+que me están ahí como dos voces
+y vemos también sus historianos
+y eso es un poco la presentación
+del estado en cuestión
+de estas texturas
+y tú estás en medio y como que las cosas aparecen
+y tú vas enchufando el biogata
+y esto se podría estender
+y esto como yo
+pero no he ido tanto en profundidad
+me ha gustado mucho eso
+lo de Ferre y también lo de Tuya María
+donde por ejemplo
+explicáis como podemos añadir
+las cosas que ya tenemos
+como incluso que tú compongas con la música
+con el ceremín
+si quieres acompañarlos
+o incluso las visuales que has dicho tu Ferre
+como que has dicho
+muchas cosas
+y bueno
+entonces esto es como una especie de composición
+de 5 minutos, es igual que tú
+y de repente
+pues este es el primer movimiento
+que es un poco estas
+dos elementos
+interactuando pero sin estar sincronía
+y luego entramos en el segundo
+que es lento se supone
+y presentamos los elementos
+los elementos externos
+a este...
+a este...
+es tan sol, es una circunción
+no sé, es una imaginada
+que salga ahí
+como que se come el espacio
+y tú estás ahí, wow, Dios es un sol
+enorme
+y también aquí podríamos presentar
+distintos elementos
+que también forman seres
+pero son animales
+las abejas
+y al final son los elementos tan bien
+los elementos son cosas que estamos viviendo
+también en los árboles antiguos real
+la humedad, la temperatura
+eso sería genial y a lo mejor lo podemos presentar
+al principio era como presentar el biodata
+y como funciona esto
+que es lo que estamos haciendo
+de una forma interactiva
+y luego es como presentarlos
+exacto y los elementos que actúan
+en este biodata
+y aquí
+también podríamos dar la tía
+presentarlos en tinerlas
+o elementos como externos
+y es básicamente
+es muy simple la presentación
+es un poco el primer movimiento
+el segundo movimiento que es un poco los elementos
+y más lento
+como más ha pagado
+el tercero
+que sería un poco la lanza de reproducción
+que es
+el polen, de repente no hay como
+pues lo que todas
+tiene mucho que reaccionar con la abeja
+la abeja solitaria, lo que sea
+pues estos elementos actuando
+dentro del ecosistema para
+que se reproduzcan
+y como debe ser en forma de lanza
+todo me lo imagino más melódico
+pero
+como vosotros
+yo tiro
+y esto es en como llamar sistemas
+de partículas
+cosas como polen, abejas que polonizan
+las cosas
+y habría que estudiar
+como se reproducen las plantas en general
+pero no sé muy como se las producen
+pero imagino que serán pues esporas
+todos los elementos
+y empezamos a ver brotes
+y empezamos a escuchar
+pues tiene mucho que ver con el ingelio
+la conexión entre las plantas
+la nueva creación del ecosistema
+el crecimiento de la nueva vida
+y esto es en forma de lanza
+no sé
+no sé muy bien a nivel visual
+pues todo lo que hemos hablado
+y finalmente
+que es lo que no tengo dibujado
+porque no sabíamos muy bien cómo hacerlo
+pero es básicamente climax
+surge todo y todo ya está en conjunción
+entre todos los elementos que hemos presentado
+esto
+esto y la nueva vida que se ha creado
+pues se juntan todos
+en el sinfónica biótica
+y hacen una climax
+biótico del todo del ecosistema
+funcionando a la vez
+y terminamos
+te te imaginas como
+pensando en la perspectiva como de la cámara
+y es como la persona en el centro
+y todo esto apareciendo
+exacto, pues aquí está el dibujo
+este se supone que eres tú
+sí, sí
+y con las galpitas
+pues el pole viene
+y baila contigo
+pues te hace un...
+no sé qué, se va por aquí y aparece el dicelio
+y lo ves como expandirse
+incluso estás debajo de la tierra
+en este momento
+no he puesto un cues visuales muy claras
+era más una especie de
+feeling
+igual que aquí
+pues aquí tú estás
+necesito tú, sí que estás en primera
+así que tú estás en primera persona
+y empiezan a salir algo
+si salen uno aquí y otro aquí
+y empiezan a ver si todo va mucho por aquí
+todo su round
+pero tú no te mueves
+entonces tú empiezas a echar
+el movimiento que quieres es como la cámara
+claro, entonces tú giras, te giras
+y yo oyes el sonido
+y tal vez sale el sol
+y...
+es que me imagino porque me gusta
+no sé
+bueno eso
+o sea que cambie
+como de repente lento
+esto es un poco sensorial
+es de efectos alrededor tuyo
+de todos los elementos que forman un poco
+un ecosistema biótico
+y eso que me imaginaba
+algo que nos daba como
+antes como este cambia de perspectiva de la cámara
+pero que en esta pegaría también
+es muy interesante
+como un traveling de la cámara automatizado
+claro
+sí, como quedan un momento así que te sales
+sí, como puedes poner en la cámara suba
+igual sigues mirando hacia dos lados
+pero igual lo estoy viendo desde arriba
+sería bonito en el climax
+o igual mover en la cámara
+y no te muevas alrededor
+y te despojas un poco
+y básicamente la idea de todo es
+que es lo que forma
+un ecosistema biótico
+el concepto general
+y también podría haber voz
+o sea el nivel compositivo
+como vosotros queráis
+y también como tenemos dist, como sois 3
+en principio
+como que me imagino pues aquí uno
+monta una especie
+o sea aquí incluso
+si hacéis cada uno una composición
+puede ser divertido
+uno hace una voz al otro otra
+y tiene que estar como no sin crono
+pero sí que tiene que relacionarse
+y luego otro rompe
+o sea como que también darlos lugar
+a cada uno
+para que los desarrolléis
+y luego esta por ejemplo podría ser
+el conjunto de los 3
+pero como algo
+este año
+que viví una presidencia
+que era, o sea
+una compañía de Ciudadancia
+que ha sido una presidencia
+en la Universidad de Calvitoria
+Alfredo
+y la idea era que le den
+daches de danza
+a los estudiantes
+de ingeniería
+y que con eso
+materiales se hagan una obra
+y Alfredo estaba como coordinando la programafia
+que habéis hecho como dejo creación
+y me dijo bueno pero la música también
+tendría que salir de un proceso así colectivo
+entonces me dijo que quería que yo coordine
+ese proceso
+algo muy misterioso
+pero no resultaba
+que como tipo mandar a
+al final no terminaron
+aportando materiales todo
+que era como 10 personas de cero
+ahora material como poco
+mientras más fuera de ensamblarlo
+y hacerlo convivir todo
+y por súper divertido
+y no es tan difícil
+si por ejemplo no puedes acordar
+una directiva tipo no sé
+tempo
+y son proyectos muy interesantes
+pero todo es divertido
+puede ayudar mucho a que
+hay distintas voces en sí dentro de la compresión
+de los estudiantes
+como que pueden añadir
+además es como está bueno de poder hacer convivir
+cosas que nunca sospechadas
+uno de los chicos se esperaba en una electrónica
+buenísima, en un momento le dije
+a ese chico que se anima en un día
+un album de pop que nosotros buscamos
+una base de breakbeat buenísimas
+y luego se suma uno de los profes
+rockero viejo así tipo pop-in-flow
+eléctrica, ajo nacida
+que chulo
+encima de la electrónica la ha dado
+una vescla que era buenísima
+y a mí no se me hubiera ocurrido nunca
+que chulo eso
+es algo así
+sí, yo creo que independentemente
+de cómo lo distribuimos todo se puede ensamblar
+como si lo conversamos
+como entre todos pensamos una estructura grande
+como algo así ya
+todo viene entrando en eso algo de
+que la parte sonora yo
+las cosas más importantes de toda esta pieza
+y ya que sois tres
+ahora
+pues
+pues
+aprovechar el poder sonoro
+lo que puede tener para no individualizar
+las piezas o los temas
+y hablar
+de una sincronía biológica
+pues también sincronía musical
+me ha sorprendido mucho lo de
+que manejes un biódata
+parece ser interesante
+tanto que lleves el biódata y lo conectes
+como ver los datos en tiempo real
+me parece muy didáctico
+a la hora de explicar como hemos hecho todo esto
+no sé
+no sé si
+si meterlo
+dentro de la experiencia sensorial
+misma o como un capítulo que sea el
+mi equipo o como funciona esto
+si aplicar esa parte me parece que sería la
+que tanto nivel de interactividad
+queremos que una cosa
+que tú puedas cortar la escena
+cuando quieras y te conectas
+a fuera
+porque también metes la selección de escenas
+esto comienza
+este tipo en comienza
+como todo en la nada y tiene dos cosas
+y no sé, algo que te da
+puede ser un comienzo interesante
+sí, sí, sí, a mí me hace más gracia
+al fin y al cabo es un voto
+eres tú que vas con tu dispositivo
+que lo pongas en un sitio
+y bueno, es eso
+lo tengo escrito aquí
+pero supongo que no
+yo esto lo veo como
+nivel técnico
+yo creo que es más sencillo
+de hacer
+porque ya tenemos
+muchas cosas de esas hechas
+lo único sería como lo secuenciamos
+como aparecen las cosas
+y yo creo que es un nivel sonoro donde
+hay nuestro trabajo
+si
+por eso lo que progreso
+lo que se hace
+lo que se hace
+lo que se hace
+lo que se hace
+lo que se hace
+lo que se hace
+lo que se hace
+bueno, ahí es un poco
+más
+aparte de
+lo que es lo más importante del movimiento
+cuando hay un sistema de partículas en general
+por día que es llamarse Colen
+como es incluir de la energía
+más o menos visible
+que puedas, dependiendo del movimiento tuyo
+veas a metas
+esas corrientes de lo que se trata
+de una imagen importante
+y la parte explicativa es posible
+me pido
+yo no la he metido
+es que muchas veces me planteo
+cómo hacerlo de literal
+de transparente plan
+esto de información de
+lo que sea
+y solo a la gente que le interese más
+que últimamente había que ir más por esa línea
+pero podría estar muy bien
+que uno de esos niveles
+uno de esos niveles
+a los que puedes ir luego
+es como el making of
+no a todo el mundo, a lo mejor solo un 5%
+un 10% de la gente le interesa
+cómo se hizo esto tecnológicamente
+y ahí me parece la puta cabeza
+como se hizo
+si eres tú el que vas haciendo cada paso
+conecto el biogata
+y entonces veo estos datos
+y entonces eso se convierte
+y va a aparecer la música de eso
+interesante
+yo creo que podría haber
+digamos en el nuevo juego About
+o una cosa así
+donde lo explique un poco
+o también
+si es la primera vez que tengo la experiencia
+no sé cómo en las pelis quedan
+como haces un poquito de contesto
+¿está bueno?
+si, está bueno
+pero tampoco quiero que sea todo
+me tienden a pasar con esas obras
+donde es como
+donde lo único está
+en la aplicación técnica
+siento que es como
+un truco que pierde el encanto
+rápido
+en cambio si ofrecemos una experiencia estética
+que sea además de lo técnico
+para mí es mejor
+para mí es un plus
+las experiencias
+si te flipa
+luego lo explicas
+ya se me ha hecho con la animación
+y la desganta
+eso es lo que es
+y además de eso
+la actuación y la luz
+no sé qué cosa
+el sonido este viene
+eso
+estaría interesante
+no sé si lo puedo hacer
+porque la idea es que esto va a estar enchufado
+estaría bien que cada vez
+que te metas en la experiencia
+sea un poco diferente
+esa es un poco la idea
+que decidamos
+lo que decidamos las variables que escojamos
+sean unas visuales, sean otras sonoras
+puedan verse influenciadas
+desde un filtro a unas notas en sí
+sean información que estamos trayendo de la base de datos
+del tipo de algo y obviamente que te den un plan B
+porque sabemos que eran tecnologías como es
+y el tiempo y el mantenimiento de las tecnologías
+son como son
+el caso de que no existan
+hay una grabación que ya están recogidas
+pero que pueda ser diferente
+yo me lo imaginado
+para ahora que estuvimos en la feria esta de
+estampa de arte moderno
+hubo una pieza de arte digital
+esa era mi logre
+esto aquí en el sistema
+este fin de semana
+había una de
+Daniel no sé qué
+que es muy conocido
+y tenían ahí una tele como esta
+y estaba trayendo datos de
+algo espacial que lo que era
+algo espacial
+y se modificaba visualmente
+Canoval
+Daniel Canoval
+puede ser
+y entonces empecé a pensar como
+viendo esto a una valería
+la misma información de sinfonía biótica
+y empezamos a pensar en la modernidad
+tener, imaginaoslo en vertical
+tener uno de los árboles escaneados
+dando vueltas muy ligeramente
+y traiendo los impulsos eléctricos
+en base a temperatura o medaz
+no sé qué, no sé qué
+el fondo tiene un color u otro
+va cambiando muy lento
+y la cama sonora
+se genera
+a estas variables
+y los impulsos eléctricos generan la melodía
+no lo pienso hacer
+no lo pienso escribir
+hay un dossier, lo paso
+y si la vendemos, la vendemos
+pero de esa misma manera
+los datos que no varían tanto
+como puede ser la temperatura o la medaz
+no varían tanto en el tiempo
+pero sí pueden variar tanto si entras por la mañana
+entras por la noche o el mes de mes de mes
+y eso puede dar un matiz completamente diferente
+eso es interesante
+ver cómo lo materializamos
+pero puede ser guay
+es un click
+vamos escogiendo como diferentes tipos de sumidos
+y instrumentos
+estos son este
+este otro click
+y qué bonito es
+así porque encima
+sería como la luz para esta programación musical
+pero con
+diferentes tipos de estetizadores
+son el formato
+con el tipo de instrumento
+yo creo que puede ser bastante obvio
+como yo que sé lo que te decía
+y también como que porque creo que teníamos
+o sea como splats de diferentes
+estaciones del año
+hay cosas diferentes
+hay algunas que son verano, son invierno
+para la cena por ejemplo
+tenemos todo verde y todo seco
+incluso también como con
+la gradiente de la temperatura
+se pueden variar más fríos
+si van la experiencia en invierno
+pues yo que sé
+como música
+estaría muy guay
+y estaría muy guay
+es que hasta lo menos
+me mata
+yo creo que estaría
+está interesante todo eso
+y utilizar esas variables para una u otra cosa
+y creo que es aún más interesante
+si hay diferentes escenas
+que la música de diferentes personas
+pero nosotros también en la parte visual
+en cada escena
+las variables de entorno de medio ambientales
+modifican unas cosas diferentes
+y los impulsos eléctricos que varían mucho más
+varían otras
+y esa variabilidad
+tan grande
+creo que le puede dar una
+de hecho eso
+incluso si queremos hacer
+una descripción técnica para quien quiera
+saberlo
+lo que nos indicara
+tal vez escuntamente como en esa parte
+en ese post
+donde está la descripción técnica de la escena
+decir como tal escena
+las variables ambientales
+digo porque
+es parte que va a haber algunos usuarios
+espectadores que van a decir
+que querés saber un poquito más
+pero que hace falta
+una descripción tan neta
+queda bonito
+le habré más misterios
+y el hacer eso en lugar de una página
+de avautars
+y explicar como hay ahora mismo
+por ejemplo la tecnología que estamos usando
+que eso sea una parte dentro de la experiencia
+y me parece
+una descripción en una piedra
+o sí coño que está haciendo tú
+recolectar los datos
+y por lo menos a mí las piezas que me gustan
+sí que me gusta saber un poco más
+pero no todo el mundo le interesa de saber
+esa cosa, de hecho probablemente a la parte
+de mi interesa, es verdad que a mí me gusta
+crear también para ese pequeño porcentaje
+que dice quiero saber más
+quiero saber cómo funciona esto
+que es lo que me pasa a mí muchas veces
+cuando tú vas a un sitio y dices lo que tiene la magia
+no quiere entender cómo funciona
+quiero saber cómo ha dicho esto
+qué guapo, no sé qué
+entonces darle las dos opciones
+no te voy a contar la parte técnica
+si no te interesa la magia
+pero si quieres buscar un poco más
+que tengas esa posibilidad
+y en cada escena que modifica
+cómo están mis interconectadas
+de diferentes seres
+muy bueno
+en un momento en el que
+no les voy a hablar ni de sonido
+ni de
+no, en el sentido de
+me imagino sensaciones
+y me imagino cosas y pensar mucho
+o sea, no quiero rellenar que rompa tanto
+y no sé
+o sea, siendo que en algún punto alguien
+me va a tener que decir
+esto no se puede hacer
+o algo por el estilo
+mejor no estamos por ahí, porque es un lío
+puesto, requeriría muchísima programación
+y no
+creemos en eso, tenemos poco tiempo
+pero era como me quedé pensando
+en la de la voz
+y en las escencias
+de realidad virtual
+o sea
+como en el discord show
+compartí dos referencias que me parecen
+una
+que me gustaba porque realmente habla más o menos de lo mismo
+es como una especie de ecosistema que tiene datos
+en tiempo real, creo que un poco
+al menos por lo que entendí el corto
+veces no tenía voz ni nada y estaba muy poco explicado
+cuando lo vi en el festival que lo vi
+era como recorría su ecosistema
+nocturno y luego
+en algún momento esto se colapsaba
+con formación y que es como si todo
+se cristalizara
+que si bien
+la explicación te dejaba como medio
+estéticamente tenía como algo
+que me gustaba mucho, como ese
+fondo nocturno, todo negro, plantas
+como
+era, estaba
+bastante bonito
+y luego la otra referencia que puse en el discord
+si me gustaba un poco
+es de un colectivo que de inglés
+es inglés, bueno británico
+británico seguro, pero creo que es inglés
+que se llama Displash con Y
+y es un colectivo de personas neurodivergentes
+que hacen arte tratando
+de generar arte que tenga una estética
+que refleje sus neurodivergencias
+este, of peoples and saints
+lamentablemente creo que no hay cortos
+hay como unas pocas imágenes para ver
+no hay
+no hay trailer o algo si es una pena
+está como la image gallery
+pero es como, si bien no es
+con las partículas
+o zonas, tiene como algo
+que me parecía como bonito
+ah si, es que realmente estamos
+es como super misterioso, es como
+invita mucho, o sea, y de hecho
+me enteré que
+utilizaba datos de ecosistemas
+cuando le busqué, en el momento que yo lo vi
+no estaba enterado ni nada
+por ahí me... son todos puntitos
+parece, o no? no, eso porque
+si pones en la image gallery
+está como
+un filtro
+sí, sí
+y luego este otro colectivo
+de
+artistas neurodivergentes
+tenía como algo muy
+estos eran como solamente
+cinemáticos no vi interactividad
+nada más que girar hacia los
+lados, era como una especie
+de
+displa
+displa touch, es
+real lo he vuelto a ver ahora y
+me pareció hasta un poco cortera, pero
+sí, porque las voces me dio
+a srm
+y yo no sé si esas cosas nos
+siguen gustando o ya nos hartaron
+no se lo le encantan todavía
+bueno, en ese momento
+me puse a llorar con esta pieza
+porque era como
+esta mujer de neurodivergentes contaba
+un episodio de su vida y justo
+el que me tocó ver a mí
+en ese festival, era un cortocasito
+en 5 o 6 minutos
+ella hablaba de la muerte de su padre
+y a los pocos días
+de ese festival a mi padre le iban a operar
+del corazón y yo estaba muy desustado
+y entonces como de pronto te lo termine
+de ver y me puse a llorar un montón
+y era también muy bonito el texto
+porque era un texto como prácticamente
+poético hablando acerca
+de la pérdida y demás
+y tú lo único que voy a hacer es
+observar esas especies de estructuras
+que dan como restricciones
+que vibran
+o sea, me parece muy interesante el trabajo
+de este colegio porque trabaja con nuevas
+tecnologías y trabaja de buscar estéticas
+que tratan de arriesgar
+lo que es la experiencia de la neurodivergentes
+o sea, si le das play
+son todas caras
+pero como parpaleantes
+no digo que vayamos
+a esta estética visual
+es interesante
+ya te cogimos
+y el diseño sonoro igual era
+más bien sencillo así como unos rambles
+unos drogos, ahí como de abajo
+igual no me quiero estrenar
+lo que yo pensaba en base a esto
+del uso de la voz y demás
+pensaba que si yo quisiera
+o pudiera hacer algo con una árbol
+sería hablar con él o ella
+o sea, como puedes
+poner la opción
+y sí, me parece muy misterioso
+cuando hablás de tu
+especie de storyboard porque me imagino
+hay muchas cosas muy parecidas
+es como si uno se estartara
+en un mundo totalmente onírico
+como si uno estuviese
+en una especie de transe
+o en otra dimensión
+pensaba también lo de
+indie eyes of the animal
+me usaba muchas visiones
+todas las partículas como el color
+y el fondo como negro
+y esa cosa de la luz
+o la intensidad del color
+de las partículas como que crezca
+y crezca como sin parpadear
+otra sensación que tenía que me gustaba
+como una especie de comienzo es como
+un plano abierto
+con lejos, el árbol y esa cosa como
+tratar de hacer carne
+creo que todos vieron Donnie Darko
+se acuerdan de la primera vez que aparece
+el conejo
+no lo vemos, lo escuchamos
+y lo dice con una voz que es
+súper tremenda y dice
+con closer
+y eso es como
+estar lejos y que sea como
+esto como primera serie
+como un árbol que me está pidiendo que me acercas
+acercate
+que sea una escena sin interactiva
+donde puedas como
+caminar en ese mundo, como en dirección
+ya sea alejarte o acercarte
+obviamente que el diseño sonor
+refleje eso de cuanto más alto es todo
+y luego no se me imagina
+vos sí cambios de escenas
+como también
+lo habían propuesto
+o sea que
+luego un corte
+en el que sí este cerca, tal vez ver como
+desde abajo
+o sea toda mi idea es como
+el árbol como totem, el árbol como médium
+como oráculo, como dios
+y lo a mí lo que me encantaría
+es como que tenga una parte
+que sea
+interactiva respecto al sonido
+que sea como poder hablar, o sea acá el árbol
+la habla y yo tengo dos opciones
+para elegir
+y en base a eso el árbol va
+a contestar
+un diálogo
+un diálogo con un árbol, o sea como
+si te lo imaginas
+concreto
+o sea con palabras
+si, pero
+no donde yo puedo escribir lo que sea
+sino es como yo tengo dos opciones para elegir
+cada vez que supongo que se podría elegir
+con los mandos
+y el árbol responde
+en palabras también
+el árbol responde con árbol
+me gustaría de alguna manera
+pero con audio
+que no son palabras
+son palabras
+si, me gustaría que
+o sea es que tengo
+todas las opciones
+también las divertidas y luego
+cuando me las mando a la mierda
+es más ambicioso
+pero es como claro toda esa imagen
+de los splats y las partículas
+es como esa dimensión en la que
+yo puedo hablar con el árbol
+o sea es como esto es despertarme en esa realidad
+donde el árbol me puede contestar y yo puedo hablar con él
+como si fuese un viaje de así
+algo por el estilo
+o como había puesto Laura
+así como
+en el viaje yo concordo
+claro
+no puedo al menos de
+normalmente
+me parece interesante como
+si cuando yo puedo decirle algo
+al árbol, esto es muy de
+mi crianza con las aventuras gráficas
+de LucasArts y de
+que me aparezcan como las dos opciones
+como textos en frente mío
+pensaba que si yo puedo voltearme
+y alejarme del árbol, que el árbol hasta pueda decirme
+como
+mírame
+es como
+mírame a la cara, que me traiga de vuelta
+y que es divertida esa interacción
+que parezca un poco interativa
+y más allá de los dialogos
+que todavía no tengo pensado que es lo que me gustaría que el árbol
+diga o no, aunque el otro día
+leí en una de estas cuantas
+medios sotéricas de astrología
+una frase que me encantó y que me gustaría ponerla
+que decía como la luna es el corazón de los árboles
+porque mueve la sabia
+porque mueve la sabia
+es preciosa, es como
+tomar fresas así que
+es como un dialogo medio sotérico
+medio mitológico
+y que en algún punto
+el árbol es como que sea arte
+y diga como te expulso de esto
+ahí se hacía como un corte
+se ha la aparición como tal vez una imagen 2D
+algo así
+que incluso en esa imagen 2D aparezca como
+una imagen fotografía de un árbol
+como ya salí del reino onílco
+y ahí en ese momento
+con créditos y todo
+es que el árbol o el que se escucha por último
+es la voz del árbol y que diga
+si quieres escuchar mi voz
+puedes hacerlo a través de los sentímulos
+como
+como
+como
+como
+en el siguiente sitio
+puedes hacer
+el frío
+durante el dialogo tal vez
+cambiar de cámara
+cambiar de ángulos
+pero es como me parece interesante
+poder hablar con un árbol
+que es obviamente
+tenga su diseño sonoro de fondo
+que esté también afectado por algunos parámetros
+ya sea ambientales
+o electromagnéticos
+también pensar la luz
+me gusta mucho ese efecto así como
+veíamos en el de
+ahí obtenen mal
+esa cosa de los colores
+como subiendo
+y que tal vez no se halla algo
+no se hacía a medida de como avanza el dialogo
+o depende de contesta
+que eso
+pulse más o pulse menos
+me gusta esa cosa así
+que tenga como algo
+místico
+si vamos a tener como un árbol
+enfrente como quiero
+algo que sea
+fíjate yo tengo esa misma sensación
+de hecho lo tenía escrito como que fuera
+toda la experiencia fuera un viaje lisergico
+un viaje profundo
+lisergico es de lsd
+como un viaje de entebojero
+con alguna planta de poder
+eso es lo que me llevaba a mí
+por todos esos lugares
+porque muchas veces
+perdón que me viene
+muchas cosas a la cabeza
+me interesaba ese
+camino
+ese camino en el que muchas veces te está llegando información
+de otros lugares
+pero no todo lo estás entendiendo
+o lo estás pensando por los filtros
+que te dejan entender una parte
+de los mensajes para el tuyo del futuro
+que lo va a entender cuando debloque cierta historia
+que unos meses más adelante
+cuando pienses más sobre ello
+la naturaleza igual que las plantas de poder
+se comunican de forma simbólica
+por eso yo no estaba tan seguro de utilizar palabras
+por porque
+sepa
+porque a mí el concretarlo
+en palabras
+me hace
+forzar entre comillas
+a que la persona tenga una experiencia X
+mientras que si lo dejas en el tracto
+habrá personas que tengan una experiencia más profunda
+de otra gente que se quede superficialmente
+y no llegue a nada
+por eso estaba jugando mucho
+con el tema de las palabras
+por eso en la primera versión dijimos nada de palabras
+de hecho estuvimos pensando en hacer carteles
+sin texto
+que luego ya... no, no, no, no
+te cuento como ha sido hasta ahora
+no digo que tenga que ser así ni mucho menos
+pero hasta ahora habíamos estado
+eso pensando que hasta los carteles de moverse
+no tenga palabras
+cuál es el resultado que como no hemos podido
+trabajar en ello mucho más el tiro en la puta mierda
+no se sabe lo que hay que hacer
+por eso estoy bajando en plan
+no tenemos por qué hacerlo así
+hay que ver cómo hacer
+hecho es como muy abierto a que
+cualquier persona del equipo ponga limitaciones
+y algo como por ejemplo palabras, no
+determinadas cosas de interactividad
+no, estos tipos de diálogo no
+porque es un lío de problema o lo que fuese
+porque el hecho de
+implementar eso
+no lo sé
+de hecho cada uno le pone más
+claro ahí estoy tirando
+las pelotas para que le corresponda
+pero
+es que un poco también se piensa en un charo
+la palabra siempre va a tener que una dimensión
+oracular no quiero que sea como
+palabra
+ni didáctica
+ni con un exceso de narrativa
+que sea como
+que sea algo poético y oracular
+claro, y en esa línea
+no me molesta para nada
+ya te digo, también
+me he tenido un proceso
+no quiero nada de palabras, a la última vez que fuimos
+una reunión que ya empezaste a dar
+estas pixeladas
+por si tiene sentido
+a lo mejor en ciertos momentos
+es valioso
+no sé, me parece igual
+interesante pensar
+un poco como viendo la
+visión de cada uno
+creo que al principio
+tenía un poco de miedo, pero
+si son todas las escenas tan distintas
+un poco la obra
+conviven en ese eclecticismo
+creo que
+creo que se permite
+que cada escena tenga con una identidad
+muy propia y distinta
+no sé, no sé qué les parece
+muy interesante
+es como decir que hay tres
+enfoques, como algo semi interactivo
+algo cinemático
+y algo interactivo
+creo que eso es lo que decían
+definir y aterrizar el formato
+es importante, porque igual
+voy a decirlo por secciones
+una primera parte que sea
+interactiva, de que tú puedes interactuar
+con el mundo, moverte y luego
+saber lo que da la cámara, saber lo que da el movimiento
+todo va a dar otra vez
+y en ese sentido
+podríamos combinar
+esas secciones
+o propuestas en edificado
+y nosotros las he dicho
+puesto como en un contexto de
+tener limitaciones de moverse
+y de mecánica a no teléfono
+porque yo creo que sí es
+interesante como tener un espacio
+en donde pasa una secuencia
+de cosas líneas, como lo que decían
+los movimientos de los proyectos
+y todo te atraves
+y es como que no te abro en el sentido
+de que no está pasando alrededor
+y te alejo un fragmento
+en donde es un espacio de tiempo
+en donde puedes mover
+puedes interpretar cosas
+puedes moverte y cerrarlo
+y lo que decías es que el hilo
+es algo bastante idiomático
+en el medio que estamos trabajando
+pero que no todo tiene que ser
+todo es dinomático
+y no lo explico
+pero es como bloquear el movimiento
+y empezar a ver
+una secuencia de cosas
+la cosa es como
+la tarjeta
+si esta cosa va a moverse
+hay que
+indicarlo claramente
+a la derecha
+es que a mi por ejemplo ahí
+sí me parece muy interesante
+es que se puede mover aunque sea poco
+porque da la sensación de avance
+o sea tal
+es verdad que
+yo no entiendo nada
+de como puede ser la realización
+pero tal lo que yo he visto
+y como imagino que podría mejorar
+tiene mucho que ver
+también como conllevarme a algún lugar
+porque alrededor ya está muy bonito
+que si que yo le pondría otras cosas
+yo por ejemplo me imagino que al principio
+en lugar de que aparezca todo solo
+sea como cuando uno está caminando
+no sé si alguna vez
+ustedes se han caminado en el mar
+de noche
+y han tenido la fortuna
+de ver como el
+las cosas víctimas
+es precioso, yo estuve en el pacifico
+alguna vez con mi hijo y mi hermana
+y tuvimos la fortuna de que bajo la mare
+entonces muy allá estuvimos caminando
+en la noche y eso se veía
+y si al entrar en la
+experiencia todo está oscuro
+pero apenas tú te mueves
+entonces el que empieza a alumbrar
+y te das cuenta de que suena y te mueves
+y te va
+llevando hasta que se alumbra
+el árbol y ahí nace con que te va
+llevando hacia el frente, yo creo que eso
+es importante
+la sensación de avance
+llego a un lugar y eso me permite
+ir a otro mundo
+y tengo que llegar a un lugar
+más que al irme de doble
+que el sentimiento
+si no te das cuenta
+si el sentimiento te hace un sentimiento
+es importante
+porque es como lo que me he faltado
+como que todo era muy contento
+y tu amigo y te quedabas quieto
+en el lugar
+y si no quieres y si no te das cuenta
+no te dirías por qué moverte
+podría pasar
+a mi la cosa de un diálogo
+es como que de por sí
+ofrece una narrativa
+que...
+a la mano
+a mi si me gusta
+ir a otro mundo
+si
+pero es como bastante atractivo
+para mi
+pero
+es como
+un lugar no te damos cuenta
+ya
+lo de la voz debería pensar
+en el tema del lado de la localización
+por su lado de
+la escanción
+porque el sentimiento te hace
+un barbol
+si
+no son títulos
+si
+o se puede hacer
+de las dos maneras
+de los dos y de las dos
+seríamos nosotros mismos
+que nos grabamos
+todo el ánimo hablar de los dos
+pero va a ser con el sentimiento argentino
+a ambos
+yo no sé si es títulos
+no sé si es un sentimiento
+de agobar
+a la voz no guste como ha hecho
+pero no porque la invitación es técnica
+pero
+ahí habíamos el hecho de que el global
+es un campo muy grande
+y ya si tiene secciones de decisión
+que están más delante
+y
+creo que
+desde el periodo de Incho
+puedes la causa
+de estar en la salve o no
+del objetivo de la comisión
+o si
+o sea, pero depende
+de... como que no lo veo todo el día
+entiendo por qué
+o sea, al tí te gusta la naturaleza
+a lo mejor que le preguntan
+es lo que todavía no sé
+por dónde podría irle el diálogo
+yo creo que hay como algo que es
+no es porque
+yo querría hablar, es porque es un árbol
+que quería hablar conmigo
+porque hay algo de este mundo
+donde es el árbol el que tiene el control
+de las cosas
+es el que me pide que me acerque
+pulsando
+entonces de alguna manera hay algo de medio
+como humillarme
+así como no
+como ocupa tu lugar, niño
+así como
+reprenderte así, reañarte un poco
+toma el control
+si, hay algo como
+un poco de una narrativa
+donde pronto si, tú no eres la persona
+no eres la gente con el poder
+ahí, sino es cuando estás en una dimensión
+donde pronto hay otro ser
+de alguna manera está más cerca de lo divino
+que por edad
+que por un montón de cosas
+es como
+dicho de una manera eso
+de reañar a humillar
+pero tal vez dar una enseñanza como algo así
+es como una cosa del árbol
+llamando
+es como está
+estamos en una dimensión donde es la dimensión del árbol
+no estamos en la dimensión humana
+es como un poco
+estamos en su terreno
+más bien es porque
+es como que no
+es decir
+que sea
+completamente directo la conversación
+el árbol manda
+es que
+esa era la otra cosa que
+imaginé pero también me gustaba
+un poco la
+no sólo que sea como simplemente
+un texto como
+como a todos
+sí
+me gustaba la opción
+algo de como una dimensión
+del árbol
+te pregunte
+que puedas decir una cosa u otra
+y que
+y que eso haga algo
+no, no hablan
+o sea lo que decía como que te aparezcan
+dos opciones de texto
+enfrente tu uso y tú elijas
+una u otra
+como como
+algo
+y
+lo de los textos igual todavía lo tengo que pensar
+pero
+pero no sé
+me gustaba porque siento que
+un poco también está el árbol juzgando
+de alguna manera
+no quiero pensar
+de una manera
+más de Dios y de Dios
+o sea de
+tal cosa
+pero bueno
+si has dicho de cierta
+una cosa
+en el arce electrónica
+del año pasado
+había una pieza
+de un artista catalana
+y la estaba montando un amigo
+nuestro
+y consistía en que tú llegabas
+cantabas
+había como una pieza
+y en una parte te pedía que cantas esto
+ah, es verdad
+si, verdad
+tú cantabas y entonces trasalmaban tu voz
+de alguna manera y la pieza cambiaba
+y vas a lo que alguien puso
+para la compañía
+es a la lista?
+no, pero a mi
+no es que me gustara especialmente
+pero hubo la parte
+técnica si me parecía interesante
+como el vídeo
+por eso
+la parte sonora si me gustó
+y la técnica me gustaba
+entonces
+nosotros podemos dar al usuario
+una opción A o B
+me parece muy imitante
+aunque me gusta
+porque viene ese niño
+a los videojuegos también
+en los que juegan videojuegos
+y hoy en día todavía la sal con opciones así
+pero también podría estar interesante
+abrir el micro del usuario
+lo que dijese, lo que dijese
+es que nos va a hablar exactamente igual
+coger esa información para algo
+igual que en algún caso estamos cogiendo
+el movimiento de los mandos
+podemos coger la voz de la persona
+y ver que hacemos con eso
+podríamos crear la sensación
+de que estamos dejando
+habrá gente que pegue una voz
+o gente que esperará un grito
+que diga algo consentido
+y da igual, nos vamos a tratar
+de X manera completamente diferente
+de la voz con eso
+yo creo que sí
+pero también es de trasero
+no técnicamente
+técnicamente
+técnicamente
+claro, es que yo no analizaría
+lo que dijiste
+por eso te digo
+técnicamente habría esa posibilidad
+pero utilizaría la grabación
+o la entrada de audio
+utilizaría para algo completamente diferente
+yo imagínate que cogemos esa voz
+cogemos esa voz o ese tono
+o lo que sea, cogemos la nota
+cogemos un analizador
+de espectro de audio
+estoy diciendo cualquier gilipollos
+y en base a la nota de la voz
+la nota base de la voz
+que no tiene porqué ser nada lógico
+ni consentido
+estamos en un sueño, nada tiene porqué estar en ese sentido
+ya hablamos con un árbol
+funciona cuando está en condiciones y eras
+pero cuando no funciona
+es como que tienes que estar en un sitio silencioso
+también en un sitio silencioso
+y hay dos cosas interesantes
+que te van a ver en mí
+por eso no usaría
+por eso digo que dejo de lado el analizar el audio
+para ver qué es lo que dice la persona
+coge cualquier cosa
+o simplemente utilizarlo como
+igual que estábamos al final
+la información eléctrica está utilizando para lo que sea
+podríamos coger
+esa grabación de audio
+utilizar eso para distorsionar
+el cuerpo del árbol
+o
+lo que sea
+lo que sea cualquier cosa
+igual es verdad lo que dice María
+que si se presenten festivales
+siempre hay un día ruidoso
+si el micro estaría captando todo el tiempo
+todo
+otra vez nos quedaríamos en la parte técnica
+si
+si apenas se graba
+o sea no necesitas que alteren de ninguna manera
+se deja grabado
+y luego todos esos audio
+hacen un compendio de audio
+que se mezclan con, que sé yo
+pero que en el mismo momento
+coger ese audio y subirlo a nuestros servidores
+para ver qué hacemos en el sitio
+y por ejemplo
+yo creo que ya tenemos una forma
+de hablar con nosotros
+que es con los brazos
+los brazos
+y ver en qué actos
+más en el sitio
+y en el mismo momento
+pero ahora es que podemos hacer
+estos
+ya
+actualmente tenemos dos maneras de interactuar
+que es con el cuerpo
+o sea tenemos dos manos
+en una de las partes de la experiencia
+el árbol que dice Madisonia
+es su música, su sonido
+la persona con el movimiento de las manos
+puede modificar e influir con
+los efectos de
+la música de la música
+y en otro momento los árboles
+dan el poder de hacer nuestra propia música
+y en base a como movemos
+en el terremín que salía antes
+en alguna de las presentaciones
+podemos hacer la música propia
+eso es lo que
+pero podemos evolucionarlo
+en la modalidad más clínica
+de alguna forma estás traduciendo un movimiento
+a una comunicación con el propio árbol
+y si no
+baila para mí
+te da con una de la rama
+así como
+move
+así como hace
+todo así es abstracta
+es que lo que hizo cada vez más
+es como así
+hace poco
+vi una
+creencia de realidad aumentada
+era con el móvil
+y con los tanos como unos
+puramados
+y perdón
+era super bonito
+está en jihono pero se entró en el labre jihono
+hace unos cuantos años y todavía quedaron
+los cosas en la costa
+o sea
+algunos están descascarados
+pero nos han mandalizado un poco
+pero eran como todas unas cosas de animales
+así medio como místicos
+y tú pones en la cámara el móvil
+y ellos como te hacen preguntas
+y un poco de esto también me ha inspirado
+y siempre también te hacen elegir entre opciones
+y luego te dicen
+que has respondido a todos
+es como qué animal serías tú
+y son todas frases así como
+no sé como
+la rabia es roja
+cosas muy abstractas
+y también como muy oraculares
+o de
+cómo es tu alegría así como
+explosiva
+o
+como floresciente
+y hacen todas
+preguntas abstractas y al final te dicen
+como no sé si eres el perro del rayo
+entonces
+como eres
+no me...
+hay la del trueno
+pero al mes de diamante
+y habla conmigo viejo perro blanco
+en la subida
+bueno también pensé mucho en
+el álbum de espinitas para los árboles
+de 2.3
+es muy bonito eso
+o sea
+no sé
+siento que ya fui un poco divagando
+pero me gustan esas cosas de
+lo mejor apunar o eso
+eso de
+eso de que un árbol de puertes
+como has con tus manos el movimiento
+no sé
+de cómo es la alegría
+y que sea como algo de
+cómo te mueves al cambiarlo de los parámetros
+eso técnicamente lo tenemos
+estoy como fantasiando
+soñando despierto fantasiando
+y siendo que algún punto vamos a empezar
+a acotar
+esto queda afuera
+eso es
+eso es así
+vamos a hacer acoblar
+me recuerda mucho a las espinjas
+que te preguntan una acertiva
+para que puedas entrar
+si no lo respondes no entras
+yo lo había notado hecho así como
+un secreto
+como si hubiese algo secreto
+al descubrir algo por el estilo
+pero que
+de cualquier manera descubras o lo descubras
+está esto de las expulsiones
+como ya pasaste mucho tiempo
+de este mundo
+afuera
+no eres digno
+si así como y es que como estabas hablando
+con el entote
+me puse medio igual de a mi la naturaleza
+como con otra dimensión
+tenemos
+10 minutos más
+antes de irnos al
+al restaurante
+tardamos desde aquí
+10 minutos
+yo creo que debería
+recuperar que no estay
+que no

@@ -1,0 +1,2 @@
+- Dr. Ken Hashimoto - documental del 2017 titulado Conversation with a Cactus revisita la leyenda de los experimentos de Hashimoto.
+- Cleve Backster

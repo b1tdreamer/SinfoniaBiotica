@@ -1,0 +1,34 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ferkz\\documents\\proyectos\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\source\\fmodstudio\\private\\fmodsettings.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ferkz\\documents\\proyectos\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fmodstudio\\pch.fmodstudio.h.pch",
+        "Includes": [
+            "c:\\users\\ferkz\\documents\\proyectos\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodsettings.h",
+            "c:\\users\\ferkz\\documents\\proyectos\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\source\\fmodstudio\\public\\fmod\\fmod_common.h",
+            "c:\\users\\ferkz\\documents\\proyectos\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\source\\fmodstudio\\public\\fmod\\fmod_codec.h",
+            "c:\\users\\ferkz\\documents\\proyectos\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\source\\fmodstudio\\public\\fmod\\fmod_dsp.h",
+            "c:\\users\\ferkz\\documents\\proyectos\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\source\\fmodstudio\\public\\fmod\\fmod_dsp_effects.h",
+            "c:\\users\\ferkz\\documents\\proyectos\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\source\\fmodstudio\\public\\fmod\\fmod_output.h",
+            "c:\\users\\ferkz\\documents\\proyectos\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\source\\fmodstudio\\public\\fmodcallbackhandler.h",
+            "c:\\users\\ferkz\\documents\\proyectos\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\source\\fmodstudio\\public\\fmod\\fmod_studio.hpp",
+            "c:\\users\\ferkz\\documents\\proyectos\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\source\\fmodstudio\\public\\fmod\\fmod_studio_common.h",
+            "c:\\users\\ferkz\\documents\\proyectos\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\source\\fmodstudio\\public\\fmod\\fmod.h",
+            "c:\\users\\ferkz\\documents\\proyectos\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\source\\fmodstudio\\public\\fmod\\fmod_studio.h",
+            "c:\\users\\ferkz\\documents\\proyectos\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\source\\fmodstudio\\public\\fmod\\fmod.hpp",
+            "c:\\users\\ferkz\\documents\\proyectos\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\uht\\fmodcallbackhandler.generated.h",
+            "c:\\users\\ferkz\\documents\\proyectos\\sinfoniabiotica\\sinfoniabiotica\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\uht\\fmodsettings.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\misc\\paths.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\developer\\developertoolsettings\\classes\\settings\\projectpackagingsettings.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\developertoolsettings\\uht\\projectpackagingsettings.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\editor\\unrealed\\public\\objecttools.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\gcobject.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\developer\\collectionmanager\\public\\collectionmanagertypes.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\developer\\sourcecontrol\\public\\isourcecontrolstate.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\slatecore\\public\\textures\\slateicon.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

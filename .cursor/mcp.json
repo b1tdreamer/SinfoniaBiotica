@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "unreal-mcp": {
+      "command": "C:\\Users\\ferkz\\.local\\bin\\uvx.exe",
+      "args": ["unreal-engine-mcp"],
+      "env": {
+        "UE_MCP_PROJECT": "C:\\Users\\ferkz\\Documents\\Proyectos\\SinfoniaBiotica\\SinfoniaBiotica\\SinfoniaBiotica.uproject",
+        "UE_MCP_HOST": "127.0.0.1",
+        "UE_MCP_PORT": "30010",
+        "UE_MCP_TRANSPORT": "auto",
+        "UE_MCP_ENGINE_DIRS": "C:\\Program Files\\Epic Games\\UE_5.3"
+      }
+    }
+  }
+}
